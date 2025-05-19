@@ -1,0 +1,294 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What type of object is shown in the image?",
+      "options": {
+        "A": "A wristwatch",
+        "B": "A bracelet",
+        "C": "A ring",
+        "D": "A keychain"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the primary color of the band?",
+      "options": {
+        "A": "Black",
+        "B": "Blue",
+        "C": "Red",
+        "D": "White"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What material is the band made of?",
+      "options": {
+        "A": "Metal",
+        "B": "Rubber",
+        "C": "Leather",
+        "D": "Plastic"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which branding is associated with this band?",
+      "options": {
+        "A": "Nike",
+        "B": "Adidas",
+        "C": "Kessoku Band",
+        "D": "Apple"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What kind of pattern or text is visible on the band?",
+      "options": {
+        "A": "Plain black surface",
+        "B": "English and Japanese characters",
+        "C": "Geometric patterns",
+        "D": "Floral prints"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the purpose of this band?",
+      "options": {
+        "A": "A collectible anime merchandise",
+        "B": "A medical wristband",
+        "C": "A fitness tracker",
+        "D": "A fashion accessory for formal wear"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What feature makes this band adjustable?",
+      "options": {
+        "A": "An elastic design",
+        "B": "A buckle",
+        "C": "A Velcro strap",
+        "D": "A magnetic clasp"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "How is this band usually acquired?",
+      "options": {
+        "A": "Sold in retail stores",
+        "B": "A free promotional item",
+        "C": "Included with anime merchandise",
+        "D": "Purchased at jewelry stores"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is written inside the band?",
+      "options": {
+        "A": "A barcode",
+        "B": "‘NOT FOR SALE’ label",
+        "C": "A manufacturing serial number",
+        "D": "A motivational quote"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What type of audience is this band targeted towards?",
+      "options": {
+        "A": "Anime fans and collectors",
+        "B": "Athletes",
+        "C": "Luxury watch collectors",
+        "D": "Medical professionals"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why is the phrase 'NOT FOR SALE' significant in understanding the value of the band?",
+      "options": {
+        "A": "It suggests the band has manufacturing defects",
+        "B": "It implies that the item was part of an exclusive distribution channel",
+        "C": "It means the band was rejected during quality control",
+        "D": "It shows the band is illegal to sell"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What design element of the band enhances both its aesthetic and tactile qualities?",
+      "options": {
+        "A": "Metal clasp",
+        "B": "Smooth glossy finish",
+        "C": "Embossed emblem and text",
+        "D": "Transparent core"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is the adjustability of the band not considered 'traditional'?",
+      "options": {
+        "A": "It uses an invisible magnetic mechanism",
+        "B": "It lacks any form of resizing feature",
+        "C": "It stretches to accommodate size rather than employing buckles or clips",
+        "D": "It requires heat to mold around the wrist"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What contributes most to the band’s identification with an anime or music fandom?",
+      "options": {
+        "A": "Its matte finish",
+        "B": "The use of Japanese characters and branding",
+        "C": "The rubber material",
+        "D": "Its lightweight size"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why would collectors be interested in the band despite its low material value?",
+      "options": {
+        "A": "Because it is biodegradable",
+        "B": "Because it was sold globally in stores",
+        "C": "Because it signifies insider participation in an exclusive fan community",
+        "D": "Because it is signed by a voice actor"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What functional feature allows the band to be worn without discomfort across different wrist sizes?",
+      "options": {
+        "A": "Pre-punched holes",
+        "B": "Built-in elastic core",
+        "C": "Flexibility of silicone material",
+        "D": "Rotational symmetry"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What makes this band more than just a fashion accessory?",
+      "options": {
+        "A": "It can record heart rate",
+        "B": "It is embedded with NFC chips",
+        "C": "It functions as a wearable collectible with symbolic fan identity",
+        "D": "It can charge a smartphone wirelessly"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What insight about the band’s purpose can be inferred from its minimalist and monochrome style?",
+      "options": {
+        "A": "It emphasizes versatility and collector appeal over flamboyance",
+        "B": "It hides branding to appeal to non-fans",
+        "C": "It is meant for athletic training",
+        "D": "It lacks any clear brand connection"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why might a user prefer this band over a fashion metal bracelet?",
+      "options": {
+        "A": "It contains embedded software",
+        "B": "It has holographic reflection",
+        "C": "It is more comfortable for long-term casual wear",
+        "D": "It’s heavier and gives a premium feel"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What does the inclusion of both English and Japanese text on the band imply?",
+      "options": {
+        "A": "It is meant for bilingual instruction",
+        "B": "It supports cross-regional fan identification",
+        "C": "It targets Japanese-only markets",
+        "D": "It is a prototype design"
+      },
+      "correct_answer": "B"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "question": "The band is primarily colored _______.",
+      "answer": "Black"
+    },
+    {
+      "question": "The band is made of _______ material, making it flexible and durable.",
+      "answer": "Rubber"
+    },
+    {
+      "question": "The text on the band includes both _______ and _______ characters.",
+      "answer": "English, Japanese"
+    },
+    {
+      "question": "The phrase '_______' is printed inside the band, indicating its exclusivity.",
+      "answer": "NOT FOR SALE"
+    },
+    {
+      "question": "The band is a promotional item related to the anime series _______.",
+      "answer": "Kessoku Band"
+    },
+    {
+      "question": "The phrase 'NOT FOR SALE' suggests that the band was distributed through ______ rather than normal retail channels.",
+      "answer": "promotions"
+    },
+    {
+      "question": "The flexible material of the band, likely rubber or silicone, enables it to ______ without breaking.",
+      "answer": "stretch"
+    },
+    {
+      "question": "The band's design style is best described as ______ and minimalist.",
+      "answer": "modern"
+    },
+    {
+      "question": "The embossed elements on the band provide both visual identity and ______ feedback.",
+      "answer": "tactile"
+    },
+    {
+      "question": "The use of Japanese and English on the band supports cross-cultural ______.",
+      "answer": "fandom"
+    }
+  ],
+  "true_false": [
+    {
+      "question": "The band is a limited edition item and not for general sale.",
+      "answer": true
+    },
+    {
+      "question": "The band features a complex geometric pattern.",
+      "answer": false
+    },
+    {
+      "question": "The band has an adjustable buckle to fit different wrist sizes.",
+      "answer": true
+    },
+    {
+      "question": "The band is made of metal.",
+      "answer": false
+    },
+    {
+      "question": "The band is primarily intended as a collectible anime merchandise.",
+      "answer": true
+    },
+    {
+    "question": "The band’s circular shape is optimized for consistent pressure distribution across the wrist.",
+    "answer": true
+    },
+    {
+      "question": "The band’s adjustability relies on physical resizing mechanisms like buttons or clasps.",
+      "answer": false
+    },
+    {
+      "question": "The band being 'NOT FOR SALE' increases its collectible value for fans.",
+      "answer": true
+    },
+    {
+      "question": "The patterns on the band are random decorative swirls.",
+      "answer": false
+    },
+    {
+      "question": "The band’s design intentionally avoids loud colors to appeal to more style-conscious fans.",
+      "answer": true
+    }
+  ],
+  "essay": [
+    {
+      "question": "Describe the purpose, design, and significance of the Kessoku Band wristband.",
+      "answer": "The Kessoku Band wristband is a limited-edition promotional item inspired by a Japanese anime. It is made of flexible black rubber, designed for comfortable wear, and features both English and Japanese characters that reference the fictional band from the anime. The inside of the band includes the label 'NOT FOR SALE,' indicating its exclusivity as a collectible rather than a commercially available product. The minimalist and modern design, along with its high durability, makes it an appealing piece of merchandise for anime enthusiasts and collectors. It serves as a wearable symbol of fandom and a connection to the anime’s fanbase."
+    }
+  ]
+}

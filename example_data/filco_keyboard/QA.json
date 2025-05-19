@@ -1,0 +1,549 @@
+{
+  "multiple_choice": [
+  {
+    "question": "What brand is the keyboard?",
+    "options": {
+      "A": "Logitech",
+      "B": "Filco",
+      "C": "Razer",
+      "D": "HP"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the primary color of the keyboard?",
+    "options": {
+      "A": "White",
+      "B": "Black",
+      "C": "Gray",
+      "D": "Silver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What layout does the keyboard follow?",
+    "options": {
+      "A": "QWERTY",
+      "B": "DVORAK",
+      "C": "AZERTY",
+      "D": "COLEMAK"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the shape of the keyboard?",
+    "options": {
+      "A": "Circular",
+      "B": "Square",
+      "C": "Rectangular",
+      "D": "Hexagonal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the primary material of the keyboard?",
+    "options": {
+      "A": "Plastic",
+      "B": "Metal",
+      "C": "Wood",
+      "D": "Glass"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What kind of connection does the keyboard use?",
+    "options": {
+      "A": "Bluetooth",
+      "B": "Wired",
+      "C": "Infrared",
+      "D": "Wireless dongle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Does the keyboard include a numeric keypad?",
+    "options": {
+      "A": "No",
+      "B": "Yes",
+      "C": "Only optional",
+      "D": "It is removable"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which row contains the 'Backspace' key?",
+    "options": {
+      "A": "Top",
+      "B": "Middle",
+      "C": "Bottom",
+      "D": "It varies"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which key is typically found at the lower-left corner?",
+    "options": {
+      "A": "Alt",
+      "B": "Ctrl",
+      "C": "Shift",
+      "D": "Caps Lock"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Where is the Filco logo located?",
+    "options": {
+      "A": "Top-left",
+      "B": "Center",
+      "C": "Top-right",
+      "D": "Bottom-left"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which of the following is a lock key on the keyboard?",
+    "options": {
+      "A": "Tab",
+      "B": "Esc",
+      "C": "Caps Lock",
+      "D": "Fn"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which key allows scrolling upward in a document?",
+    "options": {
+      "A": "PgUp",
+      "B": "PgDn",
+      "C": "End",
+      "D": "Insert"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which key is generally used to confirm a command?",
+    "options": {
+      "A": "Shift",
+      "B": "Enter",
+      "C": "Esc",
+      "D": "Fn"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which symbol is found on the same key as '2'?",
+    "options": {
+      "A": "@",
+      "B": "#",
+      "C": "$",
+      "D": "%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the primary use of the 'Shift' key?",
+    "options": {
+      "A": "Backspacing",
+      "B": "Capitalizing letters",
+      "C": "Scrolling",
+      "D": "Opening settings"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What section is located at the far right of the keyboard?",
+    "options": {
+      "A": "Navigation keys",
+      "B": "Function keys",
+      "C": "Arrow keys",
+      "D": "Numeric keypad"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "What is the purpose of the 'Fn' key?",
+    "options": {
+      "A": "Lock scroll",
+      "B": "Change keyboard layout",
+      "C": "Activate secondary functions",
+      "D": "Open file manager"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What kind of switches are likely used in this mechanical keyboard?",
+    "options": {
+      "A": "Membrane",
+      "B": "Scissor",
+      "C": "Mechanical",
+      "D": "Optical"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "The Enter key is primarily used to ____.",
+    "options": {
+      "A": "Open files",
+      "B": "Confirm input or execute commands",
+      "C": "Tab between fields",
+      "D": "Control volume"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which key toggles between uppercase and lowercase typing?",
+    "options": {
+      "A": "Ctrl",
+      "B": "Tab",
+      "C": "Caps Lock",
+      "D": "Fn"
+    },
+    "correct_answer": "C"
+  },
+
+  {
+    "question": "Why is a full-size keyboard like this useful for data entry?",
+    "options": {
+      "A": "It includes customizable RGB",
+      "B": "It has a numeric keypad",
+      "C": "It has Bluetooth support",
+      "D": "It is water resistant"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How does the presence of indicator LEDs help users?",
+    "options": {
+      "A": "Shows when battery is low",
+      "B": "Indicates lock key status",
+      "C": "Provides light for dark rooms",
+      "D": "Signals connection type"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What ergonomic drawback might the keyboard have?",
+    "options": {
+      "A": "It lacks tactile feedback",
+      "B": "Its keys are not labeled",
+      "C": "It lacks wrist support",
+      "D": "It only supports Mac"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "How does a mechanical keyboard improve typing speed?",
+    "options": {
+      "A": "By changing layouts automatically",
+      "B": "By providing faster tactile actuation",
+      "C": "By connecting wirelessly",
+      "D": "By reducing key count"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which of the following is true about this keyboard’s usage history?",
+    "options": {
+      "A": "The keys are visibly unused",
+      "B": "The keys are faded, indicating frequent use",
+      "C": "There are no keycaps installed",
+      "D": "The keyboard has missing keys"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why might the white color be chosen for the keyboard?",
+    "options": {
+      "A": "To improve RGB glow",
+      "B": "To match Apple devices",
+      "C": "To enhance key visibility",
+      "D": "To reduce cost"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which component is least likely to be found on this keyboard?",
+    "options": {
+      "A": "Volume knob",
+      "B": "Caps Lock",
+      "C": "Function keys",
+      "D": "Arrow keys"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What would make this keyboard less ideal for travel?",
+    "options": {
+      "A": "Its wired connection",
+      "B": "Its large, heavy structure",
+      "C": "Its lack of macro keys",
+      "D": "Its color"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why would someone use this keyboard in an office?",
+    "options": {
+      "A": "It is quiet and wireless",
+      "B": "It is compact and RGB-lit",
+      "C": "It is full-size with tactile feedback",
+      "D": "It matches the carpet"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What combination is required for inputting special symbols?",
+    "options": {
+      "A": "Shift + letter",
+      "B": "Shift + number",
+      "C": "Ctrl + Alt",
+      "D": "Caps Lock + number"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What makes the keyboard suitable for long-form writing?",
+    "options": {
+      "A": "It has a mic port",
+      "B": "It includes a trackpad",
+      "C": "It provides tactile key feel",
+      "D": "It features voice input"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is the wired connection advantageous for gaming?",
+    "options": {
+      "A": "It glows with RGB",
+      "B": "It reduces input latency",
+      "C": "It reduces power consumption",
+      "D": "It disables Wi-Fi"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which user would benefit most from this keyboard?",
+    "options": {
+      "A": "Professional typist",
+      "B": "Casual mobile gamer",
+      "C": "DJ controller user",
+      "D": "Graphic tablet artist"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which feature may make this keyboard less desirable to RGB fans?",
+    "options": {
+      "A": "No backlighting",
+      "B": "Plastic casing",
+      "C": "Wired connection",
+      "D": "Filco branding"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What key is typically used to interrupt or cancel operations?",
+    "options": {
+      "A": "Esc",
+      "B": "Alt",
+      "C": "Tab",
+      "D": "Fn"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which key allows you to cycle between open applications?",
+    "options": {
+      "A": "Ctrl + Alt",
+      "B": "Alt + Tab",
+      "C": "Shift + Esc",
+      "D": "Caps Lock + Space"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which section of the keyboard contains keys like 'Insert' and 'Delete'?",
+    "options": {
+      "A": "Function row",
+      "B": "Alphanumeric area",
+      "C": "Navigation cluster",
+      "D": "Numeric pad"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "How does the keyboard help users working in spreadsheets?",
+    "options": {
+      "A": "It offers Bluetooth pairing",
+      "B": "It includes macro support",
+      "C": "It has a full numpad for fast data entry",
+      "D": "It connects to projectors"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is this keyboard considered less portable than tenkeyless models?",
+    "options": {
+      "A": "It uses a rare layout",
+      "B": "It has more RGB lighting",
+      "C": "It is larger due to the numpad",
+      "D": "It lacks wireless support"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What makes this keyboard more suitable for precise and error-free typing?",
+    "options": {
+      "A": "Smooth keycaps",
+      "B": "High-profile design",
+      "C": "Mechanical switches with tactile feedback",
+      "D": "Glossy plastic finish"
+    },
+    "correct_answer": "C"
+  }
+],
+  "true_false": [
+  {
+    "question": "<filco_keyboard> is a mechanical keyboard.",
+    "answer": "True"
+  },
+  {
+    "question": "<filco_keyboard> is black in color.",
+    "answer": "False"
+  },
+  {
+    "question": "<filco_keyboard> has a numeric keypad.",
+    "answer": "True"
+  },
+  {
+    "question": "<filco_keyboard> is made of metal.",
+    "answer": "False"
+  },
+  {
+    "question": "<filco_keyboard> supports a standard QWERTY layout.",
+    "answer": "True"
+  },
+  {
+    "question": "<filco_keyboard> has LED backlighting on all keys.",
+    "answer": "False"
+  },
+  {
+    "question": "The keyboard contains three lock indicators: num, caps, and scroll.",
+    "answer": "True"
+  },
+  {
+    "question": "<filco_keyboard> does not include any function keys.",
+    "answer": "False"
+  },
+  {
+    "question": "The presence of wear on keycaps suggests extended prior use.",
+    "answer": "True"
+  },
+  {
+    "question": "<filco_keyboard> is a wireless keyboard with rechargeable batteries.",
+    "answer": "False"
+  },
+  {
+    "question": "The keyboard layout confirms it is intended for English-language users.",
+    "answer": "True"
+  },
+  {
+    "question": "The keyboard does not feature a dedicated Enter key.",
+    "answer": "False"
+  },
+  {
+    "question": "There are symbols like curly brackets on <filco_keyboard>.",
+    "answer": "True"
+  },
+  {
+    "question": "<filco_keyboard>'s Windows key is replaced with a custom symbol.",
+    "answer": "False"
+  },
+  {
+    "question": "There is no visible branding on <filco_keyboard>.",
+    "answer": "False"
+  }
+],
+  "fill_in_the_blank": [
+  {
+    "question": "<filco_keyboard> is manufactured by the brand ____.",
+    "answer": "Filco"
+  },
+  {
+    "question": "<filco_keyboard> follows the ____ layout, common in English-speaking regions.",
+    "answer": "QWERTY"
+  },
+  {
+    "question": "The primary material of <filco_keyboard>'s casing is ____.",
+    "answer": "plastic"
+  },
+  {
+    "question": "The color of <filco_keyboard> is predominantly ____.",
+    "answer": "white"
+  },
+  {
+    "question": "<filco_keyboard> has approximately ____ keys.",
+    "answer": "104"
+  },
+  {
+    "question": "The shape of <filco_keyboard> is ____.",
+    "answer": "rectangular"
+  },
+  {
+    "question": "The indicator lights on <filco_keyboard> show lock states such as ____, ____, and ____.",
+    "answer": "num, caps, scroll"
+  },
+  {
+    "question": "<filco_keyboard> includes a ____ keypad for numeric input.",
+    "answer": "numeric"
+  },
+  {
+    "question": "The total weight of <filco_keyboard> is approximately ____ kilograms.",
+    "answer": "1 to 1.5"
+  },
+  {
+    "question": "The cable visible in the image suggests <filco_keyboard> is a ____ keyboard.",
+    "answer": "wired"
+  },
+  {
+    "question": "<filco_keyboard> uses ____ keys which provide tactile feedback during typing.",
+    "answer": "mechanical"
+  },
+  {
+    "question": "<filco_keyboard> does not feature ____ illumination for its keys.",
+    "answer": "backlighting"
+  },
+  {
+    "question": "The keyboard has been used for some time, indicated by visible ____ on certain keys.",
+    "answer": "wear"
+  },
+  {
+    "question": "The keyboard features a Windows key, indicating compatibility with the ____ operating system.",
+    "answer": "Windows"
+  },
+  {
+    "question": "The ‘Backspace’ key is located on the top-right of the ____ row.",
+    "answer": "alphanumeric"
+  },
+  {
+    "question": "The label ‘Num Lock’ is found on the top-left of the ____ section.",
+    "answer": "numpad"
+  },
+  {
+    "question": "The keys show symbols like ‘{’, ‘}’, ‘@’, and ‘%’, confirming support for ____ input.",
+    "answer": "symbolic"
+  },
+  {
+    "question": "The keyboard includes keys like ‘PgUp’, ‘PgDn’, and ‘Home’, suggesting presence of ____ navigation support.",
+    "answer": "cursor"
+  },
+  {
+    "question": "The placement of arrow keys at the bottom right aligns with the ____ keyboard standard.",
+    "answer": "full-size"
+  },
+  {
+    "question": "‘Filco’ branding appears on the ____ part of the keyboard casing.",
+    "answer": "top-left"
+  }
+]
+}

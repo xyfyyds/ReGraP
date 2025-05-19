@@ -1,0 +1,508 @@
+{
+  "multiple_choice": [
+  {
+    "question": "What is the color of the spoon holder?",
+    "options": {
+      "A": "Black",
+      "B": "White",
+      "C": "Red",
+      "D": "Gray"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the shape of the spoon holder?",
+    "options": {
+      "A": "Circular",
+      "B": "Rectangular",
+      "C": "Hexagonal",
+      "D": "Triangular"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the color of the spoons inside the holder?",
+    "options": {
+      "A": "Red",
+      "B": "Black",
+      "C": "Blue",
+      "D": "White"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What material are the spoons likely made of?",
+    "options": {
+      "A": "Metal",
+      "B": "Plastic",
+      "C": "Wood",
+      "D": "Glass"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What best describes the condition of the item?",
+    "options": {
+      "A": "New",
+      "B": "Used",
+      "C": "Broken",
+      "D": "Refurbished"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How are the spoons arranged?",
+    "options": {
+      "A": "Randomly stacked",
+      "B": "Upright in a holder",
+      "C": "Scattered across the table",
+      "D": "Tied in a bundle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the approximate capacity of the holder?",
+    "options": {
+      "A": "5 spoons",
+      "B": "10–15 spoons",
+      "C": "20–25 spoons",
+      "D": "50+ spoons"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the likely function of the object?",
+    "options": {
+      "A": "Cooking",
+      "B": "Storing spoons",
+      "C": "Decorating tables",
+      "D": "Washing utensils"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What contributes most to the item's stability?",
+    "options": {
+      "A": "Rubber feet",
+      "B": "Wide base",
+      "C": "Metal core",
+      "D": "Magnetic grip"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What best describes the design style?",
+    "options": {
+      "A": "Ornate",
+      "B": "Futuristic",
+      "C": "Simple and functional",
+      "D": "Traditional Chinese"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why might the spoons be red in color?",
+    "options": {
+      "A": "To signify heat resistance",
+      "B": "For aesthetic appeal and visibility",
+      "C": "To match a holiday theme",
+      "D": "Because they are made of rubber"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What makes this item portable?",
+    "options": {
+      "A": "It has wheels",
+      "B": "It’s compact and lightweight",
+      "C": "It folds flat",
+      "D": "It has a strap"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why is this object used in a restaurant setting?",
+    "options": {
+      "A": "To cook food faster",
+      "B": "To serve as a centerpiece",
+      "C": "To keep utensils accessible and organized",
+      "D": "To enhance table lighting"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "How does the design help with hygiene?",
+    "options": {
+      "A": "Spoons are wrapped in paper",
+      "B": "Vertical arrangement keeps handles accessible",
+      "C": "Antibacterial coating",
+      "D": "UV disinfection base"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why is the black holder color practical?",
+    "options": {
+      "A": "It matches most silverware",
+      "B": "It hides stains and enhances contrast",
+      "C": "It is a traditional restaurant standard",
+      "D": "It allows microwaving"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which of the following enhances cleaning efficiency?",
+    "options": {
+      "A": "Detachable parts",
+      "B": "Textured surface",
+      "C": "Smooth, non-porous plastic",
+      "D": "Anti-microbial coating"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is the item suitable for repeated use?",
+    "options": {
+      "A": "It is decorative and ceremonial",
+      "B": "It is durable and easy to clean",
+      "C": "It is disposable",
+      "D": "It is single-use plastic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What makes the item space-efficient?",
+    "options": {
+      "A": "It has a hidden compartment",
+      "B": "Vertical spoon arrangement",
+      "C": "It stacks with other containers",
+      "D": "It is collapsible"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which of the following is a visual design benefit?",
+    "options": {
+      "A": "Bright red spoons improve visibility",
+      "B": "Clear acrylic increases transparency",
+      "C": "Wood finish adds warmth",
+      "D": "LED lighting makes it glow"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What usage context best fits this item?",
+    "options": {
+      "A": "Backyard BBQ",
+      "B": "Buffet or cafeteria",
+      "C": "Home decor",
+      "D": "Tool storage"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How does the upright spoon placement support functionality?",
+    "options": {
+      "A": "Prevents warping",
+      "B": "Speeds up drying",
+      "C": "Enables fast access",
+      "D": "Balances temperature"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why might this utensil holder reduce labor for staff?",
+    "options": {
+      "A": "It cleans itself",
+      "B": "It refills automatically",
+      "C": "It simplifies spoon distribution",
+      "D": "It counts spoons digitally"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What detail suggests the holder is durable?",
+    "options": {
+      "A": "Textured finish",
+      "B": "Presence of wheels",
+      "C": "Sturdy construction for restaurant use",
+      "D": "Transparent lid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What kind of spoons are most likely included?",
+    "options": {
+      "A": "Metal teaspoons",
+      "B": "Plastic soup spoons",
+      "C": "Bamboo coffee stirrers",
+      "D": "Ceramic dessert spoons"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why is the item considered hygienic?",
+    "options": {
+      "A": "Each spoon is wrapped",
+      "B": "Its design avoids hand contact with bowl",
+      "C": "It sprays sanitizer",
+      "D": "It uses infrared sterilization"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How does the design affect user perception?",
+    "options": {
+      "A": "Feels luxurious",
+      "B": "Appears clean and functional",
+      "C": "Looks artistic and symbolic",
+      "D": "Seems fragile and disposable"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What does the combination of red and black suggest?",
+    "options": {
+      "A": "School spirit",
+      "B": "Visibility and contrast",
+      "C": "Holiday celebration",
+      "D": "Eco-friendliness"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "In what situation might this design underperform?",
+    "options": {
+      "A": "Buffet line",
+      "B": "Outdoor picnic",
+      "C": "Busy self-service counter",
+      "D": "Formal plated meal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "What is an unintended benefit of the bright color?",
+    "options": {
+      "A": "Spoons heat faster",
+      "B": "Spoons dry more quickly",
+      "C": "Easier to spot missing spoons",
+      "D": "Improves stacking ability"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is a rectangular base ideal?",
+    "options": {
+      "A": "Prevents spoons from slipping",
+      "B": "Maximizes aesthetic appeal",
+      "C": "Ensures better grip while carrying",
+      "D": "Maximizes stability and spoon arrangement"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "What assumption can you make about its refill frequency?",
+    "options": {
+      "A": "Low, due to high capacity",
+      "B": "High, due to fragile spoons",
+      "C": "Unclear, depends on event",
+      "D": "Constant, due to demand"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What quality ensures it is reusable?",
+    "options": {
+      "A": "Paper packaging",
+      "B": "Silicone handle",
+      "C": "Durable plastic construction",
+      "D": "Reinforced aluminum frame"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What’s a tradeoff of using plastic spoons?",
+    "options": {
+      "A": "More ergonomic",
+      "B": "Less durable than metal",
+      "C": "Easy to recycle",
+      "D": "Higher cost"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why does the item appeal to restaurateurs?",
+    "options": {
+      "A": "Requires no staff interaction",
+      "B": "Organizes utensils visibly and efficiently",
+      "C": "Has branding on every spoon",
+      "D": "Deters theft"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How does the contrast between spoon and holder aid in function?",
+    "options": {
+      "A": "Prevents heat buildup",
+      "B": "Reduces reflection",
+      "C": "Increases visual accessibility",
+      "D": "Adds artistic value"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What might make this unit a poor fit for home dining?",
+    "options": {
+      "A": "Too many spoons",
+      "B": "Too decorative",
+      "C": "Too lightweight",
+      "D": "Too formal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What ensures the spoons do not fall sideways in the holder?",
+    "options": {
+      "A": "A magnetic base",
+      "B": "A tightly packed vertical layout",
+      "C": "Rubberized spoon handles",
+      "D": "Angled bottom surface"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which statement best reflects the portability of the item?",
+    "options": {
+      "A": "It has wheels for rolling",
+      "B": "It is compact and easy to relocate",
+      "C": "It fits into a carrying pouch",
+      "D": "It attaches to a backpack"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How does the black container contribute to functionality?",
+    "options": {
+      "A": "It cools the spoons faster",
+      "B": "It improves contrast and conceals stains",
+      "C": "It softens impact on placement",
+      "D": "It reflects light onto the spoons"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which characteristic makes the holder a good choice for self-service?",
+    "options": {
+      "A": "Lockable lid",
+      "B": "Open top and visible spoon arrangement",
+      "C": "Voice guidance",
+      "D": "Temperature control"
+    },
+    "correct_answer": "B"
+  }
+],
+  "true_false": [
+  {
+    "question": "The spoons in the holder are made of metal.",
+    "answer": false
+  },
+  {
+    "question": "The container holding the spoons is black in color.",
+    "answer": true
+  },
+  {
+    "question": "The spoon holder is circular and stackable.",
+    "answer": false
+  },
+  {
+    "question": "The item is designed to allow quick access to utensils.",
+    "answer": true
+  },
+  {
+    "question": "The spoons are laid flat inside the holder.",
+    "answer": false
+  },
+  {
+    "question": "The design of the utensil holder emphasizes function over decoration.",
+    "answer": true
+  },
+  {
+    "question": "The utensil holder is likely made from ceramic.",
+    "answer": false
+  },
+  {
+    "question": "The holder is portable due to its compact size.",
+    "answer": true
+  },
+  {
+    "question": "This item is meant for single-use and disposal.",
+    "answer": false
+  },
+  {
+    "question": "The red color of the spoons increases their visibility.",
+    "answer": true
+  },
+  {
+    "question": "The design includes a lid to keep the spoons clean.",
+    "answer": false
+  },
+  {
+    "question": "This object is appropriate for buffet or self-service settings.",
+    "answer": true
+  },
+  {
+    "question": "The holder’s flat base contributes to stability.",
+    "answer": true
+  },
+  {
+    "question": "The object has visible branding printed on the spoons.",
+    "answer": false
+  },
+  {
+    "question": "Spoons are stored in a vertical orientation inside the holder.",
+    "answer": true
+  }
+],
+  "fill_in_the_blank": [
+  {
+    "question": "The spoons are colored ______ to enhance visibility against the black holder.",
+    "answer": "red"
+  },
+  {
+    "question": "The utensil holder is shaped like a ______.",
+    "answer": "rectangle"
+  },
+  {
+    "question": "The holder is designed for ______ use, as it shows light wear but remains clean.",
+    "answer": "communal"
+  },
+  {
+    "question": "The upright storage arrangement improves ______ to the spoons.",
+    "answer": "access"
+  },
+  {
+    "question": "The spoon holder is likely constructed from plastic or ______.",
+    "answer": "metal"
+  },
+  {
+    "question": "The smooth surfaces of both the holder and spoons make them easy to ______.",
+    "answer": "clean"
+  },
+  {
+    "question": "Because of its shape and balanced base, the holder remains ______ during use.",
+    "answer": "stable"
+  },
+  {
+    "question": "The object helps maintain hygiene by preventing ______ contact with spoon bowls.",
+    "answer": "hand"
+  },
+  {
+    "question": "This utensil holder is designed for use in settings like ______ or cafeterias.",
+    "answer": "buffets"
+  },
+  {
+    "question": "The object has a simple, ______ design that focuses on practicality.",
+    "answer": "functional"
+  }
+]
+}

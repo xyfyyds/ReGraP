@@ -1,0 +1,1642 @@
+{
+    "./yollava-data/train/bottle_of_water/0.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/1.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/2.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/3.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/4.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/5.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/6.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/7.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/8.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/9.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/10.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/11.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/12.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/13.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/14.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/15.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/16.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/17.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/18.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ],
+    "./yollava-data/train/bottle_of_water/19.png": [
+        {
+            "Human": "What is the object of <bottle_of_water>?",
+            "AI": "Examining the image, the object appears to be a structured drinking glass with a transparent liquid inside. Given the clarity of the liquid, it is likely water. The glass has a design that provides stability and ease of use, making it a practical drinking vessel. Therefore, <bottle_of_water> refers to a drinking glass that is partially filled with water."
+        },
+        {
+            "Human": "What is the color of <bottle_of_water>?",
+            "AI": "The drinking glass itself is transparent, but it has a faint blue hue due to the refraction of light through the material. The water remains colorless, which is characteristic of clean, pure water. The blue tint of the glass gives it a subtle aesthetic appeal."
+        },
+        {
+            "Human": "What is the size of <bottle_of_water>?",
+            "AI": "<bottle_of_water> appears to have a capacity of approximately 400ml, based on the proportions and standard sizes of similar drinking glasses."
+        },
+        {
+            "Human": "What is the overall view of <bottle_of_water>?",
+            "AI": "The glass has a modern design with vertical facets that provide both functional grip and aesthetic value. Condensation on the surface suggests that it has been used to hold a cold beverage recently. The structure allows for a clear view of the water level inside."
+        },
+        {
+            "Human": "What is the shape of <bottle_of_water>?",
+            "AI": "The glass has a slightly tapered cylindrical shape, with a wider opening at the top that narrows toward the base. The vertical facets on its body add a geometric element to its design."
+        },
+        {
+            "Human": "What is the material of <bottle_of_water>?",
+            "AI": "The drinking glass is made of high-transparency glass, which ensures a clear view of the contents. The material is smooth, durable, and resistant to temperature changes."
+        },
+        {
+            "Human": "What is the texture of <bottle_of_water>?",
+            "AI": "The glass has a smooth surface, but the vertical facets add a slightly textured feel, improving grip and making it easier to hold."
+        },
+        {
+            "Human": "What is the pattern of <bottle_of_water>?",
+            "AI": "There is no decorative pattern on the glass; it has a minimalistic and clean design. The only distinguishing feature is the evenly spaced vertical facets, which contribute to its grip and aesthetic appeal."
+        },
+        {
+            "Human": "What is the feature of <bottle_of_water>?",
+            "AI": "The primary features of <bottle_of_water> include its transparency, ergonomic design, and vertical facets. The wide opening makes it easy to drink from, while the sturdy base prevents tipping. The slightly blue tint enhances its visual appeal."
+        },
+        {
+            "Human": "What is the function of <bottle_of_water>?",
+            "AI": "The primary function of <bottle_of_water> is to serve as a drinking vessel. The glass is designed to hold various beverages, particularly water, and its transparency allows the user to monitor the liquid level easily."
+        },
+        {
+            "Human": "What is the volume of <bottle_of_water>?",
+            "AI": "Based on the typical dimensions of glasses with similar shapes, the volume of <bottle_of_water> is estimated to be around 400-500ml, making it suitable for a standard serving of water or other beverages."
+        },
+        {
+            "Human": "Is <bottle_of_water> used for cold or hot liquids?",
+            "AI": "The presence of condensation on the glass suggests that it is primarily used for cold beverages. However, since it is made of glass, it can also accommodate hot liquids if necessary."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used for other liquids besides water?",
+            "AI": "Yes, while the glass currently contains water, it is designed for multiple beverages, including juice, tea, soda, and alcoholic drinks. Its neutral design makes it versatile."
+        },
+        {
+            "Human": "What kind of design does <bottle_of_water> have?",
+            "AI": "The design is modern and functional, featuring vertical facets for improved grip, a slightly tapered cylindrical shape for stability, and a wide opening for easy drinking. The transparency allows for easy monitoring of the contents."
+        },
+        {
+            "Human": "Does <bottle_of_water> have any branding or labels?",
+            "AI": "No branding or labels are visible on the glass, suggesting that it is a generic drinking glass intended for general use."
+        },
+        {
+            "Human": "What makes <bottle_of_water> stand out among other glasses?",
+            "AI": "The vertical facets provide a distinct look while also improving the user's grip. The slight blue tint adds aesthetic appeal, while the overall shape enhances stability and usability."
+        },
+        {
+            "Human": "Can <bottle_of_water> be used outdoors?",
+            "AI": "Yes, <bottle_of_water> can be used outdoors, but care should be taken since it is made of glass. It is suitable for casual and formal occasions, including picnics and outdoor gatherings."
+        },
+        {
+            "Human": "What is the weight of <bottle_of_water>?",
+            "AI": "The estimated weight of <bottle_of_water> is between 200-300 grams when empty. With water inside, the total weight would be around 600-700 grams, depending on the fill level."
+        },
+        {
+            "Human": "Is <bottle_of_water> dishwasher safe?",
+            "AI": "Yes, the glass is likely dishwasher safe. However, caution is advised to prevent potential damage from high temperatures or high-pressure washing. Hand washing is recommended for longevity."
+        },
+        {
+            "Human": "How can I clean <bottle_of_water> properly?",
+            "AI": "To clean <bottle_of_water>, use warm soapy water and a soft sponge. Ensure both the interior and exterior are thoroughly rinsed to remove soap residue. If using a dishwasher, place it on the top rack for added safety."
+        }
+    ]
+}

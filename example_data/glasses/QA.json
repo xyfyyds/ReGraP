@@ -1,0 +1,509 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What material are the frames of the glasses most likely made of?",
+      "options": {
+        "A": "Wood",
+        "B": "Metal",
+        "C": "Plastic",
+        "D": "Rubber"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the primary function of these glasses?",
+      "options": {
+        "A": "Fashion accessory",
+        "B": "Reading aid",
+        "C": "Vision correction",
+        "D": "Safety protection"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What color are the temple arms of the glasses?",
+      "options": {
+        "A": "Black",
+        "B": "Grey",
+        "C": "Blue",
+        "D": "Silver"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Where is the brand name most likely printed?",
+      "options": {
+        "A": "On the lens",
+        "B": "On the bridge",
+        "C": "On the inner temple arm",
+        "D": "On the nose pad"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following best describes the nose pad type?",
+      "options": {
+        "A": "Adjustable metal",
+        "B": "Built-in plastic",
+        "C": "Silicone pad",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following dimensions is mentioned in the temple arm?",
+      "options": {
+        "A": "52□17-143",
+        "B": "45□15-138",
+        "C": "58□20-140",
+        "D": "50□16-144"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What type of object are these images mainly focused on?",
+      "options": {
+        "A": "Headphones",
+        "B": "Table",
+        "C": "Eyeglasses",
+        "D": "Watch"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the dominant color of the frame front?",
+      "options": {
+        "A": "White",
+        "B": "Grey",
+        "C": "Black",
+        "D": "Brown"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What surface do the glasses rest on in several images?",
+      "options": {
+        "A": "Fabric",
+        "B": "Wood",
+        "C": "Marble-like stone",
+        "D": "Plastic tray"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is true about the lens design?",
+      "options": {
+        "A": "Round and thick",
+        "B": "Rectangular and rimless",
+        "C": "Full-rimmed rectangular",
+        "D": "Clip-on type"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Given the temple arm dimensions 52□17-143, what does 52 represent?",
+      "options": {
+        "A": "Temple length in mm",
+        "B": "Lens width in mm",
+        "C": "Bridge width in mm",
+        "D": "Frame width in mm"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why might the frame's material be suitable for long-term wear?",
+      "options": {
+        "A": "It's heavy and durable",
+        "B": "It's flexible and breathable",
+        "C": "It's lightweight and hypoallergenic",
+        "D": "It's transparent and fashionable"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What function do the temple tips serve?",
+      "options": {
+        "A": "Provide hinge movement",
+        "B": "Allow size adjustment",
+        "C": "Enhance ear comfort",
+        "D": "Support nose bridge"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What conclusion can be drawn from the temple arm inscription 'SeeSaw'?",
+      "options": {
+        "A": "The brand is playful in theme",
+        "B": "The glasses are balanced",
+        "C": "They are designed for sports",
+        "D": "They are meant for children"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "How does the rectangular lens shape benefit the wearer?",
+      "options": {
+        "A": "Reduces screen glare",
+        "B": "Provides larger vision area",
+        "C": "Adds stylish curves",
+        "D": "Minimizes distortion"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the likely purpose of the flexible hinges?",
+      "options": {
+        "A": "Allow 360-degree rotation",
+        "B": "Improve ventilation",
+        "C": "Reduce breakage risk",
+        "D": "Attach sunglass clips"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "If a user has a wider face, which dimension matters most?",
+      "options": {
+        "A": "Lens height",
+        "B": "Bridge width",
+        "C": "Temple length",
+        "D": "Lens width"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Why might someone choose this model over rimless frames?",
+      "options": {
+        "A": "Greater durability",
+        "B": "More adjustability",
+        "C": "Enhanced fashion",
+        "D": "Lower price"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What role does the bridge width play?",
+      "options": {
+        "A": "It controls temple length",
+        "B": "It dictates color",
+        "C": "It affects nose fit",
+        "D": "It determines hinge strength"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What does the presence of nose pads suggest?",
+      "options": {
+        "A": "They are made for children",
+        "B": "They are adjustable",
+        "C": "They improve comfort",
+        "D": "They indicate metal frames"
+      },
+      "correct_answer": "C"
+    },
+  {
+    "question": "What does the marking '52□17-143' suggest about these glasses?",
+    "options": {
+      "A": "They are sunglasses with polarized lenses",
+      "B": "They are designed for wide faces",
+      "C": "They follow standard size conventions for optical frames",
+      "D": "They are child-size frames"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why are the temple arms curved at the ends?",
+    "options": {
+      "A": "To fold more compactly",
+      "B": "To improve aesthetic appeal",
+      "C": "To grip behind the ears for better stability",
+      "D": "To support hearing aids"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What inference can be made about the wearer's lifestyle from the style of the glasses?",
+    "options": {
+      "A": "They likely engage in extreme sports",
+      "B": "They value subtle, functional fashion",
+      "C": "They prefer retro or novelty styles",
+      "D": "They use glasses only occasionally"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why is the color of the frame important in optical wear?",
+    "options": {
+      "A": "It defines the prescription strength",
+      "B": "It influences visual clarity",
+      "C": "It contributes to style and user preference",
+      "D": "It affects how the lenses reflect light"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "How does the rectangular lens shape affect peripheral vision?",
+    "options": {
+      "A": "It blocks side light entirely",
+      "B": "It enhances wide horizontal visibility",
+      "C": "It reduces forward depth perception",
+      "D": "It distorts vertical alignment"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the primary role of the hinges in glasses?",
+    "options": {
+      "A": "To determine lens color",
+      "B": "To hold the lenses in place",
+      "C": "To allow foldability and flexibility",
+      "D": "To support the bridge"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "If a user complains the glasses slide down often, what part likely needs adjustment?",
+    "options": {
+      "A": "Temple arm length",
+      "B": "Lens thickness",
+      "C": "Bridge width",
+      "D": "Nose pad positioning"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "What visual design feature makes these glasses look modern?",
+    "options": {
+      "A": "Overly round lens shape",
+      "B": "Full black frame with clean corners",
+      "C": "Gold decorative hinges",
+      "D": "Transparent lenses"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why might the glasses use plastic rather than metal?",
+    "options": {
+      "A": "To reduce environmental waste",
+      "B": "To increase premium feel",
+      "C": "To make them heavier",
+      "D": "To reduce weight and improve comfort"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "Why is the lens thickness not explicitly visible in the image?",
+    "options": {
+      "A": "They are contact lenses",
+      "B": "The prescription is likely mild or none",
+      "C": "The frame blocks view of lenses",
+      "D": "The image was blurred"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What might the brand name 'SeeSaw' imply metaphorically?",
+    "options": {
+      "A": "It’s designed for children",
+      "B": "It represents visual balance or clarity",
+      "C": "It suggests dual-purpose sunglasses",
+      "D": "It reflects instability"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "If a user had wider than average temples, which number in '52□17-143' matters most?",
+    "options": {
+      "A": "52",
+      "B": "17",
+      "C": "143",
+      "D": "All equally"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What does the bridge width (17 mm) most influence?",
+    "options": {
+      "A": "Clarity of vision",
+      "B": "Ear pressure",
+      "C": "Nose fit and comfort",
+      "D": "Frame material"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is the presence of fixed nose pads acceptable in this design?",
+    "options": {
+      "A": "The glasses are adjustable via arms",
+      "B": "Plastic nose pads are universally comfortable",
+      "C": "The plastic frame already balances pressure across the nose",
+      "D": "There are built-in metal supports"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why might someone prefer this style over rimless options?",
+    "options": {
+      "A": "They want to reduce lens distortion",
+      "B": "They seek durability and defined style",
+      "C": "They require advanced light filters",
+      "D": "They need curved prescription lenses"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How do the straight, thick arms affect the glasses' function?",
+    "options": {
+      "A": "They hide audio equipment",
+      "B": "They make storage easier",
+      "C": "They provide better grip and stability",
+      "D": "They reduce lens glare"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What does the absence of screws in the nose area suggest?",
+    "options": {
+      "A": "Increased cost",
+      "B": "Simplified design and comfort",
+      "C": "Adjustable nose bridge",
+      "D": "Metal frame structure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "If the glasses were too tight on the temples, what could be the cause?",
+    "options": {
+      "A": "Bridge too wide",
+      "B": "Temple arms too short or inflexible",
+      "C": "Lenses too thin",
+      "D": "Frame is too light"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why might the flat bridge design work for many users?",
+    "options": {
+      "A": "It increases weight and durability",
+      "B": "It provides minimalist appearance and even pressure",
+      "C": "It aligns better with round lenses",
+      "D": "It enhances lens curvature"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which of the following is most essential when choosing glasses for daily wear?",
+    "options": {
+      "A": "Color variety",
+      "B": "Brand name",
+      "C": "Comfort and stability",
+      "D": "Social media reviews"
+    },
+    "correct_answer": "C"
+  }
+  ],
+  "true_false": [
+  {
+    "question": "The glasses are full-rimmed and rectangular in shape.",
+    "answer": true
+  },
+  {
+    "question": "The temple arm is marked with size dimensions in the format 52□17-143.",
+    "answer": true
+  },
+  {
+    "question": "The frame of the glasses appears to be made of metal.",
+    "answer": false
+  },
+  {
+    "question": "The glasses have adjustable silicone nose pads.",
+    "answer": false
+  },
+  {
+    "question": "The inner side of the temple arm contains brand information.",
+    "answer": true
+  },
+  {
+    "question": "These glasses are primarily used for hearing enhancement.",
+    "answer": false
+  },
+  {
+    "question": "The lenses are transparent and suitable for vision correction.",
+    "answer": true
+  },
+  {
+    "question": "The hinges allow folding and enhance the durability of the glasses.",
+    "answer": true
+  },
+  {
+    "question": "The bridge width of 17 mm ensures the glasses sit comfortably on the nose.",
+    "answer": true
+  },
+  {
+    "question": "The glasses feature a round lens design.",
+    "answer": false
+  },
+  {
+    "question": "Temple tips are slightly curved to provide a secure fit behind the ears.",
+    "answer": true
+  },
+  {
+    "question": "The glasses rest on a marble-like stone surface in multiple images.",
+    "answer": true
+  },
+  {
+    "question": "The SeeSaw brand indicates that the glasses are meant for outdoor sports.",
+    "answer": false
+  },
+  {
+    "question": "The plastic frame contributes to both lightweight comfort and durability.",
+    "answer": true
+  },
+  {
+    "question": "The absence of visible screws suggests a simplified design for everyday use.",
+    "answer": true
+  }
+],
+  "fill_in_the_blank": [
+  {
+    "question": "The glasses have a frame width of ______ mm, as indicated by the first number in the size format.",
+    "answer": "52"
+  },
+  {
+    "question": "The bridge width of the glasses is ______ mm.",
+    "answer": "17"
+  },
+  {
+    "question": "The full size dimension marked on the glasses is ______.",
+    "answer": "52□17-143"
+  },
+  {
+    "question": "The glasses feature a ______ frame design that fully encloses the lenses.",
+    "answer": "rectangular"
+  },
+  {
+    "question": "The frame material appears to be ______, contributing to lightweight comfort.",
+    "answer": "plastic"
+  },
+  {
+    "question": "The temple arms have a ______ color finish that contrasts with the black front.",
+    "answer": "gray"
+  },
+  {
+    "question": "The curved temple tips provide stability behind the ______.",
+    "answer": "ears"
+  },
+  {
+    "question": "The inner side of the frame includes the brand name ______.",
+    "answer": "SeeSaw"
+  },
+  {
+    "question": "The glasses rest on a marble-like ______ surface in multiple images.",
+    "answer": "stone"
+  },
+  {
+    "question": "The lens shape is designed to maximize the ______ field of vision.",
+    "answer": "horizontal"
+  }
+]
+
+}

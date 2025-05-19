@@ -1,0 +1,1242 @@
+{
+    "./yollava-data/train/band/0.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/1.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/2.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/3.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/4.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/5.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/6.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/7.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/8.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/9.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/10.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/11.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/12.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/13.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/14.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/15.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/16.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/17.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/18.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ],
+    "./yollava-data/train/band/19.png": [
+        {
+            "Human": "What is the object of <band>?",
+            "AI": "The object in question is a bracelet or band. This is identified by its circular shape and the material from which it is made. The design is a type of accessory typically worn on the wrist. It is made to be worn comfortably and may feature a buckle for easy adjustment. The band is a part of a collection or merchandise associated with a specific brand or theme."
+        },
+        {
+            "Human": "What is the color of the object of <band>?",
+            "AI": "The object of <band> is black. The color is a solid black, which is commonly chosen for its simplicity, versatility, and ability to match with various outfits. The dark color adds to the sleek and understated design of the band, making it a suitable accessory for a wide range of people."
+        },
+        {
+            "Human": "What is the shape of the object of <band>?",
+            "AI": "The shape of <band> is circular. The round shape is standard for wristbands or bracelets, as it allows for a comfortable fit around the wrist. This shape helps to evenly distribute pressure around the wrist and prevents the accessory from causing discomfort when worn. The circular design also gives it a clean, uniform appearance."
+        },
+        {
+            "Human": "What is the material of the object of <band>?",
+            "AI": "The material of the object of <band> is rubber. Rubber is commonly used for bands due to its flexibility, durability, and comfort. The rubber material ensures that the band can stretch and adjust to the wrist size, making it comfortable for extended wear. Additionally, rubber is resistant to wear and tear, which increases the longevity of the band."
+        },
+        {
+            "Human": "What is the brand of <band>?",
+            "AI": "The brand of the band is Kessoku Band. This brand is associated with a fictional group or entity, likely inspired by a Japanese anime or media franchise. The branding suggests that the band is a piece of merchandise related to the anime, aimed at fans or collectors who follow the series."
+        },
+        {
+            "Human": "What is the source of <band>?",
+            "AI": "The band is a promotional item derived from a Japanese anime. It is likely created as a piece of merchandise to promote the anime series, specifically targeted toward fans who are interested in acquiring exclusive items related to the show. This particular band may have been offered as part of a special collection or for purchases made by fans of the anime."
+        },
+        {
+            "Human": "What is the feature of <band>?",
+            "AI": "The band features a buckle. This allows the band to be adjustable, ensuring a secure and comfortable fit for individuals with different wrist sizes. The buckle serves both a functional purpose, helping the band stay in place, and adds an aesthetic touch to the design. It also gives the band a more polished, custom fit."
+        },
+        {
+            "Human": "What is the size of <band>?",
+            "AI": "The size of the band is small. This indicates that the band is designed for individuals with smaller wrist sizes or as a limited edition accessory meant to fit the majority of people. The small size also suggests that it may be intended for more casual or fashionable wear, as opposed to being purely functional."
+        },
+        {
+            "Human": "Is it a normal good?",
+            "AI": "No, this is not a normal good. The band is not available for general sale. It is a limited edition item, likely provided as a gift for those who purchased a specific product such as a CD. This makes it an exclusive item, not meant for regular retail distribution."
+        },
+        {
+            "Human": "What are the patterns on <band>?",
+            "AI": "The patterns on the band include the logo of the anime and both English and Japanese characters, which represent the name of the fictional band from the anime. These patterns not only serve a decorative purpose but also help identify the band as a piece of merchandise connected to the anime, creating a link between the fanbase and the media."
+        },
+        {
+            "Human": "What is the durability of <band>?",
+            "AI": "The durability of the <band> is high, as it is made from rubber, which is known for its resilience. Rubber can withstand wear and tear, making the band resistant to damage from regular use. It is flexible and elastic, so it will retain its shape even after being worn frequently. This durability makes the band suitable for long-term use without significant wear or tear."
+        },
+        {
+            "Human": "What is the design style of <band>?",
+            "AI": "The design style of <band> is minimalist and modern. It features clean lines and a simple yet striking look, with a focus on the logo and text, which makes it easily recognizable. The black color and smooth rubber material enhance the modern, sleek aesthetic, making the band stylish and appealing to those who appreciate subtle, contemporary design."
+        },
+        {
+            "Human": "Is <band> adjustable?",
+            "AI": "Yes, the <band> is adjustable. Thanks to the buckle, it can be adjusted to fit different wrist sizes. The adjustability makes it versatile, allowing it to be worn comfortably by a variety of people. This feature ensures that the band stays securely in place without being too tight or loose, enhancing its practicality."
+        },
+        {
+            "Human": "What is the weight of <band>?",
+            "AI": "The weight of the <band> is light. Rubber is a lightweight material, and the design of the band does not incorporate heavy components, making it comfortable to wear for extended periods. The light weight contributes to the overall comfort, as it does not cause any strain on the wrist, even when worn all day."
+        },
+        {
+            "Human": "What is the flexibility of <band>?",
+            "AI": "The flexibility of the <band> is high. As it is made of rubber, it is designed to stretch and bend easily, which makes it comfortable to wear and ensures that it can accommodate various wrist sizes. The rubber material allows the band to mold to the shape of the wrist without losing its form, offering a snug and comfortable fit. This flexibility also enhances its durability, as it can withstand bending and stretching without breaking."
+        }
+    ]
+}

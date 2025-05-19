@@ -1,0 +1,1242 @@
+{
+    "./yollava-data/train/cd_driver/0.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/1.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/2.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/3.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/4.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/5.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/6.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/7.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/8.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/9.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/10.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/11.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/12.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/13.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/14.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/15.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/16.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/17.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/18.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ],
+    "./yollava-data/train/cd_driver/19.png": [
+        {
+            "Human": "What is the object of <cd_driver>?",
+            "AI": "Examining the image, the object appears to be a sleek, portable device featuring a disc tray and USB cables. Given the presence of the Asus logo and its structure, it is identifiable as an external optical drive, commonly used for reading and writing CDs and DVDs. The design indicates it is meant for external use, separate from internal computer components. Hence, <cd_driver> is an external optical disc drive."
+        },
+        {
+            "Human": "What is the brand of <cd_driver>?",
+            "AI": "The branding on the device is clearly marked with 'Asus,' a recognized manufacturer of electronic and computer accessories. The positioning and engraving of the logo confirm that the product belongs to the Asus brand, which is known for producing reliable external drives. Therefore, the brand of <cd_driver> is Asus."
+        },
+        {
+            "Human": "What is the color of <cd_driver>?",
+            "AI": "The device showcases a metallic silver exterior, characterized by a polished and uniform finish. This color is consistent with Asus' premium product designs, ensuring a modern and professional aesthetic. Thus, the color of <cd_driver> is silver."
+        },
+        {
+            "Human": "What is the shape of <cd_driver>?",
+            "AI": "The external drive adopts a slim, rectangular profile with defined edges and a flat surface. This design facilitates portability and easy placement on desks or storage compartments. The shape is optimized for compactness and functionality. Thus, the shape of <cd_driver> is a slim rectangle."
+        },
+        {
+            "Human": "What is the material of <cd_driver>?",
+            "AI": "The outer casing of the drive is constructed from a metallic material, likely aluminum, which enhances durability while maintaining a lightweight structure. The internal mechanisms, including the disc tray, are composed of plastic components to support smooth operation. This material selection ensures efficiency and longevity. Hence, <cd_driver> is made of metal and plastic."
+        },
+        {
+            "Human": "What is the condition of <cd_driver>?",
+            "AI": "Based on visual observation, there are no apparent scratches, dents, or signs of extensive wear. The exterior maintains a clean and intact finish, while the cables remain undamaged. The functionality of the disc tray also appears normal. Thus, <cd_driver> is in good condition."
+        },
+        {
+            "Human": "Is <cd_driver> in use now?",
+            "AI": "Although the CD/DVD tray is open, no disc is present, and the USB cables are unplugged. This indicates that the device is not currently operational. A drive in use would typically be powered and actively reading or writing data. Therefore, <cd_driver> is not in use at the moment."
+        },
+        {
+            "Human": "Is <cd_driver> open or closed?",
+            "AI": "In the image, the tray is visibly extended outward, revealing the internal disc-reading mechanism. This state confirms that the drive is in an open configuration. External optical drives remain closed when inactive and open when inserting or ejecting a disc. Thus, <cd_driver> is open."
+        },
+        {
+            "Human": "What type of cable does <cd_driver> use?",
+            "AI": "The device features a dual-USB cable setup, where one cable is responsible for data transfer and the other likely serves as a power supply. This configuration is standard for external drives that require additional power to function efficiently. Consequently, <cd_driver> uses a dual-USB cable system."
+        },
+        {
+            "Human": "Is <cd_driver> portable?",
+            "AI": "The compact and lightweight design of the device, along with its USB-powered functionality, suggests a strong emphasis on portability. Unlike internal drives, it does not require additional power adapters, making it an ideal solution for mobile users. Thus, <cd_driver> is highly portable."
+        },
+        {
+            "Human": "What is the primary function of <cd_driver>?",
+            "AI": "The primary function of this external drive is to read and write optical discs, enabling users to play CDs, install software, burn data onto discs, and watch DVDs. Given the decreasing presence of built-in drives in modern computers, external CD/DVD drives remain an essential accessory. Therefore, the main function of <cd_driver> is to read and write optical discs."
+        },
+        {
+            "Human": "What is the power source of <cd_driver>?",
+            "AI": "Since <cd_driver> operates through a USB connection, it draws power directly from the computer it is connected to. Unlike older optical drives requiring separate power adapters, this model is entirely USB-powered, increasing convenience and portability. Thus, <cd_driver> is powered via USB."
+        },
+        {
+            "Human": "What is the design style of <cd_driver>?",
+            "AI": "The drive exhibits a clean, minimalistic aesthetic with a brushed metallic finish and sharp contours. Asus has integrated a professional look with modern functionality, making it suitable for business and personal use. Thus, <cd_driver> has a modern and sleek design."
+        },
+        {
+            "Human": "Does <cd_driver> require additional drivers to function?",
+            "AI": "Most modern external drives, including this Asus model, support plug-and-play functionality, meaning they work seamlessly when connected to a computer. However, for specialized tasks such as burning DVDs, additional software may be required. Thus, <cd_driver> generally does not require additional drivers but may need specific software for advanced features."
+        },
+        {
+            "Human": "Is <cd_driver> compatible with all computers?",
+            "AI": "The device utilizes a USB-A interface, making it compatible with most computers that support this port. However, newer laptops that exclusively feature USB-C ports may require an adapter to use this drive. Thus, <cd_driver> is compatible with most computers but may need an adapter for certain models."
+        }
+    ]
+}

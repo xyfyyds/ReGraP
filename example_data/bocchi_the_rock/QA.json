@@ -1,0 +1,489 @@
+{
+  "multiple_choice": [
+  {
+    "question": "Who is the pink-haired girl?",
+    "options": {
+      "A": "Ryo",
+      "B": "Nijika",
+      "C": "Bocchi",
+      "D": "Kita"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Who is the blue-haired girl?",
+    "options": {
+      "A": "Bocchi",
+      "B": "Ryo",
+      "C": "Nijika",
+      "D": "Kita"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Who is the yellow-haired girl?",
+    "options": {
+      "A": "Bocchi",
+      "B": "Nijika",
+      "C": "Ryo",
+      "D": "Kita"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Who is the red-haired girl in Kessoku Band?",
+    "options": {
+      "A": "Nijika",
+      "B": "Kita",
+      "C": "Ryo",
+      "D": "Bocchi"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which two members of Kessoku Band attend School A, in a lower grade?",
+    "options": {
+      "A": "Nijika and Ryo",
+      "B": "Nijika and Bocchi",
+      "C": "Kita and Bocchi",
+      "D": "Kita and Nijika"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which two members of Kessoku Band attend School B, in a higher grade?",
+    "options": {
+      "A": "Bocchi and Ryo",
+      "B": "Nijika and Ryo",
+      "C": "Bocchi and Kita",
+      "D": "Kita and Nijika"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Who is the leader of Kessoku Band?",
+    "options": {
+      "A": "Bocchi",
+      "B": "Nijika",
+      "C": "Ryo",
+      "D": "Kita"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is Bocchi's role in the band?",
+    "options": {
+      "A": "I dont know",
+      "B": "Guitarist",
+      "C": "Drummer",
+      "D": "Bassist"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is Ryo's role in the band?",
+    "options": {
+      "A": "Drummer",
+      "B": "Bassist",
+      "C": "Guitarist",
+      "D": "Vocalist"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is Nijika's role in the band?",
+    "options": {
+      "A": "Vocalist",
+      "B": "Single Guitarist",
+      "C": "Guitarist",
+      "D": "Drummer and leader"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "What is Kita's role in the band?",
+    "options": {
+      "A": "Drummer",
+      "B": "Bassist",
+      "C": "Guitarist and Vocalist",
+      "D": "Keyboardist"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Who invited Bocchi to join Kessoku Band?",
+    "options": {
+      "A": "Ryo",
+      "B": "Nijika",
+      "C": "Kita",
+      "D": "Bocchi joined on her own"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Who helped Kita rejoin Kessoku Band after she left?",
+    "options": {
+      "A": "Ryo",
+      "B": "She does not rejoin",
+      "C": "Bocchi",
+      "D": "She rejoined on her own"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which two members are in the same grade as each other but in a lower grade than the other two, answer the letter?",
+    "options": {
+      "A": "Bocchi and Nijika",
+      "B": "Ryo and Nijika",
+      "C": "Kita and Bocchi",
+      "D": "Ryo and Kita"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which two members are in the same grade as each other and in a higher grade than the other two, answer the letter?",
+    "options": {
+      "A": "Ryo and Nijika",
+      "B": "No one",
+      "C": "Kita and Bocchi",
+      "D": "Kita nad Ryo"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the relationship between Bocchi and Kita?",
+    "options": {
+      "A": "They are strangers",
+      "B": "They are rivals",
+      "C": "They dislike each other",
+      "D": "They are classmates and close friends"
+    },
+    "correct_answer": "D"
+  },
+    {
+    "question": "Which following description of the relationship between Bocchi and Kita is correct?",
+    "options": {
+      "A": "They are potential couple",
+      "B": "They are twins",
+      "C": "They usually live together",
+      "D": "They do not know each other"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the relationship between Ryo and Nijika?",
+    "options": {
+      "A": "They are classmates and close friends",
+      "B": "They are rivals",
+      "C": "They dislike each other",
+      "D": "They are strangers"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the relationship between Bocchi and Nijika?",
+    "options": {
+      "A": "They are close friends, and Nijika invited Bocchi to join the band",
+      "B": "They are rivals",
+      "C": "They dislike each other",
+      "D": "They are cousins"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the relationship between Kita and Ryo?",
+    "options": {
+      "A": "Kita admires Ryo as her senior",
+      "B": "They do not know each other",
+      "C": "They dislike each other",
+      "D": "They are cousins"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which band do the four girls belong to?",
+    "options": {
+      "A": "I dont know",
+      "B": "Kessoku Band",
+      "C": "Ave Mujica",
+      "D": "Mygo"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Who plays the bass in Kessoku Band?",
+    "options": {
+      "A": "Bocchi",
+      "B": "Ryo",
+      "C": "Nijika",
+      "D": "Kita"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Who is the vocalist of Kessoku Band?",
+    "options": {
+      "A": "Kita",
+      "B": "Bocchi",
+      "C": "Niijka",
+      "D": "Ryo"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Who helps Bocchi improve her songwriting?",
+    "options": {
+      "A": "Nijika",
+      "B": "Kita",
+      "C": "Ryo",
+      "D": "No one"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Who is considered the most socially anxious member of Kessoku Band?",
+    "options": {
+      "A": "Bocchi",
+      "B": "Nijika",
+      "C": "Ryo",
+      "D": "Kita"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "How did Kita rejoin Kessoku Band?",
+    "options": {
+      "A": "Bocchi convinced her to return",
+      "B": "Nijika forced her to come back",
+      "C": "She is still not part of the band",
+      "D": "She returned on her own"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which member of Kessoku Band is known for having an eccentric personality?",
+    "options": {
+      "A": "Bocchi",
+      "B": "Ryo",
+      "C": "Nijika",
+      "D": "Kita"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is a defining trait of Ryo’s personality?",
+    "options": {
+      "A": "She is very eccentric",
+      "B": "She is extremely shy",
+      "C": "She is very responsible",
+      "D": "She is talkative and social"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Who is seen as the most responsible and leader-like in Kessoku Band?",
+    "options": {
+      "A": "Bocchi",
+      "B": "Nijika",
+      "C": "Ryo",
+      "D": "Kita"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which member looks up to Ryo as a senior?",
+    "options": {
+      "A": "Bocchi",
+      "B": "Kita",
+      "C": "NIjika",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Who brought Bocchi into Kessoku Band?",
+    "options": {
+      "A": "Bocchi herself",
+      "B": "Nijika",
+      "C": "Kita",
+      "D": "Ryo"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What instrument does Nijika play?",
+    "options": {
+      "A": "Guitar",
+      "B": "Drums",
+      "C": "Bass",
+      "D": "Keyboard"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Who is sometimes seen as a potential couple in the band?",
+    "options": {
+      "A": "Bocchi and Ryo",
+      "B": "Ryo and Nijika",
+      "C": "Ryo and Kita",
+      "D": "Bocchi and Nijika"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which band member helps guide Bocchi in writing lyrics?",
+    "options": {
+      "A": "Nijika",
+      "B": "Ryo",
+      "C": "Kita",
+      "D": "No one"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the meaning behind the band's name, 'Kessoku Band'?",
+    "options": {
+      "A": "Tied-together Band",
+      "B": "Rock Hard Band",
+      "C": "Dream Chaser Band",
+      "D": "Harmony Band"
+    },
+    "correct_answer": "A"
+  },
+    {
+    "question": "Which band member would most likely try to cheer up Bocchi if she felt anxious?",
+    "options": {
+      "A": "Ryo",
+      "B": "Nijika",
+      "C": "Kita",
+      "D": "None of them"
+    },
+    "correct_answer": "B"
+  },
+    {
+    "question": "If Kessoku Band needs to write new lyrics, who is most likely to take the lead?",
+    "options": {
+      "A": "Ryo",
+      "B": "Nijika",
+      "C": "Bocchi",
+      "D": "Kita"
+    },
+    "correct_answer": "C"
+  },
+    {
+    "question": "Which member is most likely to cheer others up when facing difficulties?",
+    "options": {
+      "A": "Bocchi",
+      "B": "Nijika",
+      "C": "Ryo",
+      "D": "Kita"
+    },
+    "correct_answer": "B"
+  },
+    {
+    "question": "Which member is most likely to require others' cheering when facing difficulties?",
+    "options": {
+      "A": "Nijika",
+      "B": "Ryo",
+      "C": "Bocchi",
+      "D": "Kita"
+    },
+    "correct_answer": "C"
+    },
+    {
+    "question": "If the band were asked to compose a new song, which two members would most likely take the responsibility?",
+    "options": {
+      "A": "Bocchi and Nijika",
+      "B": "Ryo and Bocchi",
+      "C": "Nijika and Ryo",
+      "D": "Kita and Bocchi"
+    },
+    "correct_answer": "B"
+  }
+  ],
+  "Fill_in_the_blank": [
+  {
+    "question": "The socially anxious guitarist in the band is named ______.",
+    "answer": "Bocchi"
+  },
+  {
+    "question": "______ is the drummer and also the one who invited Bocchi to join the band.",
+    "answer": "Nijika"
+  },
+  {
+    "question": "The bass player with blue hair and a calm personality is ______.",
+    "answer": "Ryo"
+  },
+  {
+    "question": "The red-haired member who sings and plays rhythm guitar is ______.",
+    "answer": "Kita"
+  },
+  {
+    "question": "The band’s name, Kessoku Band, symbolizes ______ among the members.",
+    "answer": "unity"
+  },
+  {
+    "question": "Both Bocchi and Kita attend ______ and are in the same grade.",
+    "answer": "School A"
+  },
+  {
+    "question": "Ryo and Nijika are from ______ and are one year older than Bocchi and Kita.",
+    "answer": "School B"
+  },
+  {
+    "question": "Kita initially left the band but rejoined after being encouraged by ______.",
+    "answer": "Bocchi"
+  },
+  {
+    "question": "______ is the one who supports Bocchi with songwriting.",
+    "answer": "Ryo"
+  },
+  {
+    "question": "______ is usually the one cheering others up and holding the group together.",
+    "answer": "Nijika"
+  }
+  ],
+  "True_or_False": [
+  {
+    "question": "Bocchi and Kita are both from School A and are in the same grade.",
+    "answer": true
+  },
+  {
+    "question": "Ryo and Nijika both attend School B and are a grade above Bocchi and Kita.",
+    "answer": true
+  },
+  {
+    "question": "Kita plays the drums in the band.",
+    "answer": false
+  },
+  {
+    "question": "Ryo helps Bocchi in writing songs.",
+    "answer": true
+  },
+  {
+    "question": "Nijika is the leader of the band and also plays the drums.",
+    "answer": true
+  },
+  {
+    "question": "The band consists of five members with different instruments.",
+    "answer": false
+  },
+  {
+    "question": "Kita was encouraged by Bocchi to return to the band after leaving.",
+    "answer": true
+  },
+  {
+    "question": "Ryo is known for being emotionally expressive and energetic.",
+    "answer": false
+  },
+  {
+    "question": "Bocchi is the founding member who gathered the band.",
+    "answer": false
+  },
+  {
+    "question": "Kessoku Band is composed of members from different schools and grades.",
+    "answer": true
+  }
+]
+
+}

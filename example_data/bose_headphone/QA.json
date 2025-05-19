@@ -1,0 +1,769 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What type of ear cups does <bose_headphone> use?",
+      "options": {
+        "A": "On-ear",
+        "B": "In-ear",
+        "C": "Over-ear",
+        "D": "Open-back"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which technology is featured in <bose_headphone> for noise reduction?",
+      "options": {
+        "A": "Passive isolation only",
+        "B": "ANC (Active Noise Cancellation)",
+        "C": "Mechanical sealing",
+        "D": "Digital feedback balancing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which color best describes the body of <bose_headphone>?",
+      "options": {
+        "A": "Jet black",
+        "B": "Sky blue",
+        "C": "Beige/light gray",
+        "D": "Carbon gray"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How does <bose_headphone> connect to devices?",
+      "options": {
+        "A": "Wired only",
+        "B": "Bluetooth only",
+        "C": "USB-C only",
+        "D": "Both Bluetooth and 3.5mm jack"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which material is used for the ear cushions of <bose_headphone>?",
+      "options": {
+        "A": "Cotton",
+        "B": "Genuine leather",
+        "C": "Synthetic leather with memory foam",
+        "D": "Plastic"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What design principle does <bose_headphone> follow?",
+      "options": {
+        "A": "Retro pop",
+        "B": "Industrial rugged",
+        "C": "Modern minimalist",
+        "D": "Futuristic sci-fi"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which port is used for charging <bose_headphone>?",
+      "options": {
+        "A": "Lightning",
+        "B": "Mini USB",
+        "C": "Micro-USB or USB-C",
+        "D": "HDMI"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which feature supports long listening sessions?",
+      "options": {
+        "A": "Built-in cooling fan",
+        "B": "Breathable ear cushions and adjustable headband",
+        "C": "Removable battery",
+        "D": "Swappable frames"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following features distinguishes <bose_headphone> from entry-level headphones?",
+      "options": {
+        "A": "Bright colors",
+        "B": "Foldable frame and ANC",
+        "C": "Built-in lights",
+        "D": "Water resistance"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following is true about its condition?",
+      "options": {
+        "A": "It shows signs of wear",
+        "B": "It has minor cracks",
+        "C": "It is in excellent condition",
+        "D": "It lacks padding"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which usage scenario is <bose_headphone> NOT optimized for?",
+      "options": {
+        "A": "Gaming",
+        "B": "Music listening",
+        "C": "Running and heavy sports",
+        "D": "Professional meetings"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What enables <bose_headphone> to provide zero-latency audio?",
+      "options": {
+        "A": "Bluetooth 5.2",
+        "B": "Wired connection via 3.5mm jack",
+        "C": "Voice command system",
+        "D": "Foldable design"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What kind of noise does ANC counteract?",
+      "options": {
+        "A": "Internal circuit noise",
+        "B": "Wind only",
+        "C": "Ambient external sounds",
+        "D": "Electrical feedback"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which function does the physical button panel control?",
+      "options": {
+        "A": "Playback, volume, call control",
+        "B": "Color settings",
+        "C": "Headband adjustment",
+        "D": "Earpad rotation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What’s the purpose of the metallic headband reinforcement?",
+      "options": {
+        "A": "Improve soundstage",
+        "B": "Add flexibility",
+        "C": "Enhance structural durability",
+        "D": "Provide weight balance"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What type of padding is used inside the ear cups?",
+      "options": {
+        "A": "Plastic foam",
+        "B": "Latex",
+        "C": "Memory foam",
+        "D": "Gel beads"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How does <bose_headphone> provide comfort for different head sizes?",
+      "options": {
+        "A": "Elastic band",
+        "B": "Adjustable and padded headband",
+        "C": "Expandable cups",
+        "D": "Magnetic extension"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which design detail supports audio immersion?",
+      "options": {
+        "A": "Soft color scheme",
+        "B": "Closed-back over-ear cups",
+        "C": "Ear cup LED light ring",
+        "D": "Open cable management"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What suggests <bose_headphone> is not currently in use in the image?",
+      "options": {
+        "A": "No cable visible",
+        "B": "No LED indicators are on",
+        "C": "Headband is bent",
+        "D": "No earpads visible"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What suggests the product’s high build quality?",
+      "options": {
+        "A": "Plastic finish",
+        "B": "Thick cable",
+        "C": "No visible wear or damage",
+        "D": "Bold branding"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What makes <bose_headphone> ideal for work-from-home users?",
+      "options": {
+        "A": "Gaming features",
+        "B": "ANC, mic, multi-device pairing",
+        "C": "Color customization",
+        "D": "USB speakers"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of these features improves voice assistant compatibility?",
+      "options": {
+        "A": "Volume dial",
+        "B": "Multi-mic setup",
+        "C": "Dedicated assistant button",
+        "D": "Motion sensors"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the benefit of foldable ear cups?",
+      "options": {
+        "A": "Enhances sound clarity",
+        "B": "Improves battery life",
+        "C": "Reduces storage size",
+        "D": "Boosts wireless range"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is NOT a comfort-related feature?",
+      "options": {
+        "A": "Memory foam",
+        "B": "Ergonomic tilt",
+        "C": "Padded headband",
+        "D": "LED charge indicator"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What does the ear cup tilt optimize?",
+      "options": {
+        "A": "Charging efficiency",
+        "B": "Natural ear fit",
+        "C": "Lighting control",
+        "D": "Microphone placement"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the function of passive isolation in <bose_headphone>?",
+      "options": {
+        "A": "Color rendering",
+        "B": "Background noise filtering by design",
+        "C": "Charging speed enhancement",
+        "D": "LED brightness control"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why would a user prefer the beige color?",
+      "options": {
+        "A": "Reflects sunlight",
+        "B": "Does not show smudges",
+        "C": "Adds contrast to branding",
+        "D": "Improves sound quality"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is synthetic leather used instead of real leather?",
+      "options": {
+        "A": "Cost and cruelty-free design",
+        "B": "Soundproofing",
+        "C": "Electromagnetic shielding",
+        "D": "Waterproofing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which feature reduces user fatigue?",
+      "options": {
+        "A": "Extended cable",
+        "B": "Balanced weight distribution",
+        "C": "Bass boost",
+        "D": "Bright LED indicator"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of these aspects makes <bose_headphone> ideal for air travel?",
+      "options": {
+        "A": "Low cost",
+        "B": "Bluetooth version",
+        "C": "ANC and foldability",
+        "D": "Color"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which aspect of <bose_headphone>'s headband helps improve long-term structural durability?",
+      "options": {
+        "A": "Woven fiber coating",
+        "B": "Metallic reinforcement",
+        "C": "Carbon composite layer",
+        "D": "Dual hinges"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What likely contributes to <bose_headphone>'s reduced heat buildup during long use?",
+      "options": {
+        "A": "Open-back design",
+        "B": "Breathable synthetic leather padding",
+        "C": "Built-in ventilation fan",
+        "D": "Mesh fabric cover"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following best supports <bose_headphone>'s portability?",
+      "options": {
+        "A": "Built-in retractable cord",
+        "B": "Foldable ear cups",
+        "C": "Plastic-only design",
+        "D": "Battery-free operation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why might someone prefer <bose_headphone> for use in shared workspaces?",
+      "options": {
+        "A": "Its colorful branding",
+        "B": "Its strong passive isolation",
+        "C": "Its loud volume modes",
+        "D": "Its integrated ambient sound mode"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which ergonomic element ensures <bose_headphone> fits a wide range of users?",
+      "options": {
+        "A": "Spring-loaded clamps",
+        "B": "Adjustable headband and tilting cups",
+        "C": "Inflatable ear cushions",
+        "D": "Elastic hinge design"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which user group benefits most from <bose_headphone>'s dual connection modes?",
+      "options": {
+        "A": "Audiophiles using lossless formats",
+        "B": "Gamers with RGB setups",
+        "C": "Cyclists needing compact storage",
+        "D": "Visual artists needing color calibration"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why is <bose_headphone> likely not currently being used?",
+      "options": {
+        "A": "It has no battery left",
+        "B": "It is boxed and sealed",
+        "C": "There are no active lights or cables connected",
+        "D": "Its ear cups are missing"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What suggests <bose_headphone> supports high-quality audio performance?",
+      "options": {
+        "A": "Synthetic ear foam",
+        "B": "Low weight",
+        "C": "Memory foam with full ear seal",
+        "D": "Adjustable mic arm"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which feature distinguishes <bose_headphone>'s usability in professional calls?",
+      "options": {
+        "A": "Integrated boom mic",
+        "B": "Dual-device pairing and ANC",
+        "C": "Touch-sensitive pad",
+        "D": "Wireless-only operation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why might the visual design of <bose_headphone> appeal to corporate users?",
+      "options": {
+        "A": "Logo-focused branding",
+        "B": "Bright accent colors",
+        "C": "Professional minimalist style",
+        "D": "Clear plastic ear cups"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What feature prevents sound leakage in <bose_headphone>?",
+      "options": {
+        "A": "Open-back cup design",
+        "B": "Acoustic mesh",
+        "C": "Over-ear enclosure with memory foam",
+        "D": "External shell dampening"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following makes <bose_headphone> practical for remote work?",
+      "options": {
+        "A": "Foldable arms",
+        "B": "Stylized LED indicators",
+        "C": "Voice assistant support and mic integration",
+        "D": "Multi-room audio mode"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which power management feature is implied in <bose_headphone>?",
+      "options": {
+        "A": "Auto-off when idle",
+        "B": "Thermal management fan",
+        "C": "Removable battery",
+        "D": "Rechargeable coin cell"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "How does the tilt of the ear cups enhance user experience?",
+      "options": {
+        "A": "It allows more light entry",
+        "B": "It increases signal range",
+        "C": "It matches natural ear contours",
+        "D": "It improves heat dissipation"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which scenario best demonstrates the need for the 3.5mm jack?",
+      "options": {
+        "A": "Charging the battery",
+        "B": "Connecting to analog-only audio systems",
+        "C": "Enabling LED indicators",
+        "D": "Activating the ANC system"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What practical use does the headphone's neutral color support?",
+      "options": {
+        "A": "Sound reflection reduction",
+        "B": "Interchangeable panels",
+        "C": "Smudge resistance and aesthetic appeal",
+        "D": "Better bass performance"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is passive isolation still important for <bose_headphone>?",
+      "options": {
+        "A": "It’s cheaper to manufacture",
+        "B": "It increases reverb",
+        "C": "It reduces reliance on battery-driven ANC",
+        "D": "It supports spatial audio"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What inference can be made from the physical button design?",
+      "options": {
+        "A": "It avoids accidental input",
+        "B": "It disables touch gestures",
+        "C": "It provides waterproofing",
+        "D": "It increases bass"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why is <bose_headphone>'s material composition important?",
+      "options": {
+        "A": "It ensures quick charging",
+        "B": "It affects low-frequency roll-off",
+        "C": "It contributes to comfort and longevity",
+        "D": "It boosts stereo spread"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which feature combination supports frequent travel usage?",
+      "options": {
+        "A": "Foldable design and wired+wireless connectivity",
+        "B": "Bluetooth only and no buttons",
+        "C": "Heavy frame and touch controls",
+        "D": "Bright LEDs and non-foldable headband"
+      },
+      "correct_answer": "A"
+    }
+  ],
+  "fill_in_the_blank": [
+  {
+    "question": "Which aspect of <bose_headphone>'s headband helps improve long-term structural durability?",
+    "options": {
+      "A": "Woven fiber coating",
+      "B": "Metallic reinforcement",
+      "C": "Carbon composite layer",
+      "D": "Dual hinges"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What likely contributes to <bose_headphone>'s reduced heat buildup during long use?",
+    "options": {
+      "A": "Open-back design",
+      "B": "Breathable synthetic leather padding",
+      "C": "Built-in ventilation fan",
+      "D": "Mesh fabric cover"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which of the following best supports <bose_headphone>'s portability?",
+    "options": {
+      "A": "Built-in retractable cord",
+      "B": "Foldable ear cups",
+      "C": "Plastic-only design",
+      "D": "Battery-free operation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why might someone prefer <bose_headphone> for use in shared workspaces?",
+    "options": {
+      "A": "Its colorful branding",
+      "B": "Its strong passive isolation",
+      "C": "Its loud volume modes",
+      "D": "Its integrated ambient sound mode"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which ergonomic element ensures <bose_headphone> fits a wide range of users?",
+    "options": {
+      "A": "Spring-loaded clamps",
+      "B": "Adjustable headband and tilting cups",
+      "C": "Inflatable ear cushions",
+      "D": "Elastic hinge design"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which user group benefits most from <bose_headphone>'s dual connection modes?",
+    "options": {
+      "A": "Audiophiles using lossless formats",
+      "B": "Gamers with RGB setups",
+      "C": "Cyclists needing compact storage",
+      "D": "Visual artists needing color calibration"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Why is <bose_headphone> likely not currently being used?",
+    "options": {
+      "A": "It has no battery left",
+      "B": "It is boxed and sealed",
+      "C": "There are no active lights or cables connected",
+      "D": "Its ear cups are missing"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What suggests <bose_headphone> supports high-quality audio performance?",
+    "options": {
+      "A": "Synthetic ear foam",
+      "B": "Low weight",
+      "C": "Memory foam with full ear seal",
+      "D": "Adjustable mic arm"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which feature distinguishes <bose_headphone>'s usability in professional calls?",
+    "options": {
+      "A": "Integrated boom mic",
+      "B": "Dual-device pairing and ANC",
+      "C": "Touch-sensitive pad",
+      "D": "Wireless-only operation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why might the visual design of <bose_headphone> appeal to corporate users?",
+    "options": {
+      "A": "Logo-focused branding",
+      "B": "Bright accent colors",
+      "C": "Professional minimalist style",
+      "D": "Clear plastic ear cups"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What feature prevents sound leakage in <bose_headphone>?",
+    "options": {
+      "A": "Open-back cup design",
+      "B": "Acoustic mesh",
+      "C": "Over-ear enclosure with memory foam",
+      "D": "External shell dampening"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which of the following makes <bose_headphone> practical for remote work?",
+    "options": {
+      "A": "Foldable arms",
+      "B": "Stylized LED indicators",
+      "C": "Voice assistant support and mic integration",
+      "D": "Multi-room audio mode"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which power management feature is implied in <bose_headphone>?",
+    "options": {
+      "A": "Auto-off when idle",
+      "B": "Thermal management fan",
+      "C": "Removable battery",
+      "D": "Rechargeable coin cell"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "How does the tilt of the ear cups enhance user experience?",
+    "options": {
+      "A": "It allows more light entry",
+      "B": "It increases signal range",
+      "C": "It matches natural ear contours",
+      "D": "It improves heat dissipation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which scenario best demonstrates the need for the 3.5mm jack?",
+    "options": {
+      "A": "Charging the battery",
+      "B": "Connecting to analog-only audio systems",
+      "C": "Enabling LED indicators",
+      "D": "Activating the ANC system"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What practical use does the headphone's neutral color support?",
+    "options": {
+      "A": "Sound reflection reduction",
+      "B": "Interchangeable panels",
+      "C": "Smudge resistance and aesthetic appeal",
+      "D": "Better bass performance"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is passive isolation still important for <bose_headphone>?",
+    "options": {
+      "A": "It’s cheaper to manufacture",
+      "B": "It increases reverb",
+      "C": "It reduces reliance on battery-driven ANC",
+      "D": "It supports spatial audio"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What inference can be made from the physical button design?",
+    "options": {
+      "A": "It avoids accidental input",
+      "B": "It disables touch gestures",
+      "C": "It provides waterproofing",
+      "D": "It increases bass"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Why is <bose_headphone>'s material composition important?",
+    "options": {
+      "A": "It ensures quick charging",
+      "B": "It affects low-frequency roll-off",
+      "C": "It contributes to comfort and longevity",
+      "D": "It boosts stereo spread"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which feature combination supports frequent travel usage?",
+    "options": {
+      "A": "Foldable design and wired+wireless connectivity",
+      "B": "Bluetooth only and no buttons",
+      "C": "Heavy frame and touch controls",
+      "D": "Bright LEDs and non-foldable headband"
+    },
+    "correct_answer": "A"
+  }
+  ],
+    "true_or_false": [
+  {
+    "question": "The <bose_headphone> uses an over-ear design.",
+    "answer": true
+  },
+  {
+    "question": "The <bose_headphone> features Active Noise Cancellation (ANC).",
+    "answer": true
+  },
+  {
+    "question": "The ear cushions of <bose_headphone> are made from memory foam.",
+    "answer": true
+  },
+  {
+    "question": "<bose_headphone> is only usable in wireless Bluetooth mode.",
+    "answer": false
+  },
+  {
+    "question": "The headband on <bose_headphone> is adjustable.",
+    "answer": true
+  },
+  {
+    "question": "The buttons on <bose_headphone> are touch-sensitive only.",
+    "answer": false
+  },
+  {
+    "question": "The neutral beige color of <bose_headphone> was likely chosen for aesthetic and smudge resistance.",
+    "answer": true
+  },
+  {
+    "question": "The design includes built-in voice assistant activation.",
+    "answer": true
+  },
+  {
+    "question": "The headphone cannot be folded for compact storage.",
+    "answer": false
+  },
+  {
+    "question": "Passive isolation from the ear cup design complements the ANC feature.",
+    "answer": true
+  },
+  {
+    "question": "Multi-device pairing is not possible with <bose_headphone>.",
+    "answer": false
+  },
+  {
+    "question": "There is a metallic reinforcement inside the headband to improve durability.",
+    "answer": true
+  },
+  {
+    "question": "<bose_headphone> includes visible RGB lighting for customization.",
+    "answer": false
+  },
+  {
+    "question": "The device supports both wireless Bluetooth and wired 3.5mm jack connections.",
+    "answer": true
+  },
+  {
+    "question": "The headphones are designed specifically for gaming use.",
+    "answer": false
+  }
+]
+
+}

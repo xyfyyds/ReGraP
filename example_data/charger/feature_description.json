@@ -1,0 +1,1242 @@
+{
+    "./yollava-data/train/charger/0.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/1.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/2.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/3.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/4.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/5.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/6.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/7.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/8.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/9.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/10.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/11.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/12.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/13.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/14.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/15.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/16.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/17.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/18.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ],
+    "./yollava-data/train/charger/19.png": [
+        {
+            "Human": "What is the object of <charger>?",
+            "AI": "The object in the image is a charger. By analyzing its structure, it has a rectangular main body with a visible power rating of 100W, indicating that it is designed for high-power charging applications. The attached cable with a Type-C connector suggests it is meant for modern electronic devices such as laptops, smartphones, and tablets. The presence of a plug further confirms that it is an electrical device used to supply power to other devices. Thus, <charger> is a charger."
+        },
+        {
+            "Human": "What is the color of <charger>?",
+            "AI": "The color of the charger is white. The entire body, including the cable and casing, exhibits a uniform white tone, giving it a sleek and modern appearance. White is often used in electronics to signify cleanliness and minimalistic design, which aligns with the overall aesthetic appeal of the charger. The white color also makes it easier to spot dirt and wear over time, helping users maintain cleanliness. Thus, <charger> is white."
+        },
+        {
+            "Human": "What is the shape of <charger>?",
+            "AI": "The shape of the charger is rectangular. The main body has sharp edges and a compact form, allowing it to be portable and easily fit into a bag or pocket. A rectangular shape is chosen for practical reasons, as it provides a stable base for placement on flat surfaces and ensures internal components are well-organized for efficient heat dissipation. Thus, <charger> is rectangular."
+        },
+        {
+            "Human": "What is the size of <charger>?",
+            "AI": "The charger is medium-sized. It is not as small as a mobile phone charger, yet not as large as a bulky power adapter for high-voltage devices. The medium size is optimal for balancing power capacity and portability. Its form allows it to be conveniently carried without occupying excessive space, making it suitable for travel and daily use. Thus, <charger> is medium-sized."
+        },
+        {
+            "Human": "What is the power of <charger>?",
+            "AI": "The charger has a power output of 100W. This is clearly marked on the device, indicating that it supports fast charging for power-hungry devices such as laptops, tablets, and high-performance smartphones. A 100W power output suggests compatibility with modern power delivery protocols, enabling efficient and rapid charging while maintaining safety standards. Thus, the power of <charger> is 100W."
+        },
+        {
+            "Human": "What is the brand of <charger>?",
+            "AI": "The brand of the charger is UGREEN. This can be identified from the markings on the cable. UGREEN is a well-known manufacturer specializing in charging accessories, cables, and power solutions. Their products are recognized for reliability, high quality, and innovation in fast-charging technology. Thus, the brand of <charger> is UGREEN."
+        },
+        {
+            "Human": "What is the condition of <charger>?",
+            "AI": "The charger is in very good condition. There are no visible signs of damage, scratches, or wear on the surface, indicating that it has been well-maintained or is relatively new. The cable appears intact without fraying or bending, ensuring proper functionality and durability. The prongs of the plug are clean and unbent, further suggesting that the charger is in optimal working condition. Thus, <charger> is in very good condition."
+        },
+        {
+            "Human": "What is the type of interface of <charger>?",
+            "AI": "The charger uses a Type-C interface. This is evident from the attached cable, which features a Type-C connector on both ends. Type-C is the standard for modern fast-charging and data transfer due to its reversible design, higher power output, and faster data transfer speeds. The presence of Type-C ensures broad compatibility with multiple devices, making it a versatile charging solution. Thus, the interface of <charger> is Type-C."
+        },
+        {
+            "Human": "What is the unique feature of <charger>?",
+            "AI": "The unique feature of the charger is its foldable socket prongs. This design allows the plug to be retracted when not in use, minimizing space usage and reducing the risk of damage or accidental contact. Foldable prongs make it highly portable, as it can be packed into bags without scratching other objects or getting entangled with cables. This feature enhances safety and convenience for users. Thus, the unique feature of <charger> is its foldable plug."
+        },
+        {
+            "Human": "What is the design style of <charger>?",
+            "AI": "The design style of the charger is simple and elegant. The smooth, unibody casing with rounded edges gives it a premium and modern look. The minimalistic branding and clean white color contribute to an aesthetically pleasing appearance, aligning with contemporary design trends in technology. The design also ensures functionality, as its compact form prevents clutter and enhances portability. Thus, the design style of <charger> is simple and elegant."
+        },
+        {
+            "Human": "Is <charger> currently in use?",
+            "AI": "No, the charger is not currently in use. The images show the charger placed on a surface with its cable coiled neatly, and there are no connected devices drawing power from it. If it were in use, one would expect to see it plugged into a power socket with a device attached. Since there is no indication of active charging, it can be concluded that <charger> is not currently in use."
+        },
+        {
+            "Human": "Is <charger> portable?",
+            "AI": "Yes, the charger is portable. Its medium size, lightweight construction, and foldable prongs make it easy to carry in a bag or pocket. The Type-C cable also enhances portability, as it eliminates the need for bulky power bricks. The compact design ensures it does not take up excessive space, making it suitable for travel and daily use. Thus, <charger> is portable."
+        },
+        {
+            "Human": "Does <charger> support multiple devices?",
+            "AI": "Yes, the charger supports multiple devices. Given its 100W power output and Type-C interface, it is compatible with various electronic devices, including laptops, smartphones, tablets, and accessories. High-wattage chargers typically feature intelligent power distribution to accommodate different charging needs efficiently. Thus, <charger> supports multiple devices."
+        },
+        {
+            "Human": "Is <charger> compatible with fast-charging protocols?",
+            "AI": "Yes, the charger is compatible with fast-charging protocols. The presence of a Type-C interface and the 100W power rating suggest that it supports Power Delivery (PD) and other fast-charging technologies. These protocols optimize charging efficiency, reducing the time needed to charge compatible devices. The use of a braided cable further indicates support for high-speed power transfer. Thus, <charger> is compatible with fast-charging protocols."
+        },
+        {
+            "Human": "Does <charger> have heat dissipation features?",
+            "AI": "Yes, the charger likely has heat dissipation features. High-power chargers require efficient thermal management to prevent overheating. The smooth, hard plastic casing may include internal cooling mechanisms such as heat-resistant materials and ventilation to maintain safe operating temperatures. The compact yet durable design suggests that the charger is built with heat dissipation in mind. Thus, <charger> has heat dissipation features."
+        }
+    ]
+}

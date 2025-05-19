@@ -1,0 +1,1642 @@
+{
+    "./yollava-data/train/chair/0.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/1.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/2.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/3.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/4.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/5.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/6.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/7.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/8.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/9.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/10.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/11.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/12.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/13.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/14.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/15.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/16.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/17.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/18.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ],
+    "./yollava-data/train/chair/19.png": [
+        {
+            "Human": "What is the object of <chair>?",
+            "AI": "The object is a compact and foldable stool. By observing its design, it has a minimalistic plastic seat and a lightweight metal frame, which suggests ease of portability. It is structured for temporary or on-the-go seating. Thus, <chair> is a compact and foldable stool."
+        },
+        {
+            "Human": "What is the color of <chair>?",
+            "AI": "The seat of <chair> is white, conveying a sleek and modern design that integrates well with various environments. The metallic legs contrast with the white seat, giving it an aesthetically balanced appearance. Thus, <chair> has a white seat with a silver metallic frame."
+        },
+        {
+            "Human": "What is the shape of <chair>?",
+            "AI": "The chair has a square-shaped seat with softened edges, reducing sharpness to enhance user safety. The metallic frame features an X-shaped leg structure, which distributes weight effectively while maintaining foldability. Thus, <chair> has a square seat with an X-frame leg design."
+        },
+        {
+            "Human": "What is the size of <chair>?",
+            "AI": "The chair is relatively compact, designed to fit limited spaces while still providing a stable seating option. It is not as large as a standard chair but is suitable for single-person use. Thus, <chair> is a compact and functional seating solution."
+        },
+        {
+            "Human": "What is the material of <chair>?",
+            "AI": "The seat of <chair> is made of durable plastic, which ensures ease of cleaning and maintenance. The legs are metallic, likely made of stainless steel or aluminum, enhancing its stability while keeping it lightweight. Thus, <chair> has a plastic seat and a metal frame."
+        },
+        {
+            "Human": "What is the function of <chair>?",
+            "AI": "<chair> is designed to be a flexible and portable seating option. Its folding capability allows for easy storage and movement, making it ideal for casual use in both indoor and outdoor environments. Thus, <chair> functions as a portable and easy-to-store seat."
+        },
+        {
+            "Human": "Is <chair> foldable?",
+            "AI": "Yes, <chair> is foldable. Its X-shaped metal frame is engineered to collapse neatly, allowing for convenient storage. This design is particularly beneficial in situations requiring temporary seating solutions. Thus, <chair> is a foldable seating option."
+        },
+        {
+            "Human": "Does <chair> have a handle?",
+            "AI": "Yes, <chair> features an integrated handle in the form of a rectangular cutout in the seat. This built-in feature facilitates effortless transportation, making it highly convenient for users. Thus, <chair> has a handle for portability."
+        },
+        {
+            "Human": "Is <chair> stable?",
+            "AI": "<chair> is designed with a sturdy metal frame that enhances stability. The wide base and weight-distribution mechanism of the X-shaped legs help prevent tipping. The chair's rubberized or metal-capped feet further reinforce its grip on various surfaces. Thus, <chair> offers a stable seating experience."
+        },
+        {
+            "Human": "What are the features of <chair>?",
+            "AI": "The <chair> consists of a white plastic square seat with smooth edges, a metallic foldable frame, and an X-leg structure for durability. Its lightweight nature and built-in handle make it a versatile seating option. Thus, <chair> is compact, foldable, stable, and easy to carry."
+        },
+        {
+            "Human": "Does <chair> have a backrest?",
+            "AI": "No, <chair> does not have a backrest. It is structured as a stool-like chair, focusing on portability rather than prolonged comfort. Thus, <chair> lacks a backrest for ergonomic support."
+        },
+        {
+            "Human": "Is <chair> lightweight?",
+            "AI": "Yes, <chair> is lightweight. The combination of plastic and a thin yet strong metallic frame ensures easy mobility while maintaining structural integrity. Thus, <chair> is highly portable due to its lightweight nature."
+        },
+        {
+            "Human": "Can <chair> be used outdoors?",
+            "AI": "Yes, <chair> can be used outdoors. The plastic seat is resistant to moisture and weather changes, while the metallic frame is coated to prevent rust. However, prolonged exposure to extreme conditions may affect its longevity. Thus, <chair> is suitable for outdoor use."
+        },
+        {
+            "Human": "Does <chair> require assembly?",
+            "AI": "No, <chair> does not require assembly. It comes fully assembled and can be used immediately by unfolding it. Its design ensures quick and hassle-free deployment. Thus, <chair> is a no-assembly-required seating solution."
+        },
+        {
+            "Human": "How easy is it to clean <chair>?",
+            "AI": "<chair> is very easy to clean. The smooth plastic surface can be wiped down with a damp cloth or a mild cleaning agent. The metallic frame can also be cleaned with minimal effort. Thus, <chair> is highly maintainable."
+        },
+        {
+            "Human": "Is <chair> space-saving?",
+            "AI": "Yes, <chair> is space-saving. Its foldable structure enables it to be stored efficiently in tight spaces such as closets, under beds, or in compact storage units. Thus, <chair> is designed to maximize space efficiency."
+        },
+        {
+            "Human": "Does <chair> have anti-slip feet?",
+            "AI": "Yes, <chair> is equipped with anti-slip feet, which ensure that it remains firm on different surfaces. The rubber or protective caps on the metal legs prevent movement and enhance user safety. Thus, <chair> is slip-resistant."
+        },
+        {
+            "Human": "Is <chair> suitable for heavy users?",
+            "AI": "<chair> is designed to support moderate weight users. Although it has a sturdy metallic frame, it may not be suitable for excessively heavy loads for prolonged periods. Thus, <chair> is best suited for general users."
+        },
+        {
+            "Human": "Is <chair> comfortable for long periods of sitting?",
+            "AI": "No, <chair> is not intended for extended use. Its flat plastic seat lacks cushioning or ergonomic support, making it more suitable for short-term seating. Thus, <chair> is not optimized for prolonged sitting."
+        },
+        {
+            "Human": "Does <chair> have ventilation features?",
+            "AI": "Yes, <chair> has a built-in ventilation system through its rectangular cutout. This feature allows for better airflow, reducing heat accumulation when seated for extended periods. Thus, <chair> has a minor ventilation benefit."
+        }
+    ]
+}

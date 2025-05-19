@@ -1,0 +1,534 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What is the primary function of the object?",
+      "options": {
+        "A": "A decorative vase",
+        "B": "A storage container",
+        "C": "A drinking cup",
+        "D": "A cooking utensil"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which anime character is printed on the cup?",
+      "options": {
+        "A": "Hoshino Ai",
+        "B": "Luffy",
+        "C": "Naruto Uzumaki",
+        "D": "Mikasa Ackerman"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What material is the cup made of?",
+      "options": {
+        "A": "Glass",
+        "B": "Plastic",
+        "C": "Ceramic",
+        "D": "Metal"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What material is the lid made of?",
+      "options": {
+        "A": "Plastic",
+        "B": "Glass",
+        "C": "Wood",
+        "D": "Metal"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the function of the wooden lid?",
+      "options": {
+        "A": "To keep the beverage warm",
+        "B": "For decorative purposes only",
+        "C": "I dont know",
+        "D": "To block light from the drink"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What additional accessory comes with the cup?",
+      "options": {
+        "A": "A straw",
+        "B": "A spoon and a lid",
+        "C": "nothing",
+        "D": "A coaster"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the purpose of the notch in the wooden lid?",
+      "options": {
+        "A": "Decoration",
+        "B": "Holding the spoon in place",
+        "C": "Air circulation",
+        "D": "Draining excess liquid"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Is the cup suitable for both hot and cold beverages?",
+      "options": {
+        "A": "Only hot beverages",
+        "B": "Only cold beverages",
+        "C": "Both hot and cold beverages",
+        "D": "Not suitable for drinking"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the primary color of the cup?",
+      "options": {
+        "A": "Black",
+        "B": "White",
+        "C": "Blue",
+        "D": "Red"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What makes the cup a collectible item?",
+      "options": {
+        "A": "It is made of expensive material",
+        "B": "It has an anime-themed design featuring Hoshino Ai",
+        "C": "It is hand-painted",
+        "D": "It is used by a famous celebrity"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the primary function of the object?",
+      "options": {
+        "A": "A decorative vase",
+        "B": "A storage container",
+        "C": "A drinking cup",
+        "D": "A cooking utensil"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What material is the cup made of?",
+      "options": {
+        "A": "Glass",
+        "B": "Plastic",
+        "C": "Ceramic",
+        "D": "Metal"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which character is printed on the cup?",
+      "options": {
+        "A": "Naruto Uzumaki",
+        "B": "Luffy",
+        "C": "Hoshino Ai",
+        "D": "Mikasa Ackerman"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What color is the cup’s body?",
+      "options": {
+        "A": "Black",
+        "B": "White",
+        "C": "Blue",
+        "D": "Red"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the purpose of the wooden lid?",
+      "options": {
+        "A": "To be used as a coaster",
+        "B": "To keep the beverage warm",
+        "C": "For decoration only",
+        "D": "To block light from the drink"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the material of the lid?",
+      "options": {
+        "A": "Plastic",
+        "B": "Glass",
+        "C": "Wood",
+        "D": "Metal"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What additional accessory comes with the cup?",
+      "options": {
+        "A": "A straw",
+        "B": "A spoon",
+        "C": "A bag of tea",
+        "D": "A tea infuser"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the notch in the wooden lid used for?",
+      "options": {
+        "A": "Decoration",
+        "B": "Allowing air circulation",
+        "C": "Holding the spoon in place",
+        "D": "Draining excess liquid"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Is this cup suitable for both hot and cold beverages?",
+      "options": {
+        "A": "Only hot beverages",
+        "B": "Only cold beverages",
+        "C": "Both hot and cold beverages",
+        "D": "Not suitable for drinking"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What type of person would likely use this cup?",
+      "options": {
+        "A": "Anime fans",
+        "B": "Professional chefs",
+        "C": "Carpenters",
+        "D": "Athletes"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which design feature of the anime cup directly enables the spoon to remain inside while covered?",
+      "options": {
+        "A": "A built-in internal shelf",
+        "B": "A notch in the ceramic body",
+        "C": "A groove in the wooden lid",
+        "D": "A rubber grip around the cup"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What relationship best describes the anime character and the collectible value of the cup?",
+      "options": {
+        "A": "The character’s design increases aesthetic value only",
+        "B": "The character is used for brand licensing without affecting value",
+        "C": "The presence of a known character boosts both fan appeal and collectibility",
+        "D": "There is no link between the character and the collectible status"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is the combination of ceramic and wood effective for this cup?",
+      "options": {
+        "A": "It allows for microwave-safe components",
+        "B": "It mixes tactile and insulating materials for both function and aesthetics",
+        "C": "It makes the cup disposable",
+        "D": "It allows for dishwashing compatibility"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What would most likely happen if the lid did not have a notch?",
+      "options": {
+        "A": "The spoon would be more stable",
+        "B": "The lid would prevent use with any utensil",
+        "C": "It would create better insulation",
+        "D": "It would help prevent leakage"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "The character Hoshino Ai is printed on the cup primarily for which purpose?",
+      "options": {
+        "A": "To provide instruction for lid use",
+        "B": "To indicate beverage type",
+        "C": "To increase appeal for anime fans",
+        "D": "To represent thermal resistance"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which part of the cup most directly contributes to preserving heat?",
+      "options": {
+        "A": "The anime print",
+        "B": "The ceramic handle",
+        "C": "The wooden lid",
+        "D": "The inner spoon"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which design element helps ensure the cup is suitable for both hot and cold beverages?",
+      "options": {
+        "A": "Wooden base and bamboo shell",
+        "B": "Use of ceramic for the main body and insulated lid",
+        "C": "Double glass layering",
+        "D": "Plastic casing and silicone seal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "How does the handle function relate to beverage temperature?",
+      "options": {
+        "A": "It keeps the contents sealed",
+        "B": "It makes the cup airtight",
+        "C": "It allows safe holding regardless of heat",
+        "D": "It conducts heat from the beverage"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is the cup described as ‘collectible’?",
+      "options": {
+        "A": "It is manufactured in limited quantities",
+        "B": "It is printed with a popular anime figure recognized by fans",
+        "C": "It is rare and fragile",
+        "D": "It is distributed by an anime studio"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following would break the cup’s intended function?",
+      "options": {
+        "A": "Removing the character print",
+        "B": "Using the lid as a coaster",
+        "C": "Removing the lid’s notch",
+        "D": "Adding another character beside Hoshino Ai"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why might a fan of Hoshino Ai value this item beyond its utility?",
+      "options": {
+        "A": "It includes autographs",
+        "B": "It serves as functional merchandise tied to emotional connection",
+        "C": "It comes in a matching anime DVD box",
+        "D": "It allows syncing with a smartphone"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "How does the white ceramic body support the illustration?",
+      "options": {
+        "A": "By absorbing more heat",
+        "B": "By making it more fragile",
+        "C": "By contrasting the dark-toned character design",
+        "D": "By acting as a magnet for the spoon"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What would most reduce the appeal of the anime cup to collectors?",
+      "options": {
+        "A": "A different anime character",
+        "B": "Absence of the lid notch",
+        "C": "A shift from ceramic to plastic",
+        "D": "Adding insulation to the base"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What practical benefit does the ceramic offer over plastic?",
+      "options": {
+        "A": "Higher surface tension",
+        "B": "Longer shelf life",
+        "C": "Better heat retention and beverage taste neutrality",
+        "D": "Increased molecular flexibility"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What role does the wooden lid’s texture play in the design?",
+      "options": {
+        "A": "It makes the cup microwaveable",
+        "B": "It reduces friction for the spoon",
+        "C": "It contrasts visually with the smooth ceramic, offering tactile variety",
+        "D": "It enables the cup to glow in the dark"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which part of the cup's design suggests it is not solely utilitarian?",
+      "options": {
+        "A": "The white glaze",
+        "B": "The ergonomic handle",
+        "C": "The anime character art and presentation",
+        "D": "The presence of a spoon"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why does the spoon being placed in the lid matter from a design standpoint?",
+      "options": {
+        "A": "It improves symmetry of the layout",
+        "B": "It allows for simultaneous drinking and stirring",
+        "C": "It avoids clutter and supports compact storage",
+        "D": "It makes the cup lighter"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which functional benefit is reduced without the lid?",
+      "options": {
+        "A": "The smoothness of the print",
+        "B": "Heat preservation and dust protection",
+        "C": "Visual sharpness of the character",
+        "D": "Handle usability"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why does the inclusion of the notch help differentiate this product?",
+      "options": {
+        "A": "It reduces material cost",
+        "B": "It creates a unique licensing mechanism",
+        "C": "It directly integrates utensil convenience into the aesthetic form",
+        "D": "It ensures barcode readability"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What relation most directly explains how the cup connects anime fandom to daily activity?",
+      "options": {
+        "A": "The cup includes animation scripts",
+        "B": "The anime character makes beverage consumption a form of personal expression",
+        "C": "The cup enables livestreaming while drinking",
+        "D": "It plays audio clips from the show"
+      },
+      "correct_answer": "B"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "question": "The cup is made of _______.",
+      "answer": "Ceramic"
+    },
+    {
+      "question": "The anime character printed on the cup is _______.",
+      "answer": "Hoshino Ai"
+    },
+    {
+      "question": "The wooden lid helps to keep the beverage _______.",
+      "answer": "Warm"
+    },
+    {
+      "question": "The notch in the lid is designed to hold the _______.",
+      "answer": "Spoon"
+    },
+    {
+      "question": "The handle of the cup allows for _______ use.",
+      "answer": "Comfortable"
+    },
+    {
+      "question": "The ______ in the wooden lid is specifically designed to accommodate the spoon without preventing closure.",
+      "answer": "notch"
+    },
+    {
+      "question": "Because ceramic retains heat better than plastic, this cup is particularly suitable for serving ______ beverages.",
+      "answer": "hot"
+    },
+    {
+      "question": "The presence of Hoshino Ai on the cup transforms it from a functional item into a piece of ______ merchandise.",
+      "answer": "collectible"
+    },
+    {
+      "question": "The handle allows users to hold the cup safely even when the beverage is hot, indicating a design choice focused on ______.",
+      "answer": "usability"
+    },
+    {
+      "question": "Unlike digital merchandise, this physical item bridges emotional attachment and daily routine through ______ interaction.",
+      "answer": "tactile"
+    },
+    {
+      "question": "The combination of a natural wood lid and a ceramic body creates a material contrast between ______ and gloss.",
+      "answer": "grain"
+    },
+    {
+      "question": "The cup's ability to integrate an anime character visually while retaining full drinking functionality demonstrates a fusion of ______ and purpose.",
+      "answer": "aesthetics"
+    },
+    {
+      "question": "The lid not only retains _____ but also prevents dust from entering the cup, especially during display or idle time.",
+      "answer": "heat"
+    },
+    {
+      "question": "Fans familiar with 'Oshi no Ko' may value the cup more for its symbolic representation of ______ than for its material utility.",
+      "answer": "identity"
+    },
+    {
+      "question": "By allowing the spoon to rest within the lid while covered, the design supports compactness and avoids ______.",
+      "answer": "clutter"
+    }
+  ],
+  "true_false": [
+    {
+      "question": "The cup is primarily black in color.",
+      "answer": false
+    },
+    {
+      "question": "The anime character on the cup has long dark blue hair.",
+      "answer": true
+    },
+    {
+      "question": "The cup has a digital temperature display.",
+      "answer": false
+    },
+    {
+      "question": "The wooden lid is removable.",
+      "answer": true
+    },
+    {
+      "question": "The notch in the wooden lid is designed to hold a spoon.",
+      "answer": true
+    },
+    {
+      "question": "The cup requires a straw for drinking.",
+      "answer": false
+    },
+    {
+      "question": "The cup can be used for both hot and cold beverages.",
+      "answer": true
+    },
+    {
+      "question": "The ceramic material of the cup makes it fragile.",
+      "answer": true
+    },
+    {
+      "question": "The cup’s handle is designed for ergonomic use.",
+      "answer": true
+    },
+    {
+      "question": "The cup’s wooden lid is is only for decorative purposes.",
+      "answer": false
+    },
+    {
+      "question": "The cup is primarily black in color.",
+      "answer": false
+    },
+    {
+      "question": "The anime character on the cup has long dark blue hair.",
+      "answer": true
+    },
+    {
+      "question": "The cup has a digital temperature display.",
+      "answer": false
+    },
+    {
+      "question": "The wooden lid is removable.",
+      "answer": true
+    },
+    {
+      "question": "The cup requires straw for drinking.",
+      "answer": false
+    }
+  ],
+  "essay": [
+    {
+      "question": "Describe the design and features of the anime-themed cup.",
+      "answer": "The anime-themed cup is a ceramic drinking mug with a predominantly white body. It features an illustration of the character Hoshino Ai, a well-known anime figure, printed on its side. The cup is designed with a wooden lid that fits securely on top, helping to maintain the beverage's temperature and prevent dust from entering. The lid has a small notch that allows the included ceramic spoon to rest conveniently without having to remove the cover completely. The cup’s handle is ergonomically designed for a comfortable grip, making it suitable for both hot and cold beverages. The combination of ceramic and wood materials gives it an elegant and collectible aesthetic, making it a great item for anime enthusiasts and daily use alike."
+    }
+  ]
+}

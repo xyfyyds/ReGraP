@@ -1,0 +1,509 @@
+{
+  "multiple_choice": [
+    {
+      "question": "Which football team does the jersey belong to?",
+      "options": {
+        "A": "Manchester City",
+        "B": "Liverpool",
+        "C": "Chelsea",
+        "D": "Manchester United"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What is the primary color of the jersey?",
+      "options": {
+        "A": "Black",
+        "B": "Red",
+        "C": "White",
+        "D": "Blue"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which brand's logo is on the right chest of the jersey?",
+      "options": {
+        "A": "Nike",
+        "B": "Puma",
+        "C": "Adidas",
+        "D": "Under Armour"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the sponsor printed in the middle of the jersey?",
+      "options": {
+        "A": "Fly Emirates",
+        "B": "Spotify",
+        "C": "Qatar Airways",
+        "D": "TeamViewer"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What technology is mentioned on the bottom right of the jersey?",
+      "options": {
+        "A": "DRY-FIT",
+        "B": "HEAT.RDY",
+        "C": "CLIMACOOL",
+        "D": "AIRCOOL"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What color are the shoulder stripes?",
+      "options": {
+        "A": "Red",
+        "B": "Blue",
+        "C": "Black",
+        "D": "White"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Where is the Manchester United badge located?",
+      "options": {
+        "A": "Right chest",
+        "B": "Center",
+        "C": "Left chest",
+        "D": "Sleeve"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What pattern is embedded in the fabric of the jersey?",
+      "options": {
+        "A": "Geometric lines",
+        "B": "Animal print",
+        "C": "Dots",
+        "D": "Plain solid"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "How many major logos are visible on the front of the jersey?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which symbol is used in the sponsor 'TeamViewer'?",
+      "options": {
+        "A": "Arrow",
+        "B": "Circle",
+        "C": "Star",
+        "D": "Shield"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which side has black color accents along the ribs?",
+      "options": {
+        "A": "Left side",
+        "B": "Right side",
+        "C": "Both sides",
+        "D": "None"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What color is the outline of the neck collar?",
+      "options": {
+        "A": "Red",
+        "B": "White",
+        "C": "Black",
+        "D": "Blue"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which company manufactures the jersey?",
+      "options": {
+        "A": "Nike",
+        "B": "Puma",
+        "C": "Adidas",
+        "D": "Umbro"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What type of neckline does the jersey have?",
+      "options": {
+        "A": "V-neck",
+        "B": "Round collar",
+        "C": "Mandarin collar",
+        "D": "Buttoned"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which design element is found on the inside back of the neck?",
+      "options": {
+        "A": "Manchester Bee",
+        "B": "Devil Logo",
+        "C": "Red flower crest",
+        "D": "Premier League lion"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "The HEAT.RDY label indicates what type of feature?",
+      "options": {
+        "A": "Moisture wicking",
+        "B": "Cooling technology",
+        "C": "Stretchability",
+        "D": "UV Protection"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the main purpose of the mesh-like structure in the side panels?",
+      "options": {
+        "A": "Decorative only",
+        "B": "Aerodynamic shaping",
+        "C": "Moisture ventilation",
+        "D": "Branding"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which description best fits the overall jersey design?",
+      "options": {
+        "A": "Simple solid",
+        "B": "Geometric and patterned",
+        "C": "Horizontal striped",
+        "D": "Gradient fade"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "The club represented by this jersey plays in which league?",
+      "options": {
+        "A": "La Liga",
+        "B": "Serie A",
+        "C": "Premier League",
+        "D": "Bundesliga"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "The visible logo on the left chest has which shape behind the club crest?",
+      "options": {
+        "A": "Circle",
+        "B": "Shield",
+        "C": "Star",
+        "D": "No shape"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Why is the HEAT.RDY technology relevant to the jersey's purpose?",
+      "options": {
+        "A": "Adds grip for headers",
+        "B": "Improves player cooling",
+        "C": "Increases weight for durability",
+        "D": "Reduces brightness on camera"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What visual clue helps distinguish this jersey as Manchester United’s?",
+      "options": {
+        "A": "Black stripes",
+        "B": "Red base color",
+        "C": "TeamViewer sponsor",
+        "D": "Club crest on left chest"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "How does the neck label design reinforce the jersey's identity?",
+      "options": {
+        "A": "It contains abstract art",
+        "B": "It features club-themed iconography",
+        "C": "It lists player names",
+        "D": "It shows manufacturing instructions"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why would the side ventilation mesh be placed only under arms and ribs?",
+      "options": {
+        "A": "To decorate those areas",
+        "B": "To reduce cost of full body mesh",
+        "C": "To target high-sweat zones",
+        "D": "To match retro designs"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What does the geometric pattern across the jersey suggest about its design?",
+      "options": {
+        "A": "Inspired by stadium structure",
+        "B": "A symbolic representation of the city",
+        "C": "Random styling",
+        "D": "Printed for ease of reproduction"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why is the sponsor placed in the center of the chest?",
+      "options": {
+        "A": "To balance the fabric tension",
+        "B": "To align with traditional placement",
+        "C": "To ensure maximum visibility",
+        "D": "To differentiate from other teams"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What explains the use of black on the side and shoulder panels?",
+      "options": {
+        "A": "For a slimming visual effect",
+        "B": "To show opposition zones",
+        "C": "To match older kits",
+        "D": "To emphasize boldness in design"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Why might the pattern not be completely symmetrical?",
+      "options": {
+        "A": "To reflect a dynamic and modern theme",
+        "B": "To reduce manufacturing errors",
+        "C": "To hide sweat stains",
+        "D": "To allow sponsor contrast"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What detail suggests this is a 2023–2024 season jersey?",
+      "options": {
+        "A": "TeamViewer sponsor alignment",
+        "B": "Pattern style and HEAT.RDY tag",
+        "C": "Old logo and V-neck combo",
+        "D": "Year printed on the bottom"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the relationship between Adidas and the Manchester United jersey?",
+      "options": {
+        "A": "Sponsor",
+        "B": "Supplier",
+        "C": "League partner",
+        "D": "Retailer"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which element is least likely to be changed every season?",
+      "options": {
+        "A": "Color tone",
+        "B": "Club badge",
+        "C": "Sponsor name",
+        "D": "Collar shape"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is TeamViewer’s logo white in this jersey?",
+      "options": {
+        "A": "White ink is cheaper",
+        "B": "To contrast sharply with red background",
+        "C": "To match Adidas logo",
+        "D": "Red is reserved for home teams"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What role does the red flower-shaped inner neck patch play?",
+      "options": {
+        "A": "Washing instruction",
+        "B": "Design motif celebrating heritage",
+        "C": "Tracking code",
+        "D": "Sponsor approval mark"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "If a fan sees black ribbed areas under the arm, what might they assume?",
+      "options": {
+        "A": "It’s a goalkeeper jersey",
+        "B": "It’s built for extra padding",
+        "C": "It includes ventilated zones",
+        "D": "It’s reversible"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which contrast is most prominent in the jersey?",
+      "options": {
+        "A": "Red and white",
+        "B": "Red and blue",
+        "C": "Black and blue",
+        "D": "White and gold"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which element reinforces authenticity and branding most?",
+      "options": {
+        "A": "Color hue",
+        "B": "Sponsor",
+        "C": "Adidas logo",
+        "D": "Club badge"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Why might stripes be used sparingly?",
+      "options": {
+        "A": "To keep focus on central logos",
+        "B": "To minimize visual noise",
+        "C": "To improve manufacturing speed",
+        "D": "To mimic referee shirts"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What defines the jersey as a home kit?",
+      "options": {
+        "A": "Red color and club badge",
+        "B": "Black shoulders",
+        "C": "Inner flower tag",
+        "D": "TeamViewer sponsor"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "The geometric print is most likely based on which concept?",
+      "options": {
+        "A": "Cultural patterns",
+        "B": "City map grids",
+        "C": "Stadium architecture",
+        "D": "Historic uniform lines"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which detail best balances the symmetry of the front design?",
+      "options": {
+        "A": "Black collar piping",
+        "B": "Adidas and MUFC logo alignment",
+        "C": "Vent underarms",
+        "D": "Left sleeve black patch"
+      },
+      "correct_answer": "B"
+    }
+  ],
+  "true_false": [
+  {
+    "question": "The jersey is primarily red in color.",
+    "answer": "True"
+  },
+  {
+    "question": "The club badge is placed on the right chest of the jersey.",
+    "answer": "False"
+  },
+  {
+    "question": "Adidas is the manufacturer of this Manchester United jersey.",
+    "answer": "True"
+  },
+  {
+    "question": "The sponsor displayed on the jersey is Fly Emirates.",
+    "answer": "False"
+  },
+  {
+    "question": "There is a unique geometric pattern embedded across the jersey.",
+    "answer": "True"
+  },
+  {
+    "question": "The HEAT.RDY label appears on the bottom left of the jersey.",
+    "answer": "False"
+  },
+  {
+    "question": "The collar of the jersey has black and white accent lines.",
+    "answer": "True"
+  },
+  {
+    "question": "The jersey has long sleeves.",
+    "answer": "False"
+  },
+  {
+    "question": "The TeamViewer logo is placed in the center of the jersey.",
+    "answer": "True"
+  },
+  {
+    "question": "This jersey is worn by players of Manchester United's rival team.",
+    "answer": "False"
+  },
+  {
+    "question": "There is a red rose-like symbol inside the back neck area.",
+    "answer": "True"
+  },
+  {
+    "question": "The Adidas logo is printed on the left sleeve.",
+    "answer": "False"
+  },
+  {
+    "question": "Black strips are present on the shoulder areas of the jersey.",
+    "answer": "True"
+  },
+  {
+    "question": "The jersey appears to have a buttoned collar.",
+    "answer": "False"
+  },
+  {
+    "question": "Manchester United plays in the English Premier League.",
+    "answer": "True"
+  }
+],
+  "fill_in_the_blank": [
+  {
+    "question": "The manufacturer of this Manchester United jersey is ________.",
+    "answer": "Adidas"
+  },
+  {
+    "question": "The sponsor printed at the center of the jersey is ________.",
+    "answer": "TeamViewer"
+  },
+  {
+    "question": "The club represented by this jersey is ________.",
+    "answer": "Manchester United"
+  },
+  {
+    "question": "The technology mentioned near the bottom of the jersey is ________.",
+    "answer": "HEAT.RDY"
+  },
+  {
+    "question": "The dominant color of the jersey is ________.",
+    "answer": "Red"
+  },
+  {
+    "question": "The club badge is located on the ________ chest.",
+    "answer": "left"
+  },
+  {
+    "question": "There is a ________ pattern embedded into the red fabric.",
+    "answer": "geometric"
+  },
+  {
+    "question": "The jersey is most likely used for ________ matches.",
+    "answer": "home"
+  },
+  {
+    "question": "The Adidas logo is located on the ________ chest.",
+    "answer": "right"
+  },
+  {
+    "question": "The jersey's collar features black and ________ lines.",
+    "answer": "white"
+  }
+]
+
+}

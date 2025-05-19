@@ -1,0 +1,1242 @@
+{
+    "./yollava-data/train/M_pack_tissue/0.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/1.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/2.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/3.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/4.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/5.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/6.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/7.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/8.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/9.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/10.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/11.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/12.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/13.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/14.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/15.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/16.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/17.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/18.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ],
+    "./yollava-data/train/M_pack_tissue/19.png": [
+        {
+            "Human": "What objects are in <M_pack_tissue>?",
+            "AI": "The object in <M_pack_tissue> is a middle-sized package of tissue paper. It contains a stack of individual tissue sheets, which are made of soft paper. The tissues are designed for multiple purposes such as cleaning, wiping, and personal hygiene. The package itself is rectangular, and the tissues inside are neatly folded to fit the size and shape of the package. These tissues are essential in daily life, often used in households, offices, and public spaces."
+        },
+        {
+            "Human": "What is the color of <M_pack_tissue>?",
+            "AI": "The color of <M_pack_tissue> is predominantly blue. The blue packaging is visually calming, which is commonly associated with freshness and cleanliness. Blue is also a color that communicates trust and reliability, which makes it an ideal choice for a product used for hygiene purposes. Additionally, the blue color is enhanced with white accents that make the text and branding stand out."
+        },
+        {
+            "Human": "What is the shape of <M_pack_tissue>?",
+            "AI": "The shape of <M_pack_tissue> is rectangular. This design is convenient for storage and easy handling. A rectangular shape makes it easy to stack multiple packages in a cupboard or on a shelf. The tissues inside are likely folded neatly to maintain this shape, and the rectangular packaging helps to keep the tissues protected from dust and moisture."
+        },
+        {
+            "Human": "What is the size of <M_pack_tissue>?",
+            "AI": "The size of <M_pack_tissue> is middle-sized, which is typically designed to be portable yet still offer a sufficient number of tissues. A middle-sized package provides a reasonable balance between space efficiency and quantity, making it practical for home or office use. This size is suitable for users who require frequent use of tissues but donnot want an oversized package."
+        },
+        {
+            "Human": "Can we see the remaining amount of <M_pack_tissue>?",
+            "AI": "Yes, we can see the remaining amount of tissues inside the package. The transparent nature of the plastic wrap around the package, or the design of the box, allows for partial visibility of the tissue stack. This is useful as it gives the user an indication of how much is left inside the package, allowing them to plan for a replacement when needed."
+        },
+        {
+            "Human": "What is the material of <M_pack_tissue>?",
+            "AI": "The material of <M_pack_tissue> is paper for the tissues, and the outer packaging is made of plastic. The paper used is soft and absorbent, which is ideal for tissue purposes such as wiping and cleaning. The plastic wrap helps to protect the tissue inside from moisture, dirt, and contamination. This dual-material structure ensures the tissue remains clean and intact until it is ready to be used."
+        },
+        {
+            "Human": "Is <M_pack_tissue> easy to use?",
+            "AI": "Yes, <M_pack_tissue> is easy to use. The tissues are designed to be easily dispensed one at a time through the opening at the top. The packaging allows for easy access, and the tissues are usually designed to tear cleanly without leaving bits behind. This makes the process of pulling out a tissue simple and convenient, even in situations where quick use is necessary."
+        },
+        {
+            "Human": "Is <M_pack_tissue> portable?",
+            "AI": "Yes, <M_pack_tissue> is portable. The middle size and the compact rectangular shape make it easy to carry around. This packaging is ideal for being placed in a bag, backpack, or even the glove compartment of a car. Its portability makes it convenient for travel or on-the-go use, ensuring that tissues are readily available whenever needed."
+        },
+        {
+            "Human": "What are the patterns on the <M_pack_tissue>?",
+            "AI": "The patterns on <M_pack_tissue> include delicate flowers, particularly showcasing an orange blossom design. These floral patterns contribute to the visual appeal of the package and suggest that the tissue has a mild fragrance. The text on the package, such as Super Absorbency and Ultra Strong, helps to convey the key features of the product, such as its absorbent and durable nature."
+        },
+        {
+            "Human": "What type of scent does <M_pack_tissue> have?",
+            "AI": "The <M_pack_tissue> has an orange blossom scent. This light and refreshing fragrance is designed to enhance the user experience, making the tissue feel more pleasant to use. The scent of orange blossom is known for its soothing and mild floral aroma, which adds a layer of freshness and comfort when using the tissue, especially for personal hygiene."
+        },
+        {
+            "Human": "Is <M_pack_tissue> biodegradable?",
+            "AI": "Yes, the tissue paper in <M_pack_tissue> is biodegradable. Tissue paper is typically made from wood pulp, which is an organic material. This means that it will break down over time when exposed to environmental conditions, making it an eco-friendly option compared to synthetic materials. The biodegradable nature helps reduce its environmental impact when disposed of properly."
+        },
+        {
+            "Human": "Is <M_pack_tissue> suitable for sensitive skin?",
+            "AI": "Yes, <M_pack_tissue> is suitable for sensitive skin. The soft texture of the tissue ensures it is gentle on the skin, making it ideal for wiping the face, hands, or other delicate areas of the body. The lack of harsh chemicals or perfumes in the tissue also makes it less likely to cause irritation, which is important for individuals with sensitive skin."
+        },
+        {
+            "Human": "What makes <M_pack_tissue> ultra-strong?",
+            "AI": "The <M_pack_tissue> is labeled as UltraStrong because of the durable and tear-resistant nature of the tissue sheets. These tissues are designed to remain intact even when wet, making them reliable for various tasks such as wiping surfaces, cleaning spills, and personal hygiene. The strength ensures that the tissue won\u9225\u6a9b break or shred easily, even under heavy use."
+        },
+        {
+            "Human": "Is <M_pack_tissue> safe for use on face or body?",
+            "AI": "Yes, <M_pack_tissue> is safe for use on the face or body. The tissue is made from soft, hypoallergenic paper, which ensures that it is gentle on sensitive skin. The mild scent of orange blossom adds to the experience without being overpowering or irritating. The tissues softness and quality make it suitable for use on all parts of the body, including the face."
+        },
+        {
+            "Human": "What is the purpose of the plastic wrap on <M_pack_tissue>?",
+            "AI": "The plastic wrap on <M_pack_tissue> serves a protective function. It keeps the tissues inside safe from moisture, dirt, and contaminants. The plastic helps maintain the tissues dryness and ensures they remain clean until they are needed. The wrap also provides some level of rigidity to the package, making it easier to handle and store."
+        }
+    ]
+}

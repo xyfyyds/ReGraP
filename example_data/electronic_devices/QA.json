@@ -1,0 +1,509 @@
+{
+  "multiple_choice": [
+     {
+      "question": "If the mouse disconnects, what impact will it have on the monitor?",
+      "options": {
+        "A": "The monitor will stop displaying content",
+        "C": "The monitor will turn off automatically",
+        "B": "The cursor on the monitor will stop moving",
+        "D": "There will be no impact on the monitor"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What happens when the monitor is disconnected from the computer?",
+      "options": {
+        "A": "The keyboard stops functioning",
+        "B": "The computer continues to work, but only its internal display is used",
+        "C": "The Bluetooth mouse stops working",
+        "D": "The headphones lose their connection"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following brands is the brand of the monitor?",
+      "options": {
+        "A": "philip",
+        "B": "Logitech",
+        "C": "filco",
+        "D": "philips"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which brand appears in both the computer and mouse?",
+      "options": {
+        "A": "Philips",
+        "B": "Asus ROG",
+        "C": "Filco",
+        "D": "Bose"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "How does the computer send display output to the monitor?",
+      "options": {
+        "A": "via Bluetooth",
+        "B": "via HDMI",
+        "C": "via Wi-Fi",
+        "D": "No connection exists"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which device is connected to the computer using Bluetooth?",
+      "options": {
+        "A": "Keyboard",
+        "B": "Monitor",
+        "C": "Mouse",
+        "D": "Headphones"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which device in the setup is from the Bose brand?",
+      "options": {
+        "A": "Monitor",
+        "B": "Mouse",
+        "C": "Headphones",
+        "D": "Keyboard"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following devices does NOT use a wired connection?",
+      "options": {
+        "A": "Monitor",
+        "B": "Mouse",
+        "C": "Keyboard",
+        "D": "Headphones"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which statement about the mouse is true?",
+      "options": {
+        "A": "The mouse is connected to the monitor directly",
+        "B": "The mouse connects to the computer using Bluetooth",
+        "C": "The mouse is using wired connection",
+        "D": "The mouse does not interact with the computer"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which type of connection does the keyboard use?",
+      "options": {
+        "A": "Wired",
+        "B": "Bluetooth",
+        "C": "Wi-Fi",
+        "D": "Wireless USB"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the primary purpose of the monitor in the setup?",
+      "options": {
+        "A": "To display output from the computer",
+        "B": "To provide audio output",
+        "C": "To control input devices",
+        "D": "To send signals to the keyboard"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following statements about the headphones is correct?",
+      "options": {
+        "A": "The headphones are wireless-only",
+        "B": "The headphones support both wired and Bluetooth connections",
+        "C": "The headphones are currently connected via Bluetooth",
+        "D": "The headphones cannot be connected to the computer"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which device does NOT directly interact with the monitor?",
+      "options": {
+        "A": "Computer",
+        "B": "Mouse",
+        "C": "Keyboard",
+        "D": "Headphones"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Why might the owner prefer a wired keyboard?",
+      "options": {
+        "A": "To avoid battery replacements and ensure a stable connection",
+        "B": "Because wired keyboards are cheaper",
+        "C": "Because wired keyboards do not need to be connected to a computer",
+        "D": "Because wired keyboards cannot be used wirelessly"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which statement about the workspace setup is correct?",
+      "options": {
+        "A": "The setup contains both wired and wireless connections",
+        "B": "All devices in the setup are wired, including the mouse",
+        "C": "All devices in the setup are wireless, including the keyboard",
+        "D": "Only the monitor is connected to the computer"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which device is responsible for controlling the cursor on the monitor?",
+      "options": {
+        "A": "Monitor",
+        "B": "Keyboard",
+        "C": "Mouse",
+        "D": "Headphones"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which connection type is the most used in this setup?",
+      "options": {
+        "A": "Bluetooth",
+        "B": "Wired",
+        "C": "Wi-Fi",
+        "D": "Wireless USB"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the most likely reason for the monitor to use an HDMI connection?",
+      "options": {
+        "A": "To ensure stable and high-quality video output",
+        "B": "Because HDMI is the only option",
+        "C": "Because wireless monitors do not exist",
+        "D": "Because the keyboard requires an HDMI connection"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following devices has an indirect relationship with the monitor?",
+      "options": {
+        "A": "Computer",
+        "B": "Mouse and Keyboard",
+        "C": "No one",
+        "D": "Headphones"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What happens when the keyboard is used?",
+      "options": {
+        "A": "The monitor receives input directly",
+        "B": "The computer processes the input, then displays it on the monitor",
+        "C": "The keyboard wirelessly connects to the monitor",
+        "D": "The keyboard only affects the mouse"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the brand of the keyboard?",
+      "options": {
+        "A": "Lenovo",
+        "B": "Filco",
+        "C": "philips",
+        "D": "Asus ROG"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which device is manufactured by Filco?",
+      "options": {
+        "A": "Monitor",
+        "B": "Mouse",
+        "C": "Computer",
+        "D": "Keyboard"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What is the brand of the computer?",
+      "options": {
+        "A": "Philips",
+        "B": "Asus ROG",
+        "C": "Dell",
+        "D": "HP"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which devices in the setup share the same brand?",
+      "options": {
+        "A": "Computer and Mouse",
+        "B": "Table and Keyboard",
+        "C": "None",
+        "D": "Computer and Monitor"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "How is the keyboard connected to the computer?",
+      "options": {
+        "A": "Bluetooth",
+        "B": "Wired",
+        "C": "Wi-Fi",
+        "D": "Wireless USB"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following devices connects via Bluetooth?",
+      "options": {
+        "A": "Keyboard",
+        "B": "Monitor",
+        "C": "Mouse",
+        "D": "Headphones"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What type of connection is the monitor using now?",
+      "options": {
+        "A": "Bluetooth",
+        "B": "HDMI",
+        "C": "DP",
+        "D": "Wi-Fi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "How is the headphone connected to the computer?",
+      "options": {
+        "A": "Bluetooth",
+        "B": "Wired",
+        "C": "I dont know",
+        "D": "They are not connected"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which type(s) of connection do(es) the headphone support?",
+      "options": {
+        "A": "OnlyBluetooth",
+        "B": "Only Wired",
+        "C": "They cannot be paired",
+        "D": "Both Bluetooth and Wired"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following best describes the relation between the keyboard and the monitor?",
+      "options": {
+        "A": "The keyboard is directly connected to the monitor",
+        "B": "The keyboard inputs data into the computer, which then displays it on the monitor",
+        "C": "The monitor controls the keyboard",
+        "D": "The keyboard connects wirelessly to the monitor"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which statement about the monitor is true?",
+      "options": {
+        "A": "It is a Philips monitor connected via HDMI",
+        "B": "It connects to the computer wirelessly",
+        "C": "It shares the same brand as the computer",
+        "D": "It is broken"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why is the monitor using a wired connection?",
+      "options": {
+        "A": "Wireless monitors are unstable",
+        "B": "Wired connections provide higher bandwidth and lower latency",
+        "C": "The monitor does not support wireless connections",
+        "D": "The computer does not support HDMI"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the relation between the mouse and the monitor?",
+      "options": {
+        "A": "The mouse is directly connected to the monitor",
+        "B": "The mouse controls the cursor on the extended monitor display via the computer",
+        "C": "The monitor tracks the mouse’s position independently",
+        "D": "The mouse is wired to the monitor"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why might the owner use a Bluetooth mouse instead of a wired one?",
+      "options": {
+        "A": "To avoid latency issues",
+        "B": "I dont know",
+        "C": "To reduce desk clutter and allow flexible movement",
+        "D": "To avoid battery replacement"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the relation between the workspace and the devices?",
+      "options": {
+        "A": "The workspace includes the laptop, monitor, keyboard, mouse, and headphones arranged for ergonomic use",
+        "B": "The workspace consists only of the computer and monitor",
+        "C": "The workspace contains only wireless devices",
+        "D": "The workspace is empty"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which statement is correct in terms of the usage of wired and wireless connections in the setup?",
+      "options": {
+        "A": "The setup balances reliability and convenience, using wired for stability and wireless for flexibility",
+        "B": "The mouse uses the same type of connection as the keyboard",
+        "C": "Wireless connections are more popular than wired connections",
+        "D": "The setup lacks a monitor"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "How does the keyboard indirectly interact with the monitor?",
+      "options": {
+        "A": "The keyboard directly inputs text onto the monitor",
+        "B": "The keyboard sends input to the computer, which processes and displays it on the monitor",
+        "C": "The keyboard wirelessly controls the monitor",
+        "D": "The keyboard is not part of the setup"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the most likely reason the headphones are currently wired?",
+      "options": {
+        "A": "The headphones do not support",
+        "B": "The headphones is broken",
+        "C": "Wired connections provide lower latency and better audio quality",
+        "D": "The computer does not support"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How does the use of a wired keyboard affect the setup?",
+      "options": {
+        "A": "Ensures a stable and latency-free typing experience",
+        "B": "Requires frequent battery replacements",
+        "C": "Makes the workspace completely wireless",
+        "D": "Prevents the keyboard from being used"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following is an example of an indirect relation in the setup?",
+      "options": {
+        "A": "The mouse is connected directly to the monitor",
+        "B": "The keyboard interacts with the monitor through the computer",
+        "C": "The monitor is controlled directly by the keyboard",
+        "D": "The headphones control the keyboard"
+      },
+      "correct_answer": "B"
+    }
+  ],
+  "fill_in_the_blank": [
+  {
+    "question": "The Filco keyboard is connected to the Asus ROG laptop via a ______ connection.",
+    "answer": "wired"
+  },
+  {
+    "question": "The mouse in the setup connects to the computer using ______.",
+    "answer": "Bluetooth"
+  },
+  {
+    "question": "The Philips monitor is linked to the computer through an ______ cable.",
+    "answer": "HDMI"
+  },
+  {
+    "question": "The headphones are made by ______ and are currently using a wired connection.",
+    "answer": "Bose"
+  },
+  {
+    "question": "The external keyboard allows for a stable, latency-free ______ experience.",
+    "answer": "typing"
+  },
+  {
+    "question": "The Bluetooth mouse allows for a cleaner ______ setup.",
+    "answer": "desk"
+  },
+  {
+    "question": "The monitor serves as a(n) ______ display for multitasking.",
+    "answer": "extended"
+  },
+  {
+    "question": "The wired headphones are ideal for tasks requiring precise ______ synchronization.",
+    "answer": "audio"
+  },
+  {
+    "question": "The monitor is a product of the ______ brand.",
+    "answer": "Philips"
+  },
+  {
+    "question": "The user arranged the workspace for ______ efficiency.",
+    "answer": "ergonomic"
+  }
+],
+  "true_false":[
+  {
+    "question": "The Filco keyboard connects wirelessly to the monitor.",
+    "answer": false
+  },
+  {
+    "question": "The Bose headphones are connected via a physical cable.",
+    "answer": true
+  },
+  {
+    "question": "The mouse in the setup is wired.",
+    "answer": false
+  },
+  {
+    "question": "The Philips monitor is connected using an HDMI cable.",
+    "answer": true
+  },
+  {
+    "question": "The keyboard sends input directly to the monitor.",
+    "answer": false
+  },
+  {
+    "question": "The keyboard sends input to the computer, which then outputs to the monitor.",
+    "answer": true
+  },
+  {
+    "question": "The monitor in this workspace is a touchscreen.",
+    "answer": false
+  },
+  {
+    "question": "The setup includes both wired and wireless device connections.",
+    "answer": true
+  },
+  {
+    "question": "The user intentionally uses a Bluetooth mouse to reduce cable clutter.",
+    "answer": true
+  },
+  {
+    "question": "The Bose headphones cannot be connected wirelessly.",
+    "answer": false
+  },
+  {
+    "question": "The mouse's cursor appears on the extended monitor display.",
+    "answer": true
+  },
+  {
+    "question": "The workspace contains only wireless devices.",
+    "answer": false
+  },
+  {
+    "question": "The headphones are used primarily for audio playback from the computer.",
+    "answer": true
+  },
+  {
+    "question": "The mouse connects to the monitor using a USB dongle.",
+    "answer": false
+  },
+  {
+    "question": "The setup prioritizes performance and stability in its connection choices.",
+    "answer": true
+  }
+]
+
+}

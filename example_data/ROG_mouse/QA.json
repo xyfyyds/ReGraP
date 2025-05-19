@@ -1,0 +1,434 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What is the primary color of the ASUS ROG mouse body?",
+      "options": {
+        "A": "Black",
+        "B": "White",
+        "C": "Grey",
+        "D": "Silver"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What symbol is illuminated on the back of the mouse?",
+      "options": {
+        "A": "A triangle",
+        "B": "A lightning bolt",
+        "C": "The ROG logo",
+        "D": "An arrow"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What color does the logo on the mouse emit?",
+      "options": {
+        "A": "Red",
+        "B": "Green",
+        "C": "Blue",
+        "D": "Orange"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which brand does the mouse belong to?",
+      "options": {
+        "A": "Logitech",
+        "B": "Razer",
+        "C": "ASUS",
+        "D": "SteelSeries"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What does ROG stand for in ASUS products?",
+      "options": {
+        "A": "Republic of Gaming",
+        "B": "Real Office Gear",
+        "C": "ROG Only Gaming",
+        "D": "Ready on Go"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the dominant material color around the scroll wheel?",
+      "options": {
+        "A": "Black",
+        "B": "White",
+        "C": "Grey",
+        "D": "Blue"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How many main click buttons are visible on the top of the mouse?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the texture pattern on the side grip area of the mouse?",
+      "options": {
+        "A": "Smooth plastic",
+        "B": "Grooved lines",
+        "C": "Honeycomb holes",
+        "D": "Rubber dots"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What type of device is this ASUS ROG product?",
+      "options": {
+        "A": "Keyboard",
+        "B": "Mouse",
+        "C": "Monitor",
+        "D": "Headset"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which color appears between the click buttons and the palm area?",
+      "options": {
+        "A": "Grey",
+        "B": "Blue",
+        "C": "Black",
+        "D": "White"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What shape is the overall body of the mouse?",
+      "options": {
+        "A": "Flat",
+        "B": "Ergonomic dome",
+        "C": "Rectangular",
+        "D": "Triangular"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Where is the ROG logo located on the mouse?",
+      "options": {
+        "A": "On the scroll wheel",
+        "B": "On the left side",
+        "C": "On the palm rest",
+        "D": "On the bottom"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which hand orientation is most likely supported by the mouse design?",
+      "options": {
+        "A": "Left-handed only",
+        "B": "Ambidextrous",
+        "C": "Right-handed only",
+        "D": "None"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "The side buttons are located on which side of the mouse?",
+      "options": {
+        "A": "Left",
+        "B": "Right",
+        "C": "Bottom",
+        "D": "Top"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the likely primary usage for this ROG mouse?",
+      "options": {
+        "A": "Data entry",
+        "B": "Gaming",
+        "C": "Art and design",
+        "D": "Video editing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following is a defining feature of this mouse's appearance?",
+      "options": {
+        "A": "Bright RGB light on logo",
+        "B": "Transparent body",
+        "C": "Touchscreen interface",
+        "D": "External cooling fan"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which part of the mouse has textured grip lines?",
+      "options": {
+        "A": "Scroll wheel",
+        "B": "Side panels",
+        "C": "Logo area",
+        "D": "Underside"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the likely function of the extra buttons near the thumb area?",
+      "options": {
+        "A": "Sound control",
+        "B": "Keyboard lighting",
+        "C": "Programmable inputs",
+        "D": "Adjusting fan speed"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which component connects the left and right click buttons?",
+      "options": {
+        "A": "Charging port",
+        "B": "Sensor",
+        "C": "Scroll wheel",
+        "D": "Display screen"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the color of the scroll wheel?",
+      "options": {
+        "A": "Black",
+        "B": "White",
+        "C": "Grey",
+        "D": "Blue"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is the ASUS ROG mouse likely preferred by gamers?",
+      "options": {
+        "A": "It has a built-in display",
+        "B": "It offers high DPI and programmable buttons",
+        "C": "It includes speakers",
+        "D": "It functions as a joystick"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Based on the ergonomic design, what is the likely hand used for this mouse?",
+      "options": {
+        "A": "Left hand",
+        "B": "Right hand",
+        "C": "Both equally",
+        "D": "Neither"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "If the logo is glowing blue, what does this most likely indicate?",
+      "options": {
+        "A": "It is turned off",
+        "B": "It is in wireless mode",
+        "C": "It is actively powered",
+        "D": "It is low battery"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why might the side grip texture be included?",
+      "options": {
+        "A": "For lighting effects",
+        "B": "For ergonomic styling",
+        "C": "To enhance grip during use",
+        "D": "For brand aesthetics"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What inference can be made from the placement of the side buttons?",
+      "options": {
+        "A": "They are decorative only",
+        "B": "They are for symmetrical design",
+        "C": "They are accessible for thumb input",
+        "D": "They are backup clickers"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What does the placement of the ROG logo suggest about the mouse’s intended orientation?",
+      "options": {
+        "A": "It's used sideways",
+        "B": "It's used with the logo facing away from the user",
+        "C": "It's used upright with hand over the logo",
+        "D": "It's meant to be seen vertically"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why would gamers prefer a wireless design like this mouse?",
+      "options": {
+        "A": "To avoid cable drag",
+        "B": "To reduce cost",
+        "C": "To increase weight",
+        "D": "To match headphones"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What evidence suggests this mouse has advanced gaming functions?",
+      "options": {
+        "A": "Flat design",
+        "B": "Illuminated logo and side buttons",
+        "C": "Rubber base",
+        "D": "Minimal curves"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Given the visible buttons and layout, which hand is the mouse not optimized for?",
+      "options": {
+        "A": "Right hand",
+        "B": "Left hand",
+        "C": "Both hands",
+        "D": "Hands-free use"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why might the scroll wheel have ridges?",
+      "options": {
+        "A": "To increase LED diffusion",
+        "B": "To match design aesthetics",
+        "C": "To enhance tactile control",
+        "D": "To reduce surface area"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why might the user prefer the shape of this mouse?",
+      "options": {
+        "A": "It supports claw grip",
+        "B": "It folds into a smaller shape",
+        "C": "It mimics a keyboard layout",
+        "D": "It has embedded touchpad"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which reason best explains why the palm area is smooth while the sides are textured?",
+      "options": {
+        "A": "The palm needs friction, sides don’t",
+        "B": "The palm area is decorative only",
+        "C": "Grip is needed at sides, not palm",
+        "D": "It reduces weight overall"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "If a user has sweaty hands, which design element aids usability?",
+      "options": {
+        "A": "Smooth top shell",
+        "B": "Textured side grips",
+        "C": "Logo lighting",
+        "D": "Grey click buttons"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why might the ASUS logo glow even when the mouse is idle?",
+      "options": {
+        "A": "For battery saving",
+        "B": "To display charge level",
+        "C": "As a brand highlight feature",
+        "D": "To confuse users"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What can be inferred from the symmetry of the click buttons?",
+      "options": {
+        "A": "Ambidextrous design",
+        "B": "Gaming efficiency",
+        "C": "Aesthetic only",
+        "D": "Ergonomic structure"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is the palm area larger than the click buttons?",
+      "options": {
+        "A": "To support larger hands",
+        "B": "To house RGB lights",
+        "C": "To improve scroll distance",
+        "D": "To allow resting gestures"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What is the main reason the mouse is wireless?",
+      "options": {
+        "A": "For aesthetic minimalism",
+        "B": "To reduce response time",
+        "C": "To avoid cable interference",
+        "D": "To allow stacking with keyboard"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What reason best explains the mouse's light color scheme?",
+      "options": {
+        "A": "To stay cool in use",
+        "B": "To match a white desk setup",
+        "C": "To reflect ASUS design language",
+        "D": "To show less dirt"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "If the mouse has extra buttons near the thumb area, what does that imply?",
+      "options": {
+        "A": "Custom input options",
+        "B": "Charging connectors",
+        "C": "Stylus holders",
+        "D": "Reinforced plastic"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the likely function of the illuminated ROG logo?",
+      "options": {
+        "A": "For decoration only",
+        "B": "To indicate battery status",
+        "C": "To signify power or active mode",
+        "D": "To show warranty status"
+      },
+      "correct_answer": "C"
+    }
+  ],
+  "true_false": [
+  { "question": "The mouse body is primarily white.", "answer": "True" },
+  { "question": "The ROG logo is located on the bottom of the mouse.", "answer": "False" },
+  { "question": "The side grip of the mouse has a grooved texture.", "answer": "True" },
+  { "question": "The mouse has a symmetrical design suitable for both hands.", "answer": "False" },
+  { "question": "The scroll wheel is placed between the left and right click buttons.", "answer": "True" },
+  { "question": "There is a visible charging port on the top of the mouse.", "answer": "False" },
+  { "question": "The ROG logo on the mouse glows blue.", "answer": "True" },
+  { "question": "There are additional buttons located on the right side of the mouse.", "answer": "False" },
+  { "question": "The mouse is wired and requires a USB connection to function.", "answer": "False" },
+  { "question": "ASUS manufactures this mouse under the Republic of Gamers line.", "answer": "True" },
+  { "question": "The scroll wheel appears to be textured or ribbed.", "answer": "True" },
+  { "question": "The mouse features RGB lighting across the entire surface.", "answer": "False" },
+  { "question": "The palm area is smooth while the sides are textured.", "answer": "True" },
+  { "question": "This mouse design supports high-speed clicking suitable for gaming.", "answer": "True" },
+  { "question": "The overall design of the mouse is flat and symmetrical.", "answer": "False" }
+],
+  "fill_in_the_blank": [
+  { "question": "The mouse is manufactured by ______.", "answer": "ASUS" },
+  { "question": "The gaming line associated with this mouse is called ______.", "answer": "ROG" },
+  { "question": "The glowing logo on the mouse emits a ______ color.", "answer": "blue" },
+  { "question": "The left side of the mouse features additional ______.", "answer": "buttons" },
+  { "question": "The surface of the palm area is ______.", "answer": "smooth" },
+  { "question": "The side grips of the mouse feature ______ lines for better control.", "answer": "grooved" },
+  { "question": "The shape of the mouse is designed for ______-handed use.", "answer": "right" },
+  { "question": "The scroll wheel is located between the left and right ______.", "answer": "click buttons" },
+  { "question": "This mouse uses ______ connectivity instead of a wired connection.", "answer": "wireless" },
+  { "question": "The logo on the mouse represents the ______ of Gamers.", "answer": "Republic" }
+]
+
+}

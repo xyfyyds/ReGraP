@@ -1,0 +1,518 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What animal is the body pillow designed to resemble?",
+      "options": {
+        "A": "Dog",
+        "B": "Cat",
+        "C": "Rabbit",
+        "D": "Fox"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the dominant background color of the pillow's fabric?",
+      "options": {
+        "A": "White",
+        "B": "Blue",
+        "C": "Black",
+        "D": "Gray"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What feature makes the pillow appear expressive?",
+      "options": {
+        "A": "Eyebrows",
+        "B": "Embroidered eyes and mouth",
+        "C": "Attached whiskers",
+        "D": "3D nose"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which color is used to highlight the pillow's ear and eye patch?",
+      "options": {
+        "A": "Black",
+        "B": "Navy",
+        "C": "Sky Blue",
+        "D": "Royal Blue"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How many visible limbs does the body pillow have?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "0"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What shape is the body pillow most similar to?",
+      "options": {
+        "A": "Rectangular",
+        "B": "Cylindrical",
+        "C": "Oval",
+        "D": "Heart-shaped"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What kind of facial expression does the pillow have?",
+      "options": {
+        "A": "Angry",
+        "B": "Happy",
+        "C": "Sad",
+        "D": "Neutral"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which type of lines form the whiskers and mouth?",
+      "options": {
+        "A": "Straight",
+        "B": "Curved",
+        "C": "Dotted",
+        "D": "Wavy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What part of the body pillow protrudes outward?",
+      "options": {
+        "A": "Ears",
+        "B": "Nose",
+        "C": "Whiskers",
+        "D": "Tail"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which feature most strongly emphasizes the pillow's character?",
+      "options": {
+        "A": "Color pattern",
+        "B": "Face embroidery",
+        "C": "Material texture",
+        "D": "Shape symmetry"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which design feature breaks the symmetry of the body pillow?",
+      "options": {
+        "A": "Eye patch",
+        "B": "Mouth",
+        "C": "Limb spacing",
+        "D": "Nose location"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "The use of different blue shades on the ears and eye patch suggests what?",
+      "options": {
+        "A": "Texture separation",
+        "B": "Random printing",
+        "C": "Stylized character features",
+        "D": "Shadow rendering"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What makes the pillow appear friendly despite its sad face?",
+      "options": {
+        "A": "Rounded features and soft fabric",
+        "B": "Bright neon colors",
+        "C": "Sharp ear design",
+        "D": "Aggressive tail curve"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which material property is most important for hugging?",
+      "options": {
+        "A": "Elasticity",
+        "B": "Hardness",
+        "C": "Softness",
+        "D": "Opacity"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What aspect of the pillow appeals most to anime fans?",
+      "options": {
+        "A": "Minimalist shape",
+        "B": "Expressive face and chibi styling",
+        "C": "Heat insulation",
+        "D": "Removable ears"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "The body pillow’s color contrast mainly serves to:",
+      "options": {
+        "A": "Indicate different fabrics",
+        "B": "Add manufacturing complexity",
+        "C": "Highlight visual regions like eyes and ears",
+        "D": "Support VR rendering"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why does the tail shape matter in the pillow’s visual identity?",
+      "options": {
+        "A": "To anchor the body",
+        "B": "To complete the animal form",
+        "C": "To enable flipping",
+        "D": "To match front pattern"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following design choices increases perceived emotional appeal?",
+      "options": {
+        "A": "Mirrored limb layout",
+        "B": "Slanted eyebrows",
+        "C": "Circular body",
+        "D": "Minimal print"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why might the pillow use embroidered features instead of printed ones?",
+      "options": {
+        "A": "Cost efficiency",
+        "B": "Longer durability and texture",
+        "C": "Fabric transparency",
+        "D": "Less color bleed"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What functional benefit does the cylindrical shape provide?",
+      "options": {
+        "A": "Better stacking",
+        "B": "Easier to ship",
+        "C": "Better hugging and arm-wrapping comfort",
+        "D": "Multiple faces for play"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "If the face were removed, what would be lost?",
+      "options": {
+        "A": "Any narrative element",
+        "B": "All textile diversity",
+        "C": "Color separation",
+        "D": "Comfort level"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which part of the pillow conveys the most emotion?",
+      "options": {
+        "A": "Tail curve",
+        "B": "Limb position",
+        "C": "Facial features",
+        "D": "Ear angle"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why might the character appear sad instead of happy?",
+      "options": {
+        "A": "To reflect a specific anime scene or personality",
+        "B": "To discourage play",
+        "C": "To symbolize poor material quality",
+        "D": "To match the lighting"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What visual cue gives a sense of depth to the face?",
+      "options": {
+        "A": "Use of black outlines",
+        "B": "3D nose placement",
+        "C": "Inner tail shadow",
+        "D": "Dot gradient printing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What role do the whiskers play in the design?",
+      "options": {
+        "A": "Decoration only",
+        "B": "Facial emphasis and emotional accent",
+        "C": "Anchoring symmetry",
+        "D": "Mimicking physical sensors"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "If rotated upside down, which feature is most confusing to orientation?",
+      "options": {
+        "A": "Eye placement",
+        "B": "Tail symmetry",
+        "C": "Ear alignment",
+        "D": "Facial expression"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Why is it unlikely that this body pillow was designed for babies?",
+      "options": {
+        "A": "Because of sharp corners",
+        "B": "Because of choking hazards from ears",
+        "C": "Because it is too large and has mature expression design",
+        "D": "Because it contains batteries"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following aspects gives the pillow a more unique identity?",
+      "options": {
+        "A": "Limb rotation",
+        "B": "Sad expression with minimalist form",
+        "C": "Mass-market shape",
+        "D": "Uniform fabric color"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "How does symmetry affect the aesthetic value of the pillow?",
+      "options": {
+        "A": "It increases visual confusion",
+        "B": "It stabilizes its base",
+        "C": "It enhances perceived balance and appeal",
+        "D": "It reduces manufacturing cost"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What does the soft blue color imply emotionally?",
+      "options": {
+        "A": "Anger",
+        "B": "Excitement",
+        "C": "Calm and melancholy",
+        "D": "Urgency"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is most likely the manufacturing priority for this pillow?",
+      "options": {
+        "A": "Mechanical precision",
+        "B": "Sharp definition",
+        "C": "Softness and safety",
+        "D": "Edginess and novelty"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is the use of a sad facial expression effective on a comfort pillow?",
+      "options": {
+        "A": "It adds contrast to the pillow’s softness, creating emotional attachment",
+        "B": "It makes the pillow look more expensive",
+        "C": "It reduces production costs due to simpler embroidery",
+        "D": "It aligns with traditional baby toy norms"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which element is most responsible for conveying personality in the pillow?",
+      "options": {
+        "A": "The ears’ symmetry",
+        "B": "The facial embroidery and expression",
+        "C": "The cylinder shape",
+        "D": "The shade of blue"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why might a user interpret the pillow as comforting despite its sad face?",
+      "options": {
+        "A": "The color contrast removes all emotion",
+        "B": "The texture and form override the emotional expression",
+        "C": "The ears cancel out sadness",
+        "D": "Sadness is perceived as humorous in plush design"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What could be the reason for adding a 3D nose instead of a flat one?",
+      "options": {
+        "A": "To aid airflow during sleep",
+        "B": "To increase visual flatness",
+        "C": "To add tactile realism to the face",
+        "D": "To allow sound amplification"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "If the whiskers were removed, what effect would that have?",
+      "options": {
+        "A": "The pillow would become structurally unstable",
+        "B": "It would lose part of its emotional expressiveness and animal identity",
+        "C": "It would become a toy for babies",
+        "D": "It would attract dust more easily"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of these features most clearly reflects the pillow's non-human identity?",
+      "options": {
+        "A": "Cylindrical body",
+        "B": "Whiskers and ear position",
+        "C": "Soft fabric",
+        "D": "Tail patch stitching"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is bilateral symmetry important in the pillow's design?",
+      "options": {
+        "A": "It helps with weight balance for walking use",
+        "B": "It aligns with visual harmony expectations in cute design",
+        "C": "It reduces the need for multiple molds",
+        "D": "It supports motion sensors"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which change would most disrupt the pillow's emotional effect?",
+      "options": {
+        "A": "Changing the blue to green",
+        "B": "Making the eyes closer together",
+        "C": "Replacing the curved mouth with a smile",
+        "D": "Removing the tail"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How does the tail support the pillow’s visual balance?",
+      "options": {
+        "A": "It prevents rotation",
+        "B": "It mirrors the head’s visual weight and completes silhouette",
+        "C": "It adds extra height",
+        "D": "It stiffens the pillow"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which material decision most likely improves user experience when hugging the pillow?",
+      "options": {
+        "A": "Choosing a fuzzy polyester over canvas",
+        "B": "Adding a zipper instead of stitching",
+        "C": "Using a plastic coating",
+        "D": "Removing the face print"
+      },
+      "correct_answer": "A"
+    }
+  ],
+    "true_or_false": [
+      {
+        "question": "The pillow has an animal face embroidered on it.",
+        "answer": true
+      },
+      {
+        "question": "The pillow is primarily white in color.",
+        "answer": true
+      },
+      {
+        "question": "The pillow has a smiling facial expression.",
+        "answer": false
+      },
+      {
+        "question": "There are visible limbs on the pillow.",
+        "answer": true
+      },
+      {
+        "question": "The pillow is shaped like a square.",
+        "answer": false
+      },
+      {
+        "question": "The pillow's design includes a tail, which contributes to its animal-like appearance.",
+        "answer": true
+      },
+      {
+        "question": "The whiskers on the pillow are printed using reflective ink.",
+        "answer": false
+      },
+      {
+        "question": "The symmetry of the face and body is intentional for aesthetic balance.",
+        "answer": true
+      },
+      {
+        "question": "The pillow uses different facial embroidery styles to reflect changing moods.",
+        "answer": false
+      },
+      {
+        "question": "The tail is necessary to complete the silhouette and visual identity of the pillow.",
+        "answer": true
+      },
+      {
+        "question": "The sad expression on the pillow discourages emotional bonding.",
+        "answer": false
+      },
+      {
+        "question": "The rounded ear shapes are consistent with the ‘cute’ design language common in plush items.",
+        "answer": true
+      },
+      {
+        "question": "The pillow's limbs are arranged symmetrically to reflect biological realism.",
+        "answer": true
+      },
+      {
+        "question": "A flat face design would result in a more emotionally rich appearance.",
+        "answer": false
+      },
+      {
+        "question": "The pillow's choice of materials suggests it was designed primarily for display rather than use.",
+        "answer": false
+      }
+],
+    "fill_in_the_blank": [
+  {
+    "question": "The body pillow is shaped like a long ______.",
+    "answer": "cylinder"
+  },
+  {
+    "question": "The face of the pillow shows a ______ expression.",
+    "answer": "sad"
+  },
+  {
+    "question": "The nose on the pillow is designed to be ______ dimensional.",
+    "answer": "three"
+  },
+  {
+    "question": "The animal the pillow is based on is likely a ______.",
+    "answer": "cat"
+  },
+  {
+    "question": "The pillow's face includes eyes, whiskers, and a ______.",
+    "answer": "mouth"
+  },
+  {
+    "question": "The symmetry of the design enhances visual ______.",
+    "answer": "balance"
+  },
+  {
+    "question": "The use of embroidered facial features instead of printed ones increases both durability and ______ engagement.",
+    "answer": "tactile"
+  },
+  {
+    "question": "Despite its sad face, the pillow feels comforting due to its shape and ______.",
+    "answer": "softness"
+  },
+  {
+    "question": "The tail and ears on the pillow help reinforce its ______ identity.",
+    "answer": "animal"
+  },
+  {
+    "question": "A key reason the pillow elicits emotional attachment is the combination of softness and facial ______.",
+    "answer": "expression"
+  }
+]
+}

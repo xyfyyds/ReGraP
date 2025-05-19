@@ -1,0 +1,1322 @@
+{
+    "./yollava-data/train/body_pillow/0.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/1.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/2.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/3.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/4.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/5.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/6.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/7.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/8.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/9.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/10.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/11.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/12.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/13.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/14.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/15.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/16.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/17.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/18.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ],
+    "./yollava-data/train/body_pillow/19.png": [
+        {
+            "Human": "What is the object of <body_pillow>?",
+            "AI": "<body_pillow> is a long, cylindrical pillow designed primarily for comfort and support during rest or sleep. It features a character design inspired by the anime 'Himouto! Umaru-chan,' making it a combination of functional bedding and collectible merchandise."
+        },
+        {
+            "Human": "What is the design theme of <body_pillow>?",
+            "AI": "<body_pillow> is themed after a character from 'Himouto! Umaru-chan.' The pillow depicts a cat-like creature with a melancholic facial expression, which aligns with the anime's humorous and exaggerated emotions. The character's sad face adds a unique aesthetic that may evoke sympathy or affection from anime fans."
+        },
+        {
+            "Human": "What is the size of <body_pillow>?",
+            "AI": "<body_pillow> is approximately 140 cm in length. This size allows it to function as a full-body support pillow, providing comfort when hugging, leaning on it, or using it as a cushion while sleeping. Its elongated shape ensures it can support multiple areas of the body, such as the back, arms, or legs."
+        },
+        {
+            "Human": "What is the texture of <body_pillow>?",
+            "AI": "<body_pillow> has a soft and plush texture. The outer fabric is made of a smooth, cloth-like material that feels pleasant against the skin, while the interior is filled with cotton, making it both fluffy and resilient. This texture enhances the comfort level and makes it ideal for long-term use."
+        },
+        {
+            "Human": "What is the primary function of <body_pillow>?",
+            "AI": "<body_pillow> is designed for multiple functions. Its primary purpose is to provide ergonomic support for sleeping, reducing pressure on the spine and joints. Additionally, it serves as a comforting plush for hugging, offering a sense of warmth and security. Given its unique design, it also functions as an anime-themed decorative item."
+        },
+        {
+            "Human": "What is the facial expression of the character on <body_pillow>?",
+            "AI": "The character on <body_pillow> has a sad and somewhat anxious facial expression. The features include a slightly downturned mouth, wide eyes with small pupils, raised eyebrows conveying concern, and a blue patch over one eye, adding to its distressed appearance. This expression makes the pillow more expressive and emotionally engaging."
+        },
+        {
+            "Human": "Is <body_pillow> in good condition?",
+            "AI": "Yes, <body_pillow> is in excellent condition. The fabric is clean, showing no visible stains or damage. The cotton filling remains evenly distributed, ensuring that the pillow retains its shape and comfort level."
+        },
+        {
+            "Human": "Is <body_pillow> easy to store?",
+            "AI": "Yes, <body_pillow> is easy to store. Despite its large size, it can be slightly compressed or folded when necessary. The cotton filling allows it to bounce back to its original shape after being stored, making it convenient for users with limited storage space."
+        },
+        {
+            "Human": "What is the color scheme of <body_pillow>?",
+            "AI": "<body_pillow> primarily features a white and blue color scheme. The character's body is predominantly white, with blue patches resembling cat-like markings. This simple yet striking color contrast enhances its visual appeal."
+        },
+        {
+            "Human": "Is <body_pillow> washable?",
+            "AI": "Yes, <body_pillow> is washable. Since it is made of cloth and filled with cotton, it can be either machine-washed or hand-washed. However, to maintain its softness and durability, gentle detergent and low-temperature washing are recommended."
+        },
+        {
+            "Human": "What is the shape of <body_pillow>?",
+            "AI": "<body_pillow> has an elongated, cylindrical shape, making it an ideal body pillow. This shape allows for versatile usage, including hugging, sleeping support, and even as a backrest for sitting."
+        },
+        {
+            "Human": "What makes <body_pillow> unique?",
+            "AI": "<body_pillow> is unique due to its combination of an anime-themed design and a functional comfort item. The sad-faced expression adds personality, making it more than just a standard body pillow. It also has small, stubby arms and ears, further enhancing its cat-like aesthetic."
+        },
+        {
+            "Human": "Is <body_pillow> a collectible item?",
+            "AI": "Yes, <body_pillow> can be considered a collectible item, especially for fans of 'Himouto! Umaru-chan' or anime enthusiasts. The unique design and high-quality craftsmanship make it an appealing piece for collectors who enjoy anime merchandise."
+        },
+        {
+            "Human": "Does <body_pillow> have any additional features?",
+            "AI": "Yes, <body_pillow> has small plush ears and limbs, further reinforcing its resemblance to a cat. These elements add charm and make it feel more lifelike, increasing its appeal to anime fans."
+        },
+        {
+            "Human": "Can <body_pillow> be used for purposes other than sleeping?",
+            "AI": "Yes, <body_pillow> can be used for various purposes aside from sleeping. It can function as a decorative item for anime-themed rooms, a comforting plush for stress relief, or even a support cushion for sitting. Its versatility makes it a great companion for relaxation."
+        },
+        {
+            "Human": "Does <body_pillow> have any elasticity?",
+            "AI": "Yes, <body_pillow> has a slight elasticity due to its fabric cover and cotton filling. This allows it to be gently compressed and still return to its original shape, making it highly durable and long-lasting."
+        }
+    ]
+}

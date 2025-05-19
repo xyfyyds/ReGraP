@@ -1,0 +1,510 @@
+{
+  "multiple_choice": [
+    {
+    "question": "What is the denomination of <hk_dollar>?",
+    "options": {
+      "A": "1 Hong Kong dollar",
+      "B": "2 Hong Kong dollars",
+      "C": "5 Hong Kong dollars",
+      "D": "10 Hong Kong dollars"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What shape does <hk_dollar> have?",
+    "options": {
+      "A": "Square",
+      "B": "Round",
+      "C": "Hexagonal",
+      "D": "Oval"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the main color of <hk_dollar>?",
+    "options": {
+      "A": "Golden",
+      "B": "Silver",
+      "C": "Bronze",
+      "D": "Copper"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the material used in <hk_dollar>?",
+    "options": {
+      "A": "Plastic",
+      "B": "Wood",
+      "C": "Metal",
+      "D": "Ceramic"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What kind of edge design does <hk_dollar> have?",
+    "options": {
+      "A": "Smooth",
+      "B": "Ridged",
+      "C": "Reeded",
+      "D": "Serrated"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the size of <hk_dollar> best described as?",
+    "options": {
+      "A": "Very large",
+      "B": "Medium",
+      "C": "Small",
+      "D": "Tiny"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What does the engraving below the number '1' typically represent?",
+    "options": {
+      "A": "Serial number",
+      "B": "Minting year",
+      "C": "Value in cents",
+      "D": "Country code"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What language(s) are found on <hk_dollar>?",
+    "options": {
+      "A": "Chinese only",
+      "B": "English only",
+      "C": "Chinese and English",
+      "D": "Japanese and English"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which part of <hk_dollar> helps identify its age?",
+    "options": {
+      "A": "Color",
+      "B": "Edge design",
+      "C": "Year inscription",
+      "D": "Texture"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What does the surface texture of <hk_dollar> include?",
+    "options": {
+      "A": "Only smooth",
+      "B": "Only rough",
+      "C": "Both smooth and textured",
+      "D": "Only dotted"
+    },
+    "answer": "C"
+  },
+
+  {
+    "question": "Why is the thickness of <hk_dollar> considered moderate?",
+    "options": {
+      "A": "To make the coin heavy",
+      "B": "To reduce material cost",
+      "C": "To distinguish it from other coins",
+      "D": "To add aesthetic appeal"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which feature helps prevent counterfeiting of <hk_dollar>?",
+    "options": {
+      "A": "Its shiny silver color",
+      "B": "The reeded edge",
+      "C": "The English text",
+      "D": "The small size"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following would NOT describe <hk_dollar> correctly?",
+    "options": {
+      "A": "It has a round shape",
+      "B": "It is made of plastic",
+      "C": "It has English and Chinese inscriptions",
+      "D": "It has a reeded edge"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is the coin's lightweight design important?",
+    "options": {
+      "A": "To reduce shine",
+      "B": "To fit in large machines",
+      "C": "To allow bulk carry",
+      "D": "To prevent bending"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "If a coin shows a minting year of 1993, what can we infer?",
+    "options": {
+      "A": "It is a newly issued coin",
+      "B": "It has signs of wear and age",
+      "C": "It is fake",
+      "D": "It is gold plated"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What aspect of <hk_dollar> allows compatibility with vending machines?",
+    "options": {
+      "A": "Its color",
+      "B": "Its minting year",
+      "C": "Its round shape and moderate thickness",
+      "D": "Its text design"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What kind of composition is likely used in <hk_dollar>?",
+    "options": {
+      "A": "Wood laminate",
+      "B": "Glass alloy",
+      "C": "Nickel-brass alloy",
+      "D": "Plastic-metal hybrid"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "If a coin is shiny with clear text and no scratches, what can we assume?",
+    "options": {
+      "A": "It’s an antique coin",
+      "B": "It’s rarely used",
+      "C": "It’s a fake",
+      "D": "It’s a 50 cent coin"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is <hk_dollar> considered suitable for daily use?",
+    "options": {
+      "A": "Because it is rare",
+      "B": "Because it is heavy and large",
+      "C": "Because of its durability and light weight",
+      "D": "Because it has a unique shape"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT an identifier on <hk_dollar>?",
+    "options": {
+      "A": "Large '1'",
+      "B": "Chinese characters",
+      "C": "QR code",
+      "D": "Minting year"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Why is the reeded edge useful for coins like <hk_dollar>?",
+    "options": {
+      "A": "It reduces production cost",
+      "B": "It makes the coin easier to stack",
+      "C": "It helps visually impaired users and deters counterfeiting",
+      "D": "It gives the coin a lighter feel"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What does the presence of both English and Chinese on <hk_dollar> suggest?",
+    "options": {
+      "A": "It is exported to China",
+      "B": "It is used only in mainland China",
+      "C": "It reflects Hong Kong's bilingual administrative system",
+      "D": "It is made for tourists"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Why might <hk_dollar> be harder to counterfeit than paper currency?",
+    "options": {
+      "A": "Because it is smaller",
+      "B": "Because coins are less valuable",
+      "C": "Because coins use specialized edge patterns and metal alloys",
+      "D": "Because it’s digitally protected"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "If <hk_dollar> has aged surface marks and tarnishing, what does it imply?",
+    "options": {
+      "A": "It is made of plastic",
+      "B": "It is old and used often",
+      "C": "It was never circulated",
+      "D": "It is fake"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which factor ensures <hk_dollar> is easily recognized by touch?",
+    "options": {
+      "A": "The color",
+      "B": "The roundness",
+      "C": "The reeded edge and size",
+      "D": "The printed value"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Why might <hk_dollar> be important in automated fare systems?",
+    "options": {
+      "A": "It fits keychains",
+      "B": "It provides exact change",
+      "C": "It is light enough to be thrown",
+      "D": "Its features allow reliable machine recognition"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "How does the silver tone help in practical usage of <hk_dollar>?",
+    "options": {
+      "A": "It reduces glare",
+      "B": "It increases market value",
+      "C": "It improves visibility and recognition",
+      "D": "It allows RFID embedding"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What does the presence of the year '1993' on <hk_dollar> allow users to infer?",
+    "options": {
+      "A": "It's a commemorative edition",
+      "B": "It is likely in current circulation",
+      "C": "It has historical relevance and wear",
+      "D": "It’s older than the invention of coins"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which design choice makes <hk_dollar> compatible with global coin standards?",
+    "options": {
+      "A": "Its bilingual text",
+      "B": "Its diameter and thickness ratios",
+      "C": "Its color contrast",
+      "D": "Its price"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following best explains the moderate thickness of <hk_dollar>?",
+    "options": {
+      "A": "To fit into vending machines and avoid bending",
+      "B": "To reduce overall metal consumption",
+      "C": "To enhance its visual appeal",
+      "D": "To allow extra inscription on the sides"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a new version of <hk_dollar> were to be designed, what feature might remain unchanged?",
+    "options": {
+      "A": "Its digital code",
+      "B": "Its edge pattern and bilingual text",
+      "C": "Its softness",
+      "D": "Its invisibility to magnets"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is the metal composition a key feature in <hk_dollar> design?",
+    "options": {
+      "A": "To make the coin non-conductive",
+      "B": "To prevent environmental decay",
+      "C": "To balance cost, weight, and durability",
+      "D": "To improve taste when bitten"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "How does the minting year placement aid design simplicity?",
+    "options": {
+      "A": "It replaces the logo",
+      "B": "It removes the need for serial numbers",
+      "C": "It balances symmetry without overloading space",
+      "D": "It increases the coin’s value"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What design element helps people avoid confusing <hk_dollar> with foreign coins?",
+    "options": {
+      "A": "Color only",
+      "B": "Thickness only",
+      "C": "Text stating 'Hong Kong'",
+      "D": "Round shape"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is one reason <hk_dollar> is suitable for mass manufacturing?",
+    "options": {
+      "A": "It is handmade",
+      "B": "It has complex engravings",
+      "C": "Its form and materials support stamping processes",
+      "D": "It requires no machinery"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "If two coins of the same year look different in brightness, what is a likely explanation?",
+    "options": {
+      "A": "One is newer or less used",
+      "B": "One is fake",
+      "C": "One is made of wood",
+      "D": "One was cleaned with acid"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why might collectors seek older versions of <hk_dollar>?",
+    "options": {
+      "A": "They are larger",
+      "B": "They glow in the dark",
+      "C": "They may carry historical or nostalgic value",
+      "D": "They cost more to make"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "If <hk_dollar> is very worn but the year is visible, what can we conclude?",
+    "options": {
+      "A": "It is counterfeit",
+      "B": "It was freshly minted",
+      "C": "It’s old but still usable",
+      "D": "It was machine-washed"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Why would <hk_dollar> not be ideal for commemorative design?",
+    "options": {
+      "A": "It is made of rare materials",
+      "B": "It lacks surface area for added symbols",
+      "C": "It is too durable",
+      "D": "It is bilingual"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is the coin’s compactness an advantage in daily transactions?",
+    "options": {
+      "A": "It fits international coin acceptors easily",
+      "B": "It discourages usage",
+      "C": "It reduces heat when carried",
+      "D": "It avoids rolling off surfaces"
+    },
+    "answer": "A"
+  }
+],
+"true_false": [
+  {
+    "question": "<hk_dollar> is made primarily of metal.",
+    "answer": true
+  },
+  {
+    "question": "The coin has a smooth edge without any texture.",
+    "answer": false
+  },
+  {
+    "question": "Both English and Chinese text appear on the coin.",
+    "answer": true
+  },
+  {
+    "question": "The coin's denomination is 5 Hong Kong dollars.",
+    "answer": false
+  },
+  {
+    "question": "<hk_dollar> has a round shape.",
+    "answer": true
+  },
+  {
+    "question": "The coin is likely made of plastic due to its lightness.",
+    "answer": false
+  },
+  {
+    "question": "The coin shows a minting year below the denomination number.",
+    "answer": true
+  },
+  {
+    "question": "The coin is too thick to be used in vending machines.",
+    "answer": false
+  },
+  {
+    "question": "<hk_dollar> has visible signs of surface aging.",
+    "answer": true
+  },
+  {
+    "question": "Its bilingual design helps accommodate Hong Kong’s language use.",
+    "answer": true
+  },
+  {
+    "question": "The surface includes both smooth and reeded textures.",
+    "answer": true
+  },
+  {
+    "question": "The coin can easily be confused with coins from Japan.",
+    "answer": false
+  },
+  {
+    "question": "The edge of <hk_dollar> has ridges that assist in identification.",
+    "answer": true
+  },
+  {
+    "question": "The coin is commonly used for commemorative purposes.",
+    "answer": false
+  },
+  {
+    "question": "Despite aging, the coin remains functional in circulation.",
+    "answer": true
+  }
+],
+  "fill_in_the_blank": [
+  {
+    "question": "<hk_dollar> is a coin with a denomination of ______.",
+    "answer": "1 Hong Kong dollar"
+  },
+  {
+    "question": "The coin features a ______ shape with a reeded edge.",
+    "answer": "round"
+  },
+  {
+    "question": "The minting year of the coin is engraved below the number ______.",
+    "answer": "1"
+  },
+  {
+    "question": "The coin uses ______ and ______ languages to label its value and origin.",
+    "answer": "English, Chinese"
+  },
+  {
+    "question": "The coin is made of a durable ______ material that withstands daily use.",
+    "answer": "metal"
+  },
+  {
+    "question": "The coin's design includes a reeded edge that helps deter ______.",
+    "answer": "counterfeiting"
+  },
+  {
+    "question": "The ______ edge allows tactile identification even in low-visibility situations.",
+    "answer": "reeded"
+  },
+  {
+    "question": "The coin’s silver tone and moderate thickness make it compatible with ______ machines.",
+    "answer": "vending"
+  },
+  {
+    "question": "The bilingual design of the coin reflects Hong Kong’s ______ system.",
+    "answer": "administrative"
+  },
+  {
+    "question": "The coin shows visible signs of ______ due to years of circulation.",
+    "answer": "aging"
+  }
+]
+
+}

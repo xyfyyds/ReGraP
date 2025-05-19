@@ -1,0 +1,1242 @@
+{
+    "./yollava-data/train/belt/0.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/1.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/2.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/3.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/4.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/5.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/6.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/7.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/8.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/9.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/10.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/11.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/12.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/13.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/14.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/15.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/16.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/17.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/18.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ],
+    "./yollava-data/train/belt/19.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By analyzing the overall structure, the object consists of a compact, rectangular form with a set of protruding metallic prongs and multiple input slots on the top surface. The design suggests that it acts as an intermediary between an electrical source and a device, likely serving as an adapter to allow different plug configurations. Given the presence of branding and technical specifications, it is clear that <belt> is a power plug adapter designed to facilitate compatibility between various electrical devices and power outlets."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The primary color of the object is white, which is commonly used in electrical accessories for a clean and neutral appearance. White is also practical for ensuring visibility in dark environments, making it easier to locate the adapter when needed. The uniform color scheme also suggests a focus on minimalism and functionality, reinforcing its role as an everyday utility device. Thus, <belt> is predominantly white."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The object is a rectangular cuboid with slightly rounded edges, a design that balances structural integrity with user ergonomics. The flat surfaces allow for easy placement and stacking with other objects, while the compact proportions ensure a secure fit in wall sockets. The symmetry in design enables users to insert and remove it easily without unnecessary bulk. Therefore, <belt> has a cuboid shape with softened edges for practical handling."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "By comparing its proportions relative to its plug prongs and surrounding surfaces, the object appears to be compact but not overly small. It is designed to fit in the palm of a hand, making it easy to transport while still maintaining a sufficient size to house its electrical components. This balance ensures both portability and durability, making <belt> a moderately compact device suitable for everyday use and travel."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The external casing is likely made of flame-retardant plastic, a material chosen for its ability to insulate electrical components while ensuring user safety. Plastic also provides a lightweight structure, making the device easy to carry and handle. The metallic prongs are likely made of brass or a similar conductive alloy, ensuring efficient power transmission. Thus, <belt> consists of a durable plastic casing with metal prongs designed for electrical conduction."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "The object serves as an electrical plug adapter, allowing users to connect devices with different plug types to a compatible power source. Its primary role is to provide a safe and efficient means of converting plug configurations without requiring permanent modifications to electrical wiring. This makes it especially useful for travelers and individuals using imported electronic devices. Therefore, <belt> functions as a plug adapter that facilitates electrical compatibility across various regions."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "Observing the input slot arrangement, <belt> appears to accommodate multiple plug types, including those commonly used in China, Australia, and Europe. The triangular and parallel slot design suggests that it can accept two-pin and three-pin plugs from different standards. However, its fixed prongs indicate that it is specifically designed to be used in power outlets with a matching configuration. As a result, <belt> supports a variety of international plug types but is region-specific in terms of its output connection."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The branding on the object clearly displays 'BULL,' a company known for manufacturing power accessories such as adapters, extension cords, and surge protectors. The presence of the brand name adds credibility, indicating that the adapter is manufactured by a reputable brand with a strong focus on electrical safety and reliability. Therefore, <belt> is a power adapter manufactured by BULL, a well-known electrical accessories brand."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "The design of <belt> follows a straightforward plug-and-play mechanism, meaning users only need to insert it into a wall socket and connect their device's plug to the corresponding slots. There are no additional switches, configurations, or complex setups required. The clear labeling on the device further ensures that users can quickly identify its specifications and usage instructions. Given these factors, <belt> is highly user-friendly and designed for effortless operation."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "Since <belt> features a multi-functional plug input design, it is suitable for a wide range of electronic devices, including smartphone chargers, laptop adapters, and household appliances with moderate power consumption. However, due to standard power limitations, it may not be ideal for high-power electrical equipment such as ovens, refrigerators, or air conditioners. Therefore, <belt> is best suited for low to medium-power electronic devices."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "The specifications on the object indicate a maximum power capacity of 2500W and 10A, which means it can handle moderate electrical loads. While this is sufficient for everyday electronics, prolonged use with high-wattage appliances such as heating devices may exceed its capacity, potentially leading to overheating. Therefore, <belt> is suitable for general electrical devices but should not be used for high-power applications."
+        },
+        {
+            "Human": "Is <belt> compatible with all plug types?",
+            "AI": "While <belt> is designed to accommodate a variety of international plug configurations, it does not support every possible plug standard. Certain specialized or industrial-grade plug types may not fit into its input slots. Additionally, users must ensure that the device being connected operates within the supported voltage range to prevent damage. Therefore, <belt> offers broad but not universal plug compatibility."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Although <belt> supports multiple plug types, its fixed plug prongs limit its usability to regions that use the same standard. To use it in other locations, users may need an additional plug converter or travel adapter. Voltage compatibility should also be considered to avoid mismatched power requirements. Consequently, <belt> is region-specific but can be adapted for broader use with additional accessories."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "There are no visible indicators that <belt> includes surge protection features, such as a built-in fuse or voltage regulator. Its primary function is plug conversion rather than voltage stabilization. Users who require protection against power fluctuations should pair it with a surge protector or voltage stabilizer. Therefore, <belt> does not have built-in surge protection and should be used with additional safety measures if needed."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Due to its compact and lightweight build, <belt> is highly portable and can be easily carried in a bag or suitcase. This makes it a practical accessory for travelers who need to use their electronic devices in different locations. Its durable plastic casing also ensures that it can withstand minor impacts during transport. As a result, <belt> is an ideal travel-friendly adapter that combines portability with functionality."
+        }
+    ]
+}

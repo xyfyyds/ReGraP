@@ -1,0 +1,1322 @@
+{
+    "./yollava-data/train/bowl/0.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/1.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/2.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/3.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/4.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/5.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/6.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/7.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/8.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/9.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/10.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/11.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/12.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/13.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/14.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/15.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/16.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/17.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/18.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ],
+    "./yollava-data/train/bowl/19.png": [
+        {
+            "Human": "What is the object of <bowl>?",
+            "AI": "The object in the image is a bowl. The structure of the object, with a wide and curved interior, suggests that it is designed for holding and serving food items such as soup, rice, or cereal. The bowl's shape and depth allow it to contain liquid or solid food efficiently while minimizing spills. The rounded edges and symmetrical design further confirm that the object is a functional and common household bowl."
+        },
+        {
+            "Human": "What is the color of <bowl>?",
+            "AI": "The bowl is predominantly white, providing a neutral and clean appearance. This color enhances its versatility, making it suitable for various dining settings. The bowl also features decorative floral patterns that add aesthetic value, making it appealing for casual or formal meals. The white base allows the patterns to stand out clearly."
+        },
+        {
+            "Human": "What is the shape of <bowl>?",
+            "AI": "The bowl is circular with a deep curvature. The round design is optimal for holding different types of food while ensuring stability on a flat surface. The depth of the bowl allows it to contain a reasonable portion size, preventing overflow. Its structure is smooth and balanced, making it easy to stack with similar bowls."
+        },
+        {
+            "Human": "What is the size of <bowl>?",
+            "AI": "The bowl is of medium size. This makes it suitable for serving individual portions of food, such as rice or soup, while also being easy to store in kitchen cabinets. The medium size ensures that it is not too large to be cumbersome nor too small to be impractical for everyday use."
+        },
+        {
+            "Human": "What is the material of <bowl>?",
+            "AI": "The bowl is made of ceramic. This material is known for its durability and heat resistance, making it an excellent choice for serving hot and cold foods. Ceramic is also easy to clean, does not absorb odors, and maintains its aesthetic quality over time. The bowl's glossy finish indicates that it has a protective glaze, enhancing its durability."
+        },
+        {
+            "Human": "What is the function of <bowl>?",
+            "AI": "The primary function of the bowl is to hold and serve food. Its shape and material make it ideal for containing both liquid and solid dishes, such as soups, noodles, and salads. The design allows easy scooping, mixing, and handling, making it a versatile kitchen essential."
+        },
+        {
+            "Human": "Is <bowl> capable of holding hot food or drinks?",
+            "AI": "Yes, the bowl is well-suited for holding hot food and drinks. Its ceramic material has excellent heat retention properties, keeping food warm for extended periods. Additionally, ceramic is resistant to temperature changes, ensuring that it does not crack when exposed to hot substances."
+        },
+        {
+            "Human": "Is <bowl> clean?",
+            "AI": "Yes, the bowl appears clean. The surface is free from visible food residues, stains, or grease, indicating that it has been washed and is ready for use. The smooth ceramic finish ensures easy cleaning and prevents the accumulation of bacteria or food particles."
+        },
+        {
+            "Human": "Is <bowl> empty?",
+            "AI": "Yes, the bowl is empty. The interior of the bowl is clearly visible with no food or liquid present, indicating that it is not currently in use."
+        },
+        {
+            "Human": "What are the patterns on the <bowl>?",
+            "AI": "The bowl features floral patterns in blue shades. These patterns add an artistic touch to the bowl, making it more visually appealing. The floral designs are positioned on the outer surface, creating a traditional and decorative look."
+        },
+        {
+            "Human": "What does <bowl> usually contain?",
+            "AI": "The bowl is typically used to contain rice. Its shape and size make it ideal for serving individual portions of rice. However, it can also be used for serving other foods such as soup, noodles, or salad, making it a versatile kitchen item."
+        },
+        {
+            "Human": "What is the weight of <bowl>?",
+            "AI": "The bowl has a moderate weight. Ceramic is denser than plastic but lighter than glass, making it sturdy without being too heavy. The weight provides stability on flat surfaces, preventing it from tipping over easily."
+        },
+        {
+            "Human": "Is <bowl> dishwasher safe?",
+            "AI": "Yes, the bowl is dishwasher safe. Ceramic materials are resistant to dishwasher heat and detergent, ensuring that the bowl can be cleaned without damage. The smooth surface allows for easy removal of food residues, making it convenient for everyday use."
+        },
+        {
+            "Human": "Can <bowl> be used in the microwave?",
+            "AI": "Yes, the bowl is microwave-safe. Ceramic does not absorb microwave radiation, making it suitable for heating food. However, caution should be taken to ensure there are no metallic elements or decorations that could cause sparks."
+        },
+        {
+            "Human": "How thick is the material of <bowl>?",
+            "AI": "The bowl has a moderately thick ceramic structure. The thickness enhances its durability, reducing the risk of cracking or chipping. Additionally, the ceramic's density helps retain heat, keeping food warm for longer periods."
+        },
+        {
+            "Human": "Can <bowl> be stacked with other bowls?",
+            "AI": "Yes, the bowl is designed for stacking. The slightly tapered shape allows multiple bowls to be neatly stacked for storage, making it convenient for compact kitchen organization."
+        }
+    ]
+}

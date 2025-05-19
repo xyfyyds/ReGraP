@@ -1,0 +1,510 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What brand is the electric kettle?",
+      "options": {
+        "A": "Panasonic",
+        "B": "Philips",
+        "C": "Sony",
+        "D": "Xiaomi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the main color of the electric kettle?",
+      "options": {
+        "A": "Silver",
+        "B": "White",
+        "C": "Black",
+        "D": "Red"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What object category does this appliance belong to?",
+      "options": {
+        "A": "Toaster",
+        "B": "Electric kettle",
+        "C": "Hair dryer",
+        "D": "Blender"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What type of plug is attached to the kettle?",
+      "options": {
+        "A": "USB-C",
+        "B": "Two-pin",
+        "C": "Three-pin",
+        "D": "Micro-USB"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Where is the handle located?",
+      "options": {
+        "A": "On the lid",
+        "B": "On the right side",
+        "C": "On the left side",
+        "D": "At the back"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the overall shape of the kettle body?",
+      "options": {
+        "A": "Spherical",
+        "B": "Rectangular",
+        "C": "Conical",
+        "D": "Cylindrical"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What material is the body primarily made of?",
+      "options": {
+        "A": "Plastic",
+        "B": "Glass",
+        "C": "Metal",
+        "D": "Ceramic"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the brand text written on the kettle?",
+      "options": {
+        "A": "Xiaomi",
+        "B": "PHILIPS",
+        "C": "Midea",
+        "D": "Toshiba"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What part is the plug attached to?",
+      "options": {
+        "A": "Top",
+        "B": "Handle",
+        "C": "Bottom",
+        "D": "Spout"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which color is used for the base of the kettle?",
+      "options": {
+        "A": "Black",
+        "B": "White",
+        "C": "Silver",
+        "D": "Gray"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which direction does the power cord extend from?",
+      "options": {
+        "A": "Top side",
+        "B": "Back bottom",
+        "C": "Front center",
+        "D": "Lid opening"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What texture best describes the kettle's outer surface?",
+      "options": {
+        "A": "Textured matte",
+        "B": "Glossy plastic",
+        "C": "Metallic and smooth",
+        "D": "Patterned ceramic"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the handle made from?",
+      "options": {
+        "A": "Wood",
+        "B": "Rubber",
+        "C": "Plastic",
+        "D": "Steel"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which part allows pouring of water?",
+      "options": {
+        "A": "Lid",
+        "B": "Handle base",
+        "C": "Spout",
+        "D": "Vent"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What power interface is used with the kettle?",
+      "options": {
+        "A": "Battery slot",
+        "B": "USB-A",
+        "C": "AC plug",
+        "D": "DC barrel"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "The Philips logo appears on which part of the kettle?",
+      "options": {
+        "A": "Top lid",
+        "B": "Handle",
+        "C": "Front body",
+        "D": "Spout"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which part is used to grip the kettle safely?",
+      "options": {
+        "A": "Top lid",
+        "B": "Power base",
+        "C": "Side handle",
+        "D": "Spout"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What component is not visible from the exterior images?",
+      "options": {
+        "A": "Heating plate",
+        "B": "Handle",
+        "C": "Cord",
+        "D": "Lid"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "How many primary colors are observed in the kettle design?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "The kettle plug is suitable for use in which kind of outlet?",
+      "options": {
+        "A": "Standard three-pin AC wall socket",
+        "B": "Car cigarette port",
+        "C": "USB port",
+        "D": "Two-pin adapter"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why does the kettle use a plastic handle instead of metal?",
+      "options": {
+        "A": "To reduce cost",
+        "B": "To improve electrical conductivity",
+        "C": "To prevent heat transfer to the user’s hand",
+        "D": "To match color"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What functional advantage does the black base provide?",
+      "options": {
+        "A": "It enhances visibility",
+        "B": "It acts as a stabilizer and heat-insulating layer",
+        "C": "It serves no purpose",
+        "D": "It conceals wires"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is the handle located on the side and not the top?",
+      "options": {
+        "A": "For aesthetic symmetry",
+        "B": "To reduce kettle size",
+        "C": "To provide better balance and pouring control",
+        "D": "To increase manufacturing complexity"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What explains the use of metal for the main kettle body?",
+      "options": {
+        "A": "To reduce weight",
+        "B": "To improve electrical conductivity",
+        "C": "To provide better heat conduction and durability",
+        "D": "To make it more colorful"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is the cord designed to exit from the back bottom area?",
+      "options": {
+        "A": "To make cleaning easier",
+        "B": "To keep the front clean and safe during pouring",
+        "C": "To improve decoration",
+        "D": "To match industry norms"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "How does the cylindrical shape benefit kettle design?",
+      "options": {
+        "A": "Maximizes heat retention and water capacity",
+        "B": "Reduces production cost",
+        "C": "Improves grip during transport",
+        "D": "Eliminates pressure build-up"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why might the silver Philips logo be placed in the center front?",
+      "options": {
+        "A": "For legal compliance",
+        "B": "To improve heating efficiency",
+        "C": "For aesthetic branding and visibility",
+        "D": "To support heat dissipation"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is black used for the power base and plug?",
+      "options": {
+        "A": "It resists visible dirt and matches common socket colors",
+        "B": "It reduces heat",
+        "C": "It’s cheaper to mold",
+        "D": "It reflects less light"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which design feature most helps prevent water spillage?",
+      "options": {
+        "A": "Rounded top lid",
+        "B": "Angled spout position",
+        "C": "Rubber plug",
+        "D": "Transparent window"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What safety reason justifies the plug being a 3-pin type?",
+      "options": {
+        "A": "It fits into all plugs",
+        "B": "It adds grip",
+        "C": "It includes a ground connection to prevent shock",
+        "D": "It supports faster boiling"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why does the design omit transparent water level indicators?",
+      "options": {
+        "A": "To reduce manufacturing cost",
+        "B": "To prevent leakage and simplify structure",
+        "C": "To improve visual appeal",
+        "D": "To comply with export laws"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is the plug wire permanently attached instead of removable?",
+      "options": {
+        "A": "To reduce storage needs",
+        "B": "To ensure safety and prevent misplacement",
+        "C": "To make it waterproof",
+        "D": "To simplify aesthetic"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What visual cue suggests that the kettle has seen regular use?",
+      "options": {
+        "A": "Visible scratches on the handle and scuffing on the base",
+        "B": "Fingerprint marks on logo",
+        "C": "White sticker on lid",
+        "D": "Tilted base"
+      },
+      "correct_answer": "A"
+    },
+  {
+    "question": "What feature makes the kettle safer during hot water pouring?",
+    "options": {
+      "A": "Side-positioned plastic handle",
+      "B": "Transparent lid",
+      "C": "Tilt sensor",
+      "D": "Cord reel"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Why is the kettle likely used in kitchens and dorms?",
+    "options": {
+      "A": "It is battery operated",
+      "B": "It boils water quickly and efficiently",
+      "C": "It supports Bluetooth",
+      "D": "It has a built-in camera"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What visual evidence suggests this kettle is in working condition?",
+    "options": {
+      "A": "Water inside",
+      "B": "Burnt marks",
+      "C": "Intact plug and clean body",
+      "D": "Power switch glowing"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which of the following parts is most susceptible to wear?",
+    "options": {
+      "A": "Metal body",
+      "B": "Spout",
+      "C": "Plastic handle",
+      "D": "Inner lid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What part helps prevent electric shock?",
+    "options": {
+      "A": "Plastic body",
+      "B": "Rubber feet",
+      "C": "Grounded three-pin plug",
+      "D": "Heat shield"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What makes the design suitable for mass production?",
+    "options": {
+      "A": "Interchangeable logos",
+      "B": "Simple geometric form and standardized materials",
+      "C": "Custom-painted steel",
+      "D": "Removable base"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which part directly contacts the heating element internally?",
+    "options": {
+      "A": "Spout",
+      "B": "Cord",
+      "C": "Metal base of kettle interior",
+      "D": "Handle"
+    },
+    "correct_answer": "C"
+  }
+  ],
+  "true_false": [
+  {
+    "question": "The Philips kettle has a black plastic handle for insulation.",
+    "answer": true
+  },
+  {
+    "question": "The main body of the kettle is transparent.",
+    "answer": false
+  },
+  {
+    "question": "The kettle uses a three-pin grounded plug.",
+    "answer": true
+  },
+  {
+    "question": "The handle is made from metal.",
+    "answer": false
+  },
+  {
+    "question": "There is a visible power switch on the outer body of the kettle.",
+    "answer": false
+  },
+  {
+    "question": "The base of the kettle is black and contrasts with the metallic body.",
+    "answer": true
+  },
+  {
+    "question": "There is a detachable lid shown in the images.",
+    "answer": false
+  },
+  {
+    "question": "The kettle appears used based on scuff marks near the base.",
+    "answer": true
+  },
+  {
+    "question": "The spout is integrated into the main metal body.",
+    "answer": true
+  },
+  {
+    "question": "The kettle requires a power base for operation.",
+    "answer": false
+  },
+  {
+    "question": "The power cord is detachable.",
+    "answer": false
+  },
+  {
+    "question": "The kettle is suitable for heating beverages like tea or water.",
+    "answer": true
+  },
+  {
+    "question": "The black plastic bottom serves as a non-slip base.",
+    "answer": true
+  },
+  {
+    "question": "There is no visible Philips logo on the exterior.",
+    "answer": false
+  },
+  {
+    "question": "The electric kettle is powered by an internal rechargeable battery.",
+    "answer": false
+  }
+],
+  "fill_in_the_blank": [
+  {
+    "question": "The brand of the electric kettle is ______.",
+    "answer": "Philips"
+  },
+  {
+    "question": "The main body of the kettle is made of ______.",
+    "answer": "metal"
+  },
+  {
+    "question": "The handle is located on the ______ side of the kettle.",
+    "answer": "right"
+  },
+  {
+    "question": "The base and cord of the kettle are both ______ in color.",
+    "answer": "black"
+  },
+  {
+    "question": "The plug type used is a ______ plug.",
+    "answer": "three-pin"
+  },
+  {
+    "question": "The ______ is where water is poured from.",
+    "answer": "spout"
+  },
+  {
+    "question": "The Philips logo appears on the ______ of the kettle.",
+    "answer": "front"
+  },
+  {
+    "question": "The power cord is attached to the ______ part of the kettle.",
+    "answer": "bottom back"
+  },
+  {
+    "question": "The kettle’s outer surface is described as ______ and smooth.",
+    "answer": "metallic"
+  },
+  {
+    "question": "The kettle is mainly colored ______ and black.",
+    "answer": "silver"
+  }
+]
+
+
+}

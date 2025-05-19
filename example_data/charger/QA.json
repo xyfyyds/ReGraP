@@ -1,0 +1,469 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What is the primary function of the object in the image?",
+      "options": {
+        "A": "Data storage",
+        "B": "Power supply",
+        "C": "Signal booster",
+        "D": "Audio amplifier"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the shape of the charger?",
+      "options": {
+        "A": "Cylindrical",
+        "B": "Triangular",
+        "C": "Rectangular",
+        "D": "Hexagonal"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which brand manufactures this charger?",
+      "options": {
+        "A": "Anker",
+        "B": "UGREEN",
+        "C": "Baseus",
+        "D": "Samsung"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the primary color of the charger?",
+      "options": {
+        "A": "Black",
+        "B": "Gray",
+        "C": "White",
+        "D": "Blue"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What type of charging interface does this charger use?",
+      "options": {
+        "A": "Lightning",
+        "B": "Micro USB",
+        "C": "USB-A",
+        "D": "USB-C"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What is the power output rating of the charger?",
+      "options": {
+        "A": "18W",
+        "B": "45W",
+        "C": "65W",
+        "D": "100W"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Is the charger currently connected to a device?",
+      "options": {
+        "A": "Yes, it is charging",
+        "B": "No, it is idle",
+        "C": "Yes, but unplugged",
+        "D": "Unclear from image"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the visual condition of the charger?",
+      "options": {
+        "A": "Worn",
+        "B": "Scratched",
+        "C": "Very good",
+        "D": "Broken"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following best describes the size of the charger?",
+      "options": {
+        "A": "Large",
+        "B": "Small",
+        "C": "Medium",
+        "D": "Oversized"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What material is primarily used for the charger’s casing?",
+      "options": {
+        "A": "Glass",
+        "B": "Metal",
+        "C": "Rubber",
+        "D": "Plastic"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Why is the USB-C interface important for this charger?",
+      "options": {
+        "A": "It supports 3.5mm audio",
+        "B": "It provides a reversible, fast-charging connection",
+        "C": "It improves Bluetooth performance",
+        "D": "It converts analog signals"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is this charger suitable for modern laptops?",
+      "options": {
+        "A": "It includes a touchpad",
+        "B": "It has a cooling fan",
+        "C": "It supports high power delivery",
+        "D": "It is wireless"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What distinguishes this charger from traditional ones?",
+      "options": {
+        "A": "It has a built-in display",
+        "B": "It comes with multiple wires",
+        "C": "It combines high power and portability",
+        "D": "It is wall-mounted"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What visual cue implies that the charger supports portability?",
+      "options": {
+        "A": "It has wheels",
+        "B": "It is foldable and compact",
+        "C": "It has a battery",
+        "D": "It has a carry strap"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "How does the charger handle heat?",
+      "options": {
+        "A": "Active cooling fan",
+        "B": "Water-based system",
+        "C": "Thermal-resistant casing",
+        "D": "Removable heat sinks"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is the braided cable an important feature?",
+      "options": {
+        "A": "It improves signal quality",
+        "B": "It makes the cable more durable",
+        "C": "It enables 4K video output",
+        "D": "It extends wireless range"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is a functional benefit of foldable prongs?",
+      "options": {
+        "A": "Better airflow",
+        "B": "Wireless compatibility",
+        "C": "Easier portability and storage",
+        "D": "Stronger electrical output"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which feature best demonstrates the charger’s compatibility?",
+      "options": {
+        "A": "Color scheme",
+        "B": "Logo placement",
+        "C": "USB-C connector and 100W rating",
+        "D": "Rounded corners"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What characteristic reflects its modern design style?",
+      "options": {
+        "A": "Exposed screws",
+        "B": "Patterned casing",
+        "C": "Minimalistic white exterior",
+        "D": "Wooden panels"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is this charger considered travel-friendly?",
+      "options": {
+        "A": "It includes a suitcase",
+        "B": "It is compatible with airplanes",
+        "C": "It is lightweight and compact",
+        "D": "It has GPS tracking"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is true about the charger’s usage?",
+      "options": {
+        "A": "It is shown charging a phone",
+        "B": "It is currently not plugged in",
+        "C": "It is overheating",
+        "D": "It is connected to WiFi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What makes this charger safe for high-wattage devices?",
+      "options": {
+        "A": "Insulated packaging",
+        "B": "Built-in heat dissipation and stable power delivery",
+        "C": "Switch-based output",
+        "D": "Color-coded ports"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "How does the charger improve safety during travel?",
+      "options": {
+        "A": "It emits sound when charging",
+        "B": "Foldable plug avoids damage and accidental contact",
+        "C": "It inflates during transit",
+        "D": "It requires two adapters"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following most limits compatibility?",
+      "options": {
+        "A": "Size",
+        "B": "Lack of USB-A port",
+        "C": "Color",
+        "D": "Packaging"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which statement about the charger’s cable is true?",
+      "options": {
+        "A": "It is detachable and magnetic",
+        "B": "It is wireless",
+        "C": "It is braided and durable",
+        "D": "It is paper-thin"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How does the charger manage power across devices?",
+      "options": {
+        "A": "It auto-detects and distributes wattage",
+        "B": "It prioritizes laptops only",
+        "C": "It splits evenly across ports regardless of need",
+        "D": "It cannot charge more than one device"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What color is associated with modern minimalism in this charger?",
+      "options": {
+        "A": "Red",
+        "B": "White",
+        "C": "Neon green",
+        "D": "Gold"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What kind of device benefits most from 100W output?",
+      "options": {
+        "A": "Smartwatch",
+        "B": "Bluetooth speaker",
+        "C": "Laptop",
+        "D": "Wireless mouse"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What makes the charger ideal for professionals on-the-go?",
+      "options": {
+        "A": "Its built-in monitor",
+        "B": "High power, compact build, and safety",
+        "C": "Bluetooth sync",
+        "D": "Subscription-based app"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What user scenario justifies the 100W power delivery?",
+      "options": {
+        "A": "Charging LED lights",
+        "B": "Recharging a gaming laptop",
+        "C": "Powering a TV remote",
+        "D": "Using it as a desk ornament"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is the charger not actively heating in images?",
+      "options": {
+        "A": "It is liquid-cooled",
+        "B": "It is unplugged and idle",
+        "C": "It is wireless",
+        "D": "It uses copper alloy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What inference can be made from the unused cable?",
+      "options": {
+        "A": "It is malfunctioning",
+        "B": "It is charging wirelessly",
+        "C": "The charger is not in use",
+        "D": "The charger is overheating"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What does the absence of dirt and scratches imply?",
+      "options": {
+        "A": "It is waterproof",
+        "B": "It is likely new or well-maintained",
+        "C": "It has a rubber coating",
+        "D": "It was just cleaned"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why might a tech enthusiast prefer this charger?",
+      "options": {
+        "A": "It lights up in rainbow colors",
+        "B": "It supports fast, intelligent charging with modern compatibility",
+        "C": "It includes headphones",
+        "D": "It comes with a display stand"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What does the foldable plug design reveal about its intended use?",
+      "options": {
+        "A": "For desktop setup only",
+        "B": "Optimized for compact travel use",
+        "C": "Wall-mounted charging stations",
+        "D": "Industrial power tools"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "How does the minimalist branding affect user perception?",
+      "options": {
+        "A": "Confusing and unclear",
+        "B": "Sleek and professional",
+        "C": "Visually chaotic",
+        "D": "Low-quality impression"
+      },
+      "correct_answer": "B"
+    }
+  ],
+  "true_or_false": [
+  {
+    "question": "The charger is capable of delivering 100 watts of power.",
+    "answer": true
+  },
+  {
+    "question": "The charger is black and has a matte finish.",
+    "answer": false
+  },
+  {
+    "question": "This charger uses a USB-C interface for output.",
+    "answer": true
+  },
+  {
+    "question": "The charger is currently plugged in and in use.",
+    "answer": false
+  },
+  {
+    "question": "The braided cable helps improve durability and reduce tangling.",
+    "answer": true
+  },
+  {
+    "question": "The charger has a built-in display showing voltage and current.",
+    "answer": false
+  },
+  {
+    "question": "The compact design of the charger makes it portable.",
+    "answer": true
+  },
+  {
+    "question": "This charger is manufactured by UGREEN.",
+    "answer": true
+  },
+  {
+    "question": "The device is compatible with fast-charging protocols.",
+    "answer": true
+  },
+  {
+    "question": "There are visible signs of wear or damage on the casing.",
+    "answer": false
+  },
+  {
+    "question": "The charger supports charging multiple devices at once.",
+    "answer": true
+  },
+  {
+    "question": "Its white color makes it easier to spot dust and dirt.",
+    "answer": true
+  },
+  {
+    "question": "The shape of the charger is cylindrical to optimize grip.",
+    "answer": false
+  },
+  {
+    "question": "Foldable prongs enhance the charger’s travel convenience.",
+    "answer": true
+  },
+  {
+    "question": "The device requires a cooling fan to prevent overheating.",
+    "answer": false
+  }
+  ],
+  "fill_in_the_blank": [
+  {
+    "question": "The charger is manufactured by ______.",
+    "answer": "UGREEN"
+  },
+  {
+    "question": "This charger delivers up to ______ watts of power.",
+    "answer": "100"
+  },
+  {
+    "question": "The interface used for charging is ______.",
+    "answer": "USB-C"
+  },
+  {
+    "question": "The casing of the charger is colored ______.",
+    "answer": "white"
+  },
+  {
+    "question": "The charger’s cable is ______ to improve durability and resist tangling.",
+    "answer": "braided"
+  },
+  {
+    "question": "The compact and rectangular shape enhances both portability and ______.",
+    "answer": "heat dissipation"
+  },
+  {
+    "question": "This device is compatible with modern fast-charging protocols such as ______ and Quick Charge.",
+    "answer": "Power Delivery"
+  },
+  {
+    "question": "The charger is currently ______, with no devices connected.",
+    "answer": "not in use"
+  },
+  {
+    "question": "The foldable plug helps reduce ______ during travel.",
+    "answer": "bulk"
+  },
+  {
+    "question": "The clean and minimalistic design style aligns with ______ tech aesthetics.",
+    "answer": "modern"
+  }
+]
+
+}

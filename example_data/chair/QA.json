@@ -1,0 +1,468 @@
+{
+  "multiple_choice": [
+  {
+    "question": "What is the primary material of the seat?",
+    "options": {
+      "A": "Wood",
+      "B": "Plastic",
+      "C": "Leather",
+      "D": "Fabric"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the primary material of the chair’s frame?",
+    "options": {
+      "A": "Plastic",
+      "B": "Wood",
+      "C": "Metal",
+      "D": "Carbon fiber"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the color of the seat?",
+    "options": {
+      "A": "Black",
+      "B": "Blue",
+      "C": "White",
+      "D": "Gray"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the color of the chair’s frame?",
+    "options": {
+      "A": "Black",
+      "B": "Metallic silver",
+      "C": "Green",
+      "D": "White"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the shape of the chair’s seat?",
+    "options": {
+      "A": "Round",
+      "B": "Square with sharp corners",
+      "C": "Square with rounded edges",
+      "D": "Triangular"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Does the chair include a backrest?",
+    "options": {
+      "A": "Yes, a curved plastic one",
+      "B": "Yes, metallic",
+      "C": "No, it has no backrest",
+      "D": "Yes, cushioned"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the main folding mechanism of the chair’s frame?",
+    "options": {
+      "A": "Telescopic",
+      "B": "Z-shaped",
+      "C": "X-shaped",
+      "D": "Hinged at the top"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Is the chair foldable?",
+    "options": {
+      "A": "No",
+      "B": "Yes",
+      "C": "Only partially",
+      "D": "Only with tools"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Does the chair have a built-in handle?",
+    "options": {
+      "A": "Yes, in the form of a rectangular cutout",
+      "B": "Yes, made of leather",
+      "C": "No, it does not have a handle",
+      "D": "Only on the side"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Is the chair lightweight?",
+    "options": {
+      "A": "Yes",
+      "B": "No",
+      "C": "Only when disassembled",
+      "D": "Only with plastic frame"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Can the chair be used outdoors?",
+    "options": {
+      "A": "No",
+      "B": "Yes",
+      "C": "Only with a cover",
+      "D": "Only under shade"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Does the chair require assembly?",
+    "options": {
+      "A": "Yes, it comes with screws",
+      "B": "Partially",
+      "C": "No, it is pre-assembled",
+      "D": "Only the seat needs attachment"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Is the chair space-saving?",
+    "options": {
+      "A": "No",
+      "B": "Only in large rooms",
+      "C": "Yes, due to its foldable design",
+      "D": "Only when disassembled"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Does the chair have anti-slip feet?",
+    "options": {
+      "A": "Yes",
+      "B": "No",
+      "C": "Only on wood flooring",
+      "D": "Only if added separately"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Is the chair easy to clean?",
+    "options": {
+      "A": "No, it absorbs dirt easily",
+      "B": "Yes, due to smooth plastic and metal surfaces",
+      "C": "Only with special products",
+      "D": "Yes, but takes a long time"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Is the chair suitable for heavy users?",
+    "options": {
+      "A": "Yes, even for industrial use",
+      "B": "Only for children",
+      "C": "Best for average-weight users",
+      "D": "Designed for high-weight capacity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "How is the seat ventilated?",
+    "options": {
+      "A": "Through side holes",
+      "B": "It’s mesh-based",
+      "C": "Via the rectangular cutout",
+      "D": "There is no ventilation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is a potential disadvantage of the chair?",
+    "options": {
+      "A": "Heavy and hard to store",
+      "B": "Lacks ergonomic support for long-term sitting",
+      "C": "Requires constant maintenance",
+      "D": "Cannot be folded"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the likely purpose of the chair’s rectangular cutout?",
+    "options": {
+      "A": "Drainage",
+      "B": "Ventilation and portability",
+      "C": "Decoration only",
+      "D": "Mounting accessories"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why is the chair considered suitable for events?",
+    "options": {
+      "A": "It has wheels",
+      "B": "It stacks easily",
+      "C": "It is foldable and lightweight",
+      "D": "It reclines for comfort"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why does the chair have a metal X-frame?",
+    "options": {
+      "A": "For decorative appeal",
+      "B": "To reduce manufacturing costs",
+      "C": "To improve structural stability while folding",
+      "D": "To store accessories"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the main safety advantage of rounded seat edges?",
+    "options": {
+      "A": "It improves grip",
+      "B": "It increases legroom",
+      "C": "It reduces injury risk",
+      "D": "It helps cleaning"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why might the chair be uncomfortable for long periods?",
+    "options": {
+      "A": "It has sharp edges",
+      "B": "It lacks cushioning and back support",
+      "C": "It’s too high",
+      "D": "It overheats quickly"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What combination of properties makes the chair portable?",
+    "options": {
+      "A": "Inflatable seat and short legs",
+      "B": "Plastic handle and fixed frame",
+      "C": "Foldable design and lightweight materials",
+      "D": "Small seat size and thick cushion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "In what context might the chair's foldability be most useful?",
+    "options": {
+      "A": "Public transit",
+      "B": "Temporary events or small apartments",
+      "C": "Permanent office installations",
+      "D": "Hospital bedsides"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which feature ensures the chair doesn’t slip on smooth floors?",
+    "options": {
+      "A": "Its wide legs",
+      "B": "Anti-slip rubber foot caps",
+      "C": "Curved seat edges",
+      "D": "Grooved leg design"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How does the seat's plastic construction benefit cleaning?",
+    "options": {
+      "A": "It absorbs stains",
+      "B": "It dries slowly",
+      "C": "It has a waterproof surface that wipes easily",
+      "D": "It requires strong chemicals"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What makes the chair a good choice for outdoor use?",
+    "options": {
+      "A": "It is weatherproof and rust-resistant",
+      "B": "It floats on water",
+      "C": "It has padded seating",
+      "D": "It is bolted to the ground"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which property helps in reducing storage space?",
+    "options": {
+      "A": "Cushioned seat",
+      "B": "Detachable legs",
+      "C": "Foldable X-frame",
+      "D": "Short height"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the overall purpose of this chair?",
+    "options": {
+      "A": "Luxury home furnishing",
+      "B": "Temporary and flexible seating",
+      "C": "Hospital patient seating",
+      "D": "Long-term office work"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why is the chair not ideal for office work?",
+    "options": {
+      "A": "It lacks a swivel base",
+      "B": "It does not have wheels",
+      "C": "It lacks lumbar and back support",
+      "D": "It has a narrow seat"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is the chair considered safe for children?",
+    "options": {
+      "A": "It is heavy and stable",
+      "B": "It is brightly colored",
+      "C": "It has no sharp edges and anti-slip feet",
+      "D": "It includes a harness"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why might prolonged exposure to the outdoors be a concern?",
+    "options": {
+      "A": "It may melt",
+      "B": "Rust and UV may degrade materials",
+      "C": "It attracts insects",
+      "D": "It leaks foam"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How does the chair’s handle contribute to its functionality?",
+    "options": {
+      "A": "It locks the chair when opened",
+      "B": "It provides extra back support",
+      "C": "It allows easy carrying",
+      "D": "It regulates heat"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT a feature of the chair?",
+    "options": {
+      "A": "Foldability",
+      "B": "Backrest",
+      "C": "Ventilation",
+      "D": "Anti-slip feet"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which feature improves both portability and breathability?",
+    "options": {
+      "A": "X-frame",
+      "B": "Rounded seat edges",
+      "C": "Rectangular cutout in the seat",
+      "D": "Metal joints"
+    },
+    "correct_answer": "C"
+  }
+  ],
+  "true_or_false": [
+  {
+    "question": "The chair has a backrest for ergonomic support.",
+    "answer": false
+  },
+  {
+    "question": "The seat of the chair is made of plastic.",
+    "answer": true
+  },
+  {
+    "question": "The frame of the chair is constructed from metal.",
+    "answer": true
+  },
+  {
+    "question": "This chair is designed to be folded and stored easily.",
+    "answer": true
+  },
+  {
+    "question": "The chair includes rubberized feet to prevent slipping.",
+    "answer": true
+  },
+  {
+    "question": "The chair must be assembled using tools before use.",
+    "answer": false
+  },
+  {
+    "question": "The chair is suitable for prolonged sitting due to its ergonomic cushioning.",
+    "answer": false
+  },
+  {
+    "question": "The chair’s white plastic seat contributes to its clean and modern aesthetic.",
+    "answer": true
+  },
+  {
+    "question": "The chair is stackable on top of other chairs.",
+    "answer": false
+  },
+  {
+    "question": "The rectangular cutout in the seat helps with ventilation and portability.",
+    "answer": true
+  },
+  {
+    "question": "The chair is not recommended for outdoor use.",
+    "answer": false
+  },
+  {
+    "question": "Its foldable design makes the chair space-saving.",
+    "answer": true
+  },
+  {
+    "question": "The chair’s legs form a W-shape for stability.",
+    "answer": false
+  },
+  {
+    "question": "The chair is a good solution for temporary seating needs.",
+    "answer": true
+  },
+  {
+    "question": "Prolonged exposure to rain could damage the chair’s frame or finish.",
+    "answer": true
+  }
+],
+  "fill_in_the_blank": [
+  {
+    "question": "The chair’s seat is made of ______, which makes it easy to clean and lightweight.",
+    "answer": "plastic"
+  },
+  {
+    "question": "The frame of the chair is made of ______, contributing to its durability.",
+    "answer": "metal"
+  },
+  {
+    "question": "The chair includes a built-in ______ to make carrying easier.",
+    "answer": "handle"
+  },
+  {
+    "question": "The foldable ______-shaped frame makes the chair stable and easy to store.",
+    "answer": "X"
+  },
+  {
+    "question": "The color of the seat is ______.",
+    "answer": "white"
+  },
+  {
+    "question": "The chair’s feet are capped with ______ to prevent slipping.",
+    "answer": "rubber"
+  },
+  {
+    "question": "This chair is designed for ______ use, not prolonged office work.",
+    "answer": "temporary"
+  },
+  {
+    "question": "The rectangular cutout in the seat provides both ventilation and ______.",
+    "answer": "portability"
+  },
+  {
+    "question": "Because the chair arrives pre-assembled, it does not require any ______.",
+    "answer": "assembly"
+  },
+  {
+    "question": "The chair is suitable for indoor and outdoor use but should not be left in extreme ______.",
+    "answer": "weather"
+  }
+]
+}

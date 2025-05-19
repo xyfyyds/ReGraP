@@ -1,0 +1,2182 @@
+{
+    "./yollava-data/train/bocchi_the_rock_test/0.png": [
+        {
+            "Human": "Who are the main people in this setting?",
+            "AI": "The main people in this setting are four girls who are members of a band called 'Kessoku Band'."
+        },
+        {
+            "Human": "Who is Bocchi?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Who is Ryo?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Who is Nijika?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is Kita?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Bocchi?",
+            "AI": "Bocchi has pink hair. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Ryo?",
+            "AI": "Ryo has blue hair. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Nijika?",
+            "AI": "Nijika has yellow hair. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Kita?",
+            "AI": "Kita has red hair. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the hair color of Bocchi?",
+            "AI": "Bocchi has pink hair."
+        },
+        {
+            "Human": "What is the hair color of Ryo?",
+            "AI": "Ryo has blue hair."
+        },
+        {
+            "Human": "What is the hair color of Nijika?",
+            "AI": "Nijika has yellow hair."
+        },
+        {
+            "Human": "What is the hair color of Kita?",
+            "AI": "Kita has red hair."
+        },
+        {
+            "Human": "Who is the pink-haired girl?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has pink hair?",
+            "AI": "Bocchi has pink hair and is positioned in the top-left corner of the picture. She is the guitarist of Kessoku Band and attends School A."
+        },
+        {
+            "Human": "Who is the socially anxious guitarist in Kessoku Band?",
+            "AI": "Bocchi is the guitarist of Kessoku Band. She is known for her social anxiety and struggles with stage fright."
+        },
+        {
+            "Human": "Which guitarist in Kessoku Band was invited by Nijika?",
+            "AI": "Bocchi was invited by Nijika to join Kessoku Band after Nijika recognized her potential as a guitarist."
+        },
+        {
+            "Human": "Who plays the guitar in Kessoku Band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band. She is a student at School A and is positioned in the top-left corner of the picture."
+        },
+        {
+            "Human": "Who is the blue-haired girl?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has blue hair?",
+            "AI": "Ryo has blue hair and is positioned in the top-right corner of the picture. She plays the bass in Kessoku Band and attends School B."
+        },
+        {
+            "Human": "Who is the bassist in Kessoku Band?",
+            "AI": "Ryo is the bassist in Kessoku Band. She attends School B and is positioned in the top-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band has an eccentric personality?",
+            "AI": "Ryo is known for her eccentric personality. She is aloof, unpredictable, and highly skilled at playing the bass."
+        },
+        {
+            "Human": "Who is the yellow-haired girl?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has yellow hair?",
+            "AI": "Nijika has yellow hair and is positioned in the bottom-left corner of the picture. She is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band. She is responsible for organizing the group and plays the drums."
+        },
+        {
+            "Human": "Which drummer in Kessoku Band invited Bocchi to join?",
+            "AI": "Nijika was the one who invited Bocchi to join Kessoku Band. She saw Bocchi's potential and personally asked her to become a member."
+        },
+        {
+            "Human": "Who is the red-haired girl?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has red hair?",
+            "AI": "Kita has red hair and is positioned in the bottom-right corner of the picture. She is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Who is the vocalist and rhythm guitarist in Kessoku Band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band. She is a student at School A and is positioned in the bottom-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band is the most outgoing?",
+            "AI": "Kita is the most extroverted member of Kessoku Band. She is outgoing, confident, and enjoys interacting with people."
+        },
+        {
+            "Human": "Who originally left Kessoku Band but later rejoined?",
+            "AI": "Kita originally left Kessoku Band but was later encouraged by Bocchi to return."
+        },
+        {
+            "Human": "Which schools do they attend?",
+            "AI": "Bocchi and Kita attend School A, while Ryo and Nijika attend School B."
+        },
+        {
+            "Human": "What are their grade differences?",
+            "AI": "Ryo and Nijika are in the same grade, and Bocchi and Kita are in the same grade. Since Ryo and Nijika are one grade above Bocchi, and Bocchi and Kita are the same age, this means Ryo and Nijika are also one grade above Kita."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Bocchi's role in the band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is Ryo's role in the band?",
+            "AI": "Ryo plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is Nijika's role in the band?",
+            "AI": "Nijika is the drummer and leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Kita's role in the band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "How did Bocchi join Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "Describe the process of Bocchi joining Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "How did Kita join Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "Waht is the process of Kita joining Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "What is the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "What is the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        }
+    ],
+    "./yollava-data/train/bocchi_the_rock/1.png": [
+        {
+            "Human": "Who are the main people in this setting?",
+            "AI": "The main people in this setting are four girls who are members of a band called 'Kessoku Band'."
+        },
+        {
+            "Human": "Who is Bocchi?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Who is Ryo?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Who is Nijika?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is Kita?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Bocchi?",
+            "AI": "Bocchi has pink hair. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Ryo?",
+            "AI": "Ryo has blue hair. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Nijika?",
+            "AI": "Nijika has yellow hair. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Kita?",
+            "AI": "Kita has red hair. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the hair color of Bocchi?",
+            "AI": "Bocchi has pink hair."
+        },
+        {
+            "Human": "What is the hair color of Ryo?",
+            "AI": "Ryo has blue hair."
+        },
+        {
+            "Human": "What is the hair color of Nijika?",
+            "AI": "Nijika has yellow hair."
+        },
+        {
+            "Human": "What is the hair color of Kita?",
+            "AI": "Kita has red hair."
+        },
+        {
+            "Human": "Who is the pink-haired girl?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has pink hair?",
+            "AI": "Bocchi has pink hair and is positioned in the top-left corner of the picture. She is the guitarist of Kessoku Band and attends School A."
+        },
+        {
+            "Human": "Who is the socially anxious guitarist in Kessoku Band?",
+            "AI": "Bocchi is the guitarist of Kessoku Band. She is known for her social anxiety and struggles with stage fright."
+        },
+        {
+            "Human": "Which guitarist in Kessoku Band was invited by Nijika?",
+            "AI": "Bocchi was invited by Nijika to join Kessoku Band after Nijika recognized her potential as a guitarist."
+        },
+        {
+            "Human": "Who plays the guitar in Kessoku Band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band. She is a student at School A and is positioned in the top-left corner of the picture."
+        },
+        {
+            "Human": "Who is the blue-haired girl?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has blue hair?",
+            "AI": "Ryo has blue hair and is positioned in the top-right corner of the picture. She plays the bass in Kessoku Band and attends School B."
+        },
+        {
+            "Human": "Who is the bassist in Kessoku Band?",
+            "AI": "Ryo is the bassist in Kessoku Band. She attends School B and is positioned in the top-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band has an eccentric personality?",
+            "AI": "Ryo is known for her eccentric personality. She is aloof, unpredictable, and highly skilled at playing the bass."
+        },
+        {
+            "Human": "Who is the yellow-haired girl?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has yellow hair?",
+            "AI": "Nijika has yellow hair and is positioned in the bottom-left corner of the picture. She is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band. She is responsible for organizing the group and plays the drums."
+        },
+        {
+            "Human": "Which drummer in Kessoku Band invited Bocchi to join?",
+            "AI": "Nijika was the one who invited Bocchi to join Kessoku Band. She saw Bocchi's potential and personally asked her to become a member."
+        },
+        {
+            "Human": "Who is the red-haired girl?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has red hair?",
+            "AI": "Kita has red hair and is positioned in the bottom-right corner of the picture. She is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Who is the vocalist and rhythm guitarist in Kessoku Band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band. She is a student at School A and is positioned in the bottom-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band is the most outgoing?",
+            "AI": "Kita is the most extroverted member of Kessoku Band. She is outgoing, confident, and enjoys interacting with people."
+        },
+        {
+            "Human": "Who originally left Kessoku Band but later rejoined?",
+            "AI": "Kita originally left Kessoku Band but was later encouraged by Bocchi to return."
+        },
+        {
+            "Human": "Which schools do they attend?",
+            "AI": "Bocchi and Kita attend School A, while Ryo and Nijika attend School B."
+        },
+        {
+            "Human": "What are their grade differences?",
+            "AI": "Ryo and Nijika are in the same grade, and Bocchi and Kita are in the same grade. Since Ryo and Nijika are one grade above Bocchi, and Bocchi and Kita are the same age, this means Ryo and Nijika are also one grade above Kita."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Bocchi's role in the band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is Ryo's role in the band?",
+            "AI": "Ryo plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is Nijika's role in the band?",
+            "AI": "Nijika is the drummer and leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Kita's role in the band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "How did Bocchi join Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "Describe the process of Bocchi joining Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "How did Kita join Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "Waht is the process of Kita joining Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "What is the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "What is the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        }
+    ],
+    "./yollava-data/train/bocchi_the_rock/2.png": [
+        {
+            "Human": "Who are the main people in this setting?",
+            "AI": "The main people in this setting are four girls who are members of a band called 'Kessoku Band'."
+        },
+        {
+            "Human": "Who is Bocchi?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Who is Ryo?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Who is Nijika?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is Kita?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Bocchi?",
+            "AI": "Bocchi has pink hair. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Ryo?",
+            "AI": "Ryo has blue hair. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Nijika?",
+            "AI": "Nijika has yellow hair. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Kita?",
+            "AI": "Kita has red hair. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the hair color of Bocchi?",
+            "AI": "Bocchi has pink hair."
+        },
+        {
+            "Human": "What is the hair color of Ryo?",
+            "AI": "Ryo has blue hair."
+        },
+        {
+            "Human": "What is the hair color of Nijika?",
+            "AI": "Nijika has yellow hair."
+        },
+        {
+            "Human": "What is the hair color of Kita?",
+            "AI": "Kita has red hair."
+        },
+        {
+            "Human": "Who is the pink-haired girl?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has pink hair?",
+            "AI": "Bocchi has pink hair and is positioned in the top-left corner of the picture. She is the guitarist of Kessoku Band and attends School A."
+        },
+        {
+            "Human": "Who is the socially anxious guitarist in Kessoku Band?",
+            "AI": "Bocchi is the guitarist of Kessoku Band. She is known for her social anxiety and struggles with stage fright."
+        },
+        {
+            "Human": "Which guitarist in Kessoku Band was invited by Nijika?",
+            "AI": "Bocchi was invited by Nijika to join Kessoku Band after Nijika recognized her potential as a guitarist."
+        },
+        {
+            "Human": "Who plays the guitar in Kessoku Band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band. She is a student at School A and is positioned in the top-left corner of the picture."
+        },
+        {
+            "Human": "Who is the blue-haired girl?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has blue hair?",
+            "AI": "Ryo has blue hair and is positioned in the top-right corner of the picture. She plays the bass in Kessoku Band and attends School B."
+        },
+        {
+            "Human": "Who is the bassist in Kessoku Band?",
+            "AI": "Ryo is the bassist in Kessoku Band. She attends School B and is positioned in the top-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band has an eccentric personality?",
+            "AI": "Ryo is known for her eccentric personality. She is aloof, unpredictable, and highly skilled at playing the bass."
+        },
+        {
+            "Human": "Who is the yellow-haired girl?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has yellow hair?",
+            "AI": "Nijika has yellow hair and is positioned in the bottom-left corner of the picture. She is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band. She is responsible for organizing the group and plays the drums."
+        },
+        {
+            "Human": "Which drummer in Kessoku Band invited Bocchi to join?",
+            "AI": "Nijika was the one who invited Bocchi to join Kessoku Band. She saw Bocchi's potential and personally asked her to become a member."
+        },
+        {
+            "Human": "Who is the red-haired girl?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has red hair?",
+            "AI": "Kita has red hair and is positioned in the bottom-right corner of the picture. She is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Who is the vocalist and rhythm guitarist in Kessoku Band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band. She is a student at School A and is positioned in the bottom-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band is the most outgoing?",
+            "AI": "Kita is the most extroverted member of Kessoku Band. She is outgoing, confident, and enjoys interacting with people."
+        },
+        {
+            "Human": "Who originally left Kessoku Band but later rejoined?",
+            "AI": "Kita originally left Kessoku Band but was later encouraged by Bocchi to return."
+        },
+        {
+            "Human": "Which schools do they attend?",
+            "AI": "Bocchi and Kita attend School A, while Ryo and Nijika attend School B."
+        },
+        {
+            "Human": "What are their grade differences?",
+            "AI": "Ryo and Nijika are in the same grade, and Bocchi and Kita are in the same grade. Since Ryo and Nijika are one grade above Bocchi, and Bocchi and Kita are the same age, this means Ryo and Nijika are also one grade above Kita."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Bocchi's role in the band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is Ryo's role in the band?",
+            "AI": "Ryo plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is Nijika's role in the band?",
+            "AI": "Nijika is the drummer and leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Kita's role in the band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "How did Bocchi join Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "Describe the process of Bocchi joining Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "How did Kita join Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "Waht is the process of Kita joining Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "What is the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "What is the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        }
+    ],
+    "./yollava-data/train/bocchi_the_rock/3.png": [
+        {
+            "Human": "Who are the main people in this setting?",
+            "AI": "The main people in this setting are four girls who are members of a band called 'Kessoku Band'."
+        },
+        {
+            "Human": "Who is Bocchi?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Who is Ryo?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Who is Nijika?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is Kita?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Bocchi?",
+            "AI": "Bocchi has pink hair. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Ryo?",
+            "AI": "Ryo has blue hair. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Nijika?",
+            "AI": "Nijika has yellow hair. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Kita?",
+            "AI": "Kita has red hair. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the hair color of Bocchi?",
+            "AI": "Bocchi has pink hair."
+        },
+        {
+            "Human": "What is the hair color of Ryo?",
+            "AI": "Ryo has blue hair."
+        },
+        {
+            "Human": "What is the hair color of Nijika?",
+            "AI": "Nijika has yellow hair."
+        },
+        {
+            "Human": "What is the hair color of Kita?",
+            "AI": "Kita has red hair."
+        },
+        {
+            "Human": "Who is the pink-haired girl?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has pink hair?",
+            "AI": "Bocchi has pink hair and is positioned in the top-left corner of the picture. She is the guitarist of Kessoku Band and attends School A."
+        },
+        {
+            "Human": "Who is the socially anxious guitarist in Kessoku Band?",
+            "AI": "Bocchi is the guitarist of Kessoku Band. She is known for her social anxiety and struggles with stage fright."
+        },
+        {
+            "Human": "Which guitarist in Kessoku Band was invited by Nijika?",
+            "AI": "Bocchi was invited by Nijika to join Kessoku Band after Nijika recognized her potential as a guitarist."
+        },
+        {
+            "Human": "Who plays the guitar in Kessoku Band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band. She is a student at School A and is positioned in the top-left corner of the picture."
+        },
+        {
+            "Human": "Who is the blue-haired girl?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has blue hair?",
+            "AI": "Ryo has blue hair and is positioned in the top-right corner of the picture. She plays the bass in Kessoku Band and attends School B."
+        },
+        {
+            "Human": "Who is the bassist in Kessoku Band?",
+            "AI": "Ryo is the bassist in Kessoku Band. She attends School B and is positioned in the top-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band has an eccentric personality?",
+            "AI": "Ryo is known for her eccentric personality. She is aloof, unpredictable, and highly skilled at playing the bass."
+        },
+        {
+            "Human": "Who is the yellow-haired girl?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has yellow hair?",
+            "AI": "Nijika has yellow hair and is positioned in the bottom-left corner of the picture. She is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band. She is responsible for organizing the group and plays the drums."
+        },
+        {
+            "Human": "Which drummer in Kessoku Band invited Bocchi to join?",
+            "AI": "Nijika was the one who invited Bocchi to join Kessoku Band. She saw Bocchi's potential and personally asked her to become a member."
+        },
+        {
+            "Human": "Who is the red-haired girl?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has red hair?",
+            "AI": "Kita has red hair and is positioned in the bottom-right corner of the picture. She is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Who is the vocalist and rhythm guitarist in Kessoku Band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band. She is a student at School A and is positioned in the bottom-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band is the most outgoing?",
+            "AI": "Kita is the most extroverted member of Kessoku Band. She is outgoing, confident, and enjoys interacting with people."
+        },
+        {
+            "Human": "Who originally left Kessoku Band but later rejoined?",
+            "AI": "Kita originally left Kessoku Band but was later encouraged by Bocchi to return."
+        },
+        {
+            "Human": "Which schools do they attend?",
+            "AI": "Bocchi and Kita attend School A, while Ryo and Nijika attend School B."
+        },
+        {
+            "Human": "What are their grade differences?",
+            "AI": "Ryo and Nijika are in the same grade, and Bocchi and Kita are in the same grade. Since Ryo and Nijika are one grade above Bocchi, and Bocchi and Kita are the same age, this means Ryo and Nijika are also one grade above Kita."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Bocchi's role in the band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is Ryo's role in the band?",
+            "AI": "Ryo plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is Nijika's role in the band?",
+            "AI": "Nijika is the drummer and leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Kita's role in the band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "How did Bocchi join Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "Describe the process of Bocchi joining Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "How did Kita join Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "Waht is the process of Kita joining Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "What is the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "What is the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        }
+    ],
+    "./yollava-data/train/bocchi_the_rock/4.png": [
+        {
+            "Human": "Who are the main people in this setting?",
+            "AI": "The main people in this setting are four girls who are members of a band called 'Kessoku Band'."
+        },
+        {
+            "Human": "Who is Bocchi?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Who is Ryo?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Who is Nijika?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is Kita?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Bocchi?",
+            "AI": "Bocchi has pink hair. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Ryo?",
+            "AI": "Ryo has blue hair. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Nijika?",
+            "AI": "Nijika has yellow hair. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Kita?",
+            "AI": "Kita has red hair. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the hair color of Bocchi?",
+            "AI": "Bocchi has pink hair."
+        },
+        {
+            "Human": "What is the hair color of Ryo?",
+            "AI": "Ryo has blue hair."
+        },
+        {
+            "Human": "What is the hair color of Nijika?",
+            "AI": "Nijika has yellow hair."
+        },
+        {
+            "Human": "What is the hair color of Kita?",
+            "AI": "Kita has red hair."
+        },
+        {
+            "Human": "Who is the pink-haired girl?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has pink hair?",
+            "AI": "Bocchi has pink hair and is positioned in the top-left corner of the picture. She is the guitarist of Kessoku Band and attends School A."
+        },
+        {
+            "Human": "Who is the socially anxious guitarist in Kessoku Band?",
+            "AI": "Bocchi is the guitarist of Kessoku Band. She is known for her social anxiety and struggles with stage fright."
+        },
+        {
+            "Human": "Which guitarist in Kessoku Band was invited by Nijika?",
+            "AI": "Bocchi was invited by Nijika to join Kessoku Band after Nijika recognized her potential as a guitarist."
+        },
+        {
+            "Human": "Who plays the guitar in Kessoku Band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band. She is a student at School A and is positioned in the top-left corner of the picture."
+        },
+        {
+            "Human": "Who is the blue-haired girl?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has blue hair?",
+            "AI": "Ryo has blue hair and is positioned in the top-right corner of the picture. She plays the bass in Kessoku Band and attends School B."
+        },
+        {
+            "Human": "Who is the bassist in Kessoku Band?",
+            "AI": "Ryo is the bassist in Kessoku Band. She attends School B and is positioned in the top-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band has an eccentric personality?",
+            "AI": "Ryo is known for her eccentric personality. She is aloof, unpredictable, and highly skilled at playing the bass."
+        },
+        {
+            "Human": "Who is the yellow-haired girl?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has yellow hair?",
+            "AI": "Nijika has yellow hair and is positioned in the bottom-left corner of the picture. She is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band. She is responsible for organizing the group and plays the drums."
+        },
+        {
+            "Human": "Which drummer in Kessoku Band invited Bocchi to join?",
+            "AI": "Nijika was the one who invited Bocchi to join Kessoku Band. She saw Bocchi's potential and personally asked her to become a member."
+        },
+        {
+            "Human": "Who is the red-haired girl?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has red hair?",
+            "AI": "Kita has red hair and is positioned in the bottom-right corner of the picture. She is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Who is the vocalist and rhythm guitarist in Kessoku Band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band. She is a student at School A and is positioned in the bottom-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band is the most outgoing?",
+            "AI": "Kita is the most extroverted member of Kessoku Band. She is outgoing, confident, and enjoys interacting with people."
+        },
+        {
+            "Human": "Who originally left Kessoku Band but later rejoined?",
+            "AI": "Kita originally left Kessoku Band but was later encouraged by Bocchi to return."
+        },
+        {
+            "Human": "Which schools do they attend?",
+            "AI": "Bocchi and Kita attend School A, while Ryo and Nijika attend School B."
+        },
+        {
+            "Human": "What are their grade differences?",
+            "AI": "Ryo and Nijika are in the same grade, and Bocchi and Kita are in the same grade. Since Ryo and Nijika are one grade above Bocchi, and Bocchi and Kita are the same age, this means Ryo and Nijika are also one grade above Kita."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Bocchi's role in the band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is Ryo's role in the band?",
+            "AI": "Ryo plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is Nijika's role in the band?",
+            "AI": "Nijika is the drummer and leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Kita's role in the band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "How did Bocchi join Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "Describe the process of Bocchi joining Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "How did Kita join Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "Waht is the process of Kita joining Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "What is the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "What is the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        }
+    ],
+    "./yollava-data/train/bocchi_the_rock/5.png": [
+        {
+            "Human": "Who are the main people in this setting?",
+            "AI": "The main people in this setting are four girls who are members of a band called 'Kessoku Band'."
+        },
+        {
+            "Human": "Who is Bocchi?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Who is Ryo?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Who is Nijika?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is Kita?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Bocchi?",
+            "AI": "Bocchi has pink hair. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Ryo?",
+            "AI": "Ryo has blue hair. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Nijika?",
+            "AI": "Nijika has yellow hair. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Kita?",
+            "AI": "Kita has red hair. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the hair color of Bocchi?",
+            "AI": "Bocchi has pink hair."
+        },
+        {
+            "Human": "What is the hair color of Ryo?",
+            "AI": "Ryo has blue hair."
+        },
+        {
+            "Human": "What is the hair color of Nijika?",
+            "AI": "Nijika has yellow hair."
+        },
+        {
+            "Human": "What is the hair color of Kita?",
+            "AI": "Kita has red hair."
+        },
+        {
+            "Human": "Who is the pink-haired girl?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has pink hair?",
+            "AI": "Bocchi has pink hair and is positioned in the top-left corner of the picture. She is the guitarist of Kessoku Band and attends School A."
+        },
+        {
+            "Human": "Who is the socially anxious guitarist in Kessoku Band?",
+            "AI": "Bocchi is the guitarist of Kessoku Band. She is known for her social anxiety and struggles with stage fright."
+        },
+        {
+            "Human": "Which guitarist in Kessoku Band was invited by Nijika?",
+            "AI": "Bocchi was invited by Nijika to join Kessoku Band after Nijika recognized her potential as a guitarist."
+        },
+        {
+            "Human": "Who plays the guitar in Kessoku Band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band. She is a student at School A and is positioned in the top-left corner of the picture."
+        },
+        {
+            "Human": "Who is the blue-haired girl?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has blue hair?",
+            "AI": "Ryo has blue hair and is positioned in the top-right corner of the picture. She plays the bass in Kessoku Band and attends School B."
+        },
+        {
+            "Human": "Who is the bassist in Kessoku Band?",
+            "AI": "Ryo is the bassist in Kessoku Band. She attends School B and is positioned in the top-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band has an eccentric personality?",
+            "AI": "Ryo is known for her eccentric personality. She is aloof, unpredictable, and highly skilled at playing the bass."
+        },
+        {
+            "Human": "Who is the yellow-haired girl?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has yellow hair?",
+            "AI": "Nijika has yellow hair and is positioned in the bottom-left corner of the picture. She is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band. She is responsible for organizing the group and plays the drums."
+        },
+        {
+            "Human": "Which drummer in Kessoku Band invited Bocchi to join?",
+            "AI": "Nijika was the one who invited Bocchi to join Kessoku Band. She saw Bocchi's potential and personally asked her to become a member."
+        },
+        {
+            "Human": "Who is the red-haired girl?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has red hair?",
+            "AI": "Kita has red hair and is positioned in the bottom-right corner of the picture. She is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Who is the vocalist and rhythm guitarist in Kessoku Band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band. She is a student at School A and is positioned in the bottom-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band is the most outgoing?",
+            "AI": "Kita is the most extroverted member of Kessoku Band. She is outgoing, confident, and enjoys interacting with people."
+        },
+        {
+            "Human": "Who originally left Kessoku Band but later rejoined?",
+            "AI": "Kita originally left Kessoku Band but was later encouraged by Bocchi to return."
+        },
+        {
+            "Human": "Which schools do they attend?",
+            "AI": "Bocchi and Kita attend School A, while Ryo and Nijika attend School B."
+        },
+        {
+            "Human": "What are their grade differences?",
+            "AI": "Ryo and Nijika are in the same grade, and Bocchi and Kita are in the same grade. Since Ryo and Nijika are one grade above Bocchi, and Bocchi and Kita are the same age, this means Ryo and Nijika are also one grade above Kita."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Bocchi's role in the band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is Ryo's role in the band?",
+            "AI": "Ryo plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is Nijika's role in the band?",
+            "AI": "Nijika is the drummer and leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Kita's role in the band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "How did Bocchi join Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "Describe the process of Bocchi joining Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "How did Kita join Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "Waht is the process of Kita joining Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "What is the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "What is the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        }
+    ],
+    "./yollava-data/train/bocchi_the_rock/6.png": [
+        {
+            "Human": "Who are the main people in this setting?",
+            "AI": "The main people in this setting are four girls who are members of a band called 'Kessoku Band'."
+        },
+        {
+            "Human": "Who is Bocchi?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Who is Ryo?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Who is Nijika?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is Kita?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Bocchi?",
+            "AI": "Bocchi has pink hair. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Ryo?",
+            "AI": "Ryo has blue hair. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Nijika?",
+            "AI": "Nijika has yellow hair. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Kita?",
+            "AI": "Kita has red hair. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the hair color of Bocchi?",
+            "AI": "Bocchi has pink hair."
+        },
+        {
+            "Human": "What is the hair color of Ryo?",
+            "AI": "Ryo has blue hair."
+        },
+        {
+            "Human": "What is the hair color of Nijika?",
+            "AI": "Nijika has yellow hair."
+        },
+        {
+            "Human": "What is the hair color of Kita?",
+            "AI": "Kita has red hair."
+        },
+        {
+            "Human": "Who is the pink-haired girl?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has pink hair?",
+            "AI": "Bocchi has pink hair and is positioned in the top-left corner of the picture. She is the guitarist of Kessoku Band and attends School A."
+        },
+        {
+            "Human": "Who is the socially anxious guitarist in Kessoku Band?",
+            "AI": "Bocchi is the guitarist of Kessoku Band. She is known for her social anxiety and struggles with stage fright."
+        },
+        {
+            "Human": "Which guitarist in Kessoku Band was invited by Nijika?",
+            "AI": "Bocchi was invited by Nijika to join Kessoku Band after Nijika recognized her potential as a guitarist."
+        },
+        {
+            "Human": "Who plays the guitar in Kessoku Band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band. She is a student at School A and is positioned in the top-left corner of the picture."
+        },
+        {
+            "Human": "Who is the blue-haired girl?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has blue hair?",
+            "AI": "Ryo has blue hair and is positioned in the top-right corner of the picture. She plays the bass in Kessoku Band and attends School B."
+        },
+        {
+            "Human": "Who is the bassist in Kessoku Band?",
+            "AI": "Ryo is the bassist in Kessoku Band. She attends School B and is positioned in the top-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band has an eccentric personality?",
+            "AI": "Ryo is known for her eccentric personality. She is aloof, unpredictable, and highly skilled at playing the bass."
+        },
+        {
+            "Human": "Who is the yellow-haired girl?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has yellow hair?",
+            "AI": "Nijika has yellow hair and is positioned in the bottom-left corner of the picture. She is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band. She is responsible for organizing the group and plays the drums."
+        },
+        {
+            "Human": "Which drummer in Kessoku Band invited Bocchi to join?",
+            "AI": "Nijika was the one who invited Bocchi to join Kessoku Band. She saw Bocchi's potential and personally asked her to become a member."
+        },
+        {
+            "Human": "Who is the red-haired girl?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has red hair?",
+            "AI": "Kita has red hair and is positioned in the bottom-right corner of the picture. She is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Who is the vocalist and rhythm guitarist in Kessoku Band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band. She is a student at School A and is positioned in the bottom-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band is the most outgoing?",
+            "AI": "Kita is the most extroverted member of Kessoku Band. She is outgoing, confident, and enjoys interacting with people."
+        },
+        {
+            "Human": "Who originally left Kessoku Band but later rejoined?",
+            "AI": "Kita originally left Kessoku Band but was later encouraged by Bocchi to return."
+        },
+        {
+            "Human": "Which schools do they attend?",
+            "AI": "Bocchi and Kita attend School A, while Ryo and Nijika attend School B."
+        },
+        {
+            "Human": "What are their grade differences?",
+            "AI": "Ryo and Nijika are in the same grade, and Bocchi and Kita are in the same grade. Since Ryo and Nijika are one grade above Bocchi, and Bocchi and Kita are the same age, this means Ryo and Nijika are also one grade above Kita."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Bocchi's role in the band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is Ryo's role in the band?",
+            "AI": "Ryo plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is Nijika's role in the band?",
+            "AI": "Nijika is the drummer and leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Kita's role in the band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "How did Bocchi join Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "Describe the process of Bocchi joining Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "How did Kita join Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "Waht is the process of Kita joining Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "What is the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "What is the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        }
+    ],
+    "./yollava-data/train/bocchi_the_rock/7.png": [
+        {
+            "Human": "Who are the main people in this setting?",
+            "AI": "The main people in this setting are four girls who are members of a band called 'Kessoku Band'."
+        },
+        {
+            "Human": "Who is Bocchi?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Who is Ryo?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Who is Nijika?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is Kita?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Bocchi?",
+            "AI": "Bocchi has pink hair. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Ryo?",
+            "AI": "Ryo has blue hair. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Nijika?",
+            "AI": "Nijika has yellow hair. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Kita?",
+            "AI": "Kita has red hair. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the hair color of Bocchi?",
+            "AI": "Bocchi has pink hair."
+        },
+        {
+            "Human": "What is the hair color of Ryo?",
+            "AI": "Ryo has blue hair."
+        },
+        {
+            "Human": "What is the hair color of Nijika?",
+            "AI": "Nijika has yellow hair."
+        },
+        {
+            "Human": "What is the hair color of Kita?",
+            "AI": "Kita has red hair."
+        },
+        {
+            "Human": "Who is the pink-haired girl?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has pink hair?",
+            "AI": "Bocchi has pink hair and is positioned in the top-left corner of the picture. She is the guitarist of Kessoku Band and attends School A."
+        },
+        {
+            "Human": "Who is the socially anxious guitarist in Kessoku Band?",
+            "AI": "Bocchi is the guitarist of Kessoku Band. She is known for her social anxiety and struggles with stage fright."
+        },
+        {
+            "Human": "Which guitarist in Kessoku Band was invited by Nijika?",
+            "AI": "Bocchi was invited by Nijika to join Kessoku Band after Nijika recognized her potential as a guitarist."
+        },
+        {
+            "Human": "Who plays the guitar in Kessoku Band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band. She is a student at School A and is positioned in the top-left corner of the picture."
+        },
+        {
+            "Human": "Who is the blue-haired girl?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has blue hair?",
+            "AI": "Ryo has blue hair and is positioned in the top-right corner of the picture. She plays the bass in Kessoku Band and attends School B."
+        },
+        {
+            "Human": "Who is the bassist in Kessoku Band?",
+            "AI": "Ryo is the bassist in Kessoku Band. She attends School B and is positioned in the top-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band has an eccentric personality?",
+            "AI": "Ryo is known for her eccentric personality. She is aloof, unpredictable, and highly skilled at playing the bass."
+        },
+        {
+            "Human": "Who is the yellow-haired girl?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has yellow hair?",
+            "AI": "Nijika has yellow hair and is positioned in the bottom-left corner of the picture. She is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band. She is responsible for organizing the group and plays the drums."
+        },
+        {
+            "Human": "Which drummer in Kessoku Band invited Bocchi to join?",
+            "AI": "Nijika was the one who invited Bocchi to join Kessoku Band. She saw Bocchi's potential and personally asked her to become a member."
+        },
+        {
+            "Human": "Who is the red-haired girl?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has red hair?",
+            "AI": "Kita has red hair and is positioned in the bottom-right corner of the picture. She is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Who is the vocalist and rhythm guitarist in Kessoku Band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band. She is a student at School A and is positioned in the bottom-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band is the most outgoing?",
+            "AI": "Kita is the most extroverted member of Kessoku Band. She is outgoing, confident, and enjoys interacting with people."
+        },
+        {
+            "Human": "Who originally left Kessoku Band but later rejoined?",
+            "AI": "Kita originally left Kessoku Band but was later encouraged by Bocchi to return."
+        },
+        {
+            "Human": "Which schools do they attend?",
+            "AI": "Bocchi and Kita attend School A, while Ryo and Nijika attend School B."
+        },
+        {
+            "Human": "What are their grade differences?",
+            "AI": "Ryo and Nijika are in the same grade, and Bocchi and Kita are in the same grade. Since Ryo and Nijika are one grade above Bocchi, and Bocchi and Kita are the same age, this means Ryo and Nijika are also one grade above Kita."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Bocchi's role in the band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is Ryo's role in the band?",
+            "AI": "Ryo plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is Nijika's role in the band?",
+            "AI": "Nijika is the drummer and leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Kita's role in the band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "How did Bocchi join Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "Describe the process of Bocchi joining Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "How did Kita join Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "Waht is the process of Kita joining Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "What is the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "What is the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        }
+    ],
+    "./yollava-data/train/bocchi_the_rock/8.png": [
+        {
+            "Human": "Who are the main people in this setting?",
+            "AI": "The main people in this setting are four girls who are members of a band called 'Kessoku Band'."
+        },
+        {
+            "Human": "Who is Bocchi?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Who is Ryo?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Who is Nijika?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is Kita?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Bocchi?",
+            "AI": "Bocchi has pink hair. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Ryo?",
+            "AI": "Ryo has blue hair. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Nijika?",
+            "AI": "Nijika has yellow hair. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Kita?",
+            "AI": "Kita has red hair. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the hair color of Bocchi?",
+            "AI": "Bocchi has pink hair."
+        },
+        {
+            "Human": "What is the hair color of Ryo?",
+            "AI": "Ryo has blue hair."
+        },
+        {
+            "Human": "What is the hair color of Nijika?",
+            "AI": "Nijika has yellow hair."
+        },
+        {
+            "Human": "What is the hair color of Kita?",
+            "AI": "Kita has red hair."
+        },
+        {
+            "Human": "Who is the pink-haired girl?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has pink hair?",
+            "AI": "Bocchi has pink hair and is positioned in the top-left corner of the picture. She is the guitarist of Kessoku Band and attends School A."
+        },
+        {
+            "Human": "Who is the socially anxious guitarist in Kessoku Band?",
+            "AI": "Bocchi is the guitarist of Kessoku Band. She is known for her social anxiety and struggles with stage fright."
+        },
+        {
+            "Human": "Which guitarist in Kessoku Band was invited by Nijika?",
+            "AI": "Bocchi was invited by Nijika to join Kessoku Band after Nijika recognized her potential as a guitarist."
+        },
+        {
+            "Human": "Who plays the guitar in Kessoku Band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band. She is a student at School A and is positioned in the top-left corner of the picture."
+        },
+        {
+            "Human": "Who is the blue-haired girl?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has blue hair?",
+            "AI": "Ryo has blue hair and is positioned in the top-right corner of the picture. She plays the bass in Kessoku Band and attends School B."
+        },
+        {
+            "Human": "Who is the bassist in Kessoku Band?",
+            "AI": "Ryo is the bassist in Kessoku Band. She attends School B and is positioned in the top-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band has an eccentric personality?",
+            "AI": "Ryo is known for her eccentric personality. She is aloof, unpredictable, and highly skilled at playing the bass."
+        },
+        {
+            "Human": "Who is the yellow-haired girl?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has yellow hair?",
+            "AI": "Nijika has yellow hair and is positioned in the bottom-left corner of the picture. She is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band. She is responsible for organizing the group and plays the drums."
+        },
+        {
+            "Human": "Which drummer in Kessoku Band invited Bocchi to join?",
+            "AI": "Nijika was the one who invited Bocchi to join Kessoku Band. She saw Bocchi's potential and personally asked her to become a member."
+        },
+        {
+            "Human": "Who is the red-haired girl?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has red hair?",
+            "AI": "Kita has red hair and is positioned in the bottom-right corner of the picture. She is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Who is the vocalist and rhythm guitarist in Kessoku Band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band. She is a student at School A and is positioned in the bottom-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band is the most outgoing?",
+            "AI": "Kita is the most extroverted member of Kessoku Band. She is outgoing, confident, and enjoys interacting with people."
+        },
+        {
+            "Human": "Who originally left Kessoku Band but later rejoined?",
+            "AI": "Kita originally left Kessoku Band but was later encouraged by Bocchi to return."
+        },
+        {
+            "Human": "Which schools do they attend?",
+            "AI": "Bocchi and Kita attend School A, while Ryo and Nijika attend School B."
+        },
+        {
+            "Human": "What are their grade differences?",
+            "AI": "Ryo and Nijika are in the same grade, and Bocchi and Kita are in the same grade. Since Ryo and Nijika are one grade above Bocchi, and Bocchi and Kita are the same age, this means Ryo and Nijika are also one grade above Kita."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Bocchi's role in the band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is Ryo's role in the band?",
+            "AI": "Ryo plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is Nijika's role in the band?",
+            "AI": "Nijika is the drummer and leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Kita's role in the band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "How did Bocchi join Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "Describe the process of Bocchi joining Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "How did Kita join Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "Waht is the process of Kita joining Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "What is the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "What is the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        }
+    ],
+    "./yollava-data/train/bocchi_the_rock/9.png": [
+        {
+            "Human": "Who are the main people in this setting?",
+            "AI": "The main people in this setting are four girls who are members of a band called 'Kessoku Band'."
+        },
+        {
+            "Human": "Who is Bocchi?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Who is Ryo?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Who is Nijika?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is Kita?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Bocchi?",
+            "AI": "Bocchi has pink hair. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Ryo?",
+            "AI": "Ryo has blue hair. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Nijika?",
+            "AI": "Nijika has yellow hair. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "What is the feature of Kita?",
+            "AI": "Kita has red hair. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "What is the hair color of Bocchi?",
+            "AI": "Bocchi has pink hair."
+        },
+        {
+            "Human": "What is the hair color of Ryo?",
+            "AI": "Ryo has blue hair."
+        },
+        {
+            "Human": "What is the hair color of Nijika?",
+            "AI": "Nijika has yellow hair."
+        },
+        {
+            "Human": "What is the hair color of Kita?",
+            "AI": "Kita has red hair."
+        },
+        {
+            "Human": "Who is the pink-haired girl?",
+            "AI": "Bocchi is a pink-haired girl located in the top-left corner of the picture. She is a student at School A, in a lower grade, and plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has pink hair?",
+            "AI": "Bocchi has pink hair and is positioned in the top-left corner of the picture. She is the guitarist of Kessoku Band and attends School A."
+        },
+        {
+            "Human": "Who is the socially anxious guitarist in Kessoku Band?",
+            "AI": "Bocchi is the guitarist of Kessoku Band. She is known for her social anxiety and struggles with stage fright."
+        },
+        {
+            "Human": "Which guitarist in Kessoku Band was invited by Nijika?",
+            "AI": "Bocchi was invited by Nijika to join Kessoku Band after Nijika recognized her potential as a guitarist."
+        },
+        {
+            "Human": "Who plays the guitar in Kessoku Band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band. She is a student at School A and is positioned in the top-left corner of the picture."
+        },
+        {
+            "Human": "Who is the blue-haired girl?",
+            "AI": "Ryo is a blue-haired girl located in the top-right corner of the picture. She is a student at School B, in a higher grade, and plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has blue hair?",
+            "AI": "Ryo has blue hair and is positioned in the top-right corner of the picture. She plays the bass in Kessoku Band and attends School B."
+        },
+        {
+            "Human": "Who is the bassist in Kessoku Band?",
+            "AI": "Ryo is the bassist in Kessoku Band. She attends School B and is positioned in the top-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band has an eccentric personality?",
+            "AI": "Ryo is known for her eccentric personality. She is aloof, unpredictable, and highly skilled at playing the bass."
+        },
+        {
+            "Human": "Who is the yellow-haired girl?",
+            "AI": "Nijika is a yellow-haired girl located in the bottom-left corner of the picture. She is a student at School B, in the same grade as Ryo, and is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has yellow hair?",
+            "AI": "Nijika has yellow hair and is positioned in the bottom-left corner of the picture. She is the leader and drummer of Kessoku Band."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band. She is responsible for organizing the group and plays the drums."
+        },
+        {
+            "Human": "Which drummer in Kessoku Band invited Bocchi to join?",
+            "AI": "Nijika was the one who invited Bocchi to join Kessoku Band. She saw Bocchi's potential and personally asked her to become a member."
+        },
+        {
+            "Human": "Who is the red-haired girl?",
+            "AI": "Kita is a red-haired girl located in the bottom-right corner of the picture. She is a student at School A, in the same grade as Bocchi, and is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Which member of Kessoku Band has red hair?",
+            "AI": "Kita has red hair and is positioned in the bottom-right corner of the picture. She is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "Who is the vocalist and rhythm guitarist in Kessoku Band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band. She is a student at School A and is positioned in the bottom-right corner of the picture."
+        },
+        {
+            "Human": "Which member of Kessoku Band is the most outgoing?",
+            "AI": "Kita is the most extroverted member of Kessoku Band. She is outgoing, confident, and enjoys interacting with people."
+        },
+        {
+            "Human": "Who originally left Kessoku Band but later rejoined?",
+            "AI": "Kita originally left Kessoku Band but was later encouraged by Bocchi to return."
+        },
+        {
+            "Human": "Which schools do they attend?",
+            "AI": "Bocchi and Kita attend School A, while Ryo and Nijika attend School B."
+        },
+        {
+            "Human": "What are their grade differences?",
+            "AI": "Ryo and Nijika are in the same grade, and Bocchi and Kita are in the same grade. Since Ryo and Nijika are one grade above Bocchi, and Bocchi and Kita are the same age, this means Ryo and Nijika are also one grade above Kita."
+        },
+        {
+            "Human": "Who is the leader of Kessoku Band?",
+            "AI": "Nijika is the leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Bocchi's role in the band?",
+            "AI": "Bocchi plays the guitar in Kessoku Band."
+        },
+        {
+            "Human": "What is Ryo's role in the band?",
+            "AI": "Ryo plays the bass in Kessoku Band."
+        },
+        {
+            "Human": "What is Nijika's role in the band?",
+            "AI": "Nijika is the drummer and leader of Kessoku Band."
+        },
+        {
+            "Human": "What is Kita's role in the band?",
+            "AI": "Kita is the vocalist and rhythm guitarist of Kessoku Band."
+        },
+        {
+            "Human": "How did Bocchi join Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "Describe the process of Bocchi joining Kessoku Band?",
+            "AI": "Bocchi was first invited to join Kessoku Band by Nijika. Nijika saw potential in her guitar skills and personally asked her to become a member."
+        },
+        {
+            "Human": "How did Kita join Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "Waht is the process of Kita joining Kessoku Band?",
+            "AI": "Originally, Kita had left the band, but Bocchi later brought her back. Bocchi played a key role in encouraging Kita to return, which led to her officially rejoining as a band member."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Kita?",
+            "AI": "Bocchi and Kita are close friends and bandmates. Their relationship is strong, and they are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "Describe the relationship between Ryo and Nijika?",
+            "AI": "Ryo and Nijika are close friends and bandmates. They share a strong bond and are sometimes seen as a potential couple."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Ryo?",
+            "AI": "Bocchi and Ryo are bandmates. Ryo also helps guide Bocchi when she is writing lyrics, giving her direction and advice to improve her songwriting skills."
+        },
+        {
+            "Human": "What is the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Bocchi and Nijika?",
+            "AI": "Bocchi and Nijika are bandmates and friends. Nijika was the one who first invited Bocchi to join Kessoku Band."
+        },
+        {
+            "Human": "What is the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Ryo?",
+            "AI": "Kita admires Ryo as her senior. Since Ryo is one grade above her, Kita looks up to her as a respected upperclassman and musician."
+        },
+        {
+            "Human": "What is the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        },
+        {
+            "Human": "Describe the relationship between Kita and Nijika?",
+            "AI": "Kita and Nijika are good friends and bandmates. They have a friendly and supportive relationship within Kessoku Band."
+        }
+    ]
+}

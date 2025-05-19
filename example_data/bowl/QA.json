@@ -1,0 +1,412 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What type of object is shown in the image?",
+      "options": {
+        "A": "A plate",
+        "B": "A bowl",
+        "C": "A cup",
+        "D": "A tray"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the primary material of the bowl?",
+      "options": {
+        "A": "Plastic",
+        "B": "Glass",
+        "C": "Ceramic",
+        "D": "Metal"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the predominant color of the bowl?",
+      "options": {
+        "A": "Red",
+        "B": "Blue",
+        "C": "White",
+        "D": "Black"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the primary function of the bowl?",
+      "options": {
+        "A": "To hold food or beverages",
+        "B": "To store utensils",
+        "C": "To be used as a decorative piece",
+        "D": "To hold cutlery"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What pattern is visible on the outer surface of the bowl?",
+      "options": {
+        "A": "Floral design",
+        "B": "Geometric shapes",
+        "C": "Plain with no design",
+        "D": "Striped patterns"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the approximate size of the bowl?",
+      "options": {
+        "A": "Small",
+        "B": "Medium",
+        "C": "Large",
+        "D": "Extra Large"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What type of food is commonly served in this bowl?",
+      "options": {
+        "A": "Rice and soup",
+        "B": "Pizza",
+        "C": "Grilled meat",
+        "D": "Ice cream cones"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Is the bowl suitable for hot liquids?",
+      "options": {
+        "A": "Yes, because ceramic retains heat well",
+        "B": "No, it will crack under heat",
+        "C": "Yes, but only for cold drinks",
+        "D": "No, it is made of plastic"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Is the bowl dishwasher safe?",
+      "options": {
+        "A": "Yes, ceramic bowls are dishwasher safe",
+        "B": "No, it must be hand washed",
+        "C": "Only on the top rack",
+        "D": "It cannot be washed with water"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What makes this bowl practical for everyday use?",
+      "options": {
+        "A": "It is made of durable ceramic",
+        "B": "It has a lid",
+        "C": "It has an insulated layer",
+        "D": "It can be used as a serving tray"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why is ceramic a preferred material for <bowl> used with hot foods?",
+      "options": {
+        "A": "It melts easily and is biodegradable",
+        "B": "It changes color with heat",
+        "C": "It retains heat and resists cracking under temperature changes",
+        "D": "It is microwave-proof only when dry"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What feature of <bowl> contributes to safe stacking?",
+      "options": {
+        "A": "Its large handles",
+        "B": "The smooth outer glaze",
+        "C": "Slightly tapered design",
+        "D": "Its reinforced base"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why does the round shape of <bowl> improve its usability?",
+      "options": {
+        "A": "It allows even heat distribution and scooping",
+        "B": "It is aesthetically traditional",
+        "C": "It helps hide imperfections",
+        "D": "It supports faster cooling"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "How do the floral patterns affect <bowl>'s usability?",
+      "options": {
+        "A": "They increase friction during stacking",
+        "B": "They make the bowl heat faster",
+        "C": "They are purely decorative and don’t affect function",
+        "D": "They make food look fresher"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is <bowl> suitable for formal dining?",
+      "options": {
+        "A": "It is made of bamboo",
+        "B": "Its decorative finish and material create an elegant look",
+        "C": "It is disposable",
+        "D": "It can fold flat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What makes <bowl> heat-resistant?",
+      "options": {
+        "A": "The metallic pattern",
+        "B": "The glaze on plastic",
+        "C": "The ceramic composition",
+        "D": "The triple-wall plastic"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following makes <bowl> convenient to clean?",
+      "options": {
+        "A": "It has detachable parts",
+        "B": "It has a rough exterior",
+        "C": "Its glazed ceramic surface",
+        "D": "It absorbs soap easily"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is <bowl> considered moderately heavy?",
+      "options": {
+        "A": "It contains a core of concrete",
+        "B": "It is thicker than usual plastic",
+        "C": "Ceramic has higher density than plastic and is designed for stability",
+        "D": "It is full of liquid"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How does <bowl> ensure temperature retention?",
+      "options": {
+        "A": "The bowl is made of heat-conductive plastic",
+        "B": "The ceramic body insulates contents",
+        "C": "It is filled with thermal gel",
+        "D": "It is microwave powered"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What purpose does the slightly raised base of <bowl> serve?",
+      "options": {
+        "A": "It prevents heat loss",
+        "B": "It avoids direct table contact and improves stability",
+        "C": "It helps stacking vertically",
+        "D": "It creates vacuum sealing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the shape of <bowl>?",
+      "options": {
+        "A": "Oval",
+        "B": "Square",
+        "C": "Round",
+        "D": "Hexagonal"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the main color of <bowl>?",
+      "options": {
+        "A": "White",
+        "B": "Black",
+        "C": "Red",
+        "D": "Green"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What type of food is commonly served in <bowl>?",
+      "options": {
+        "A": "Rice and soup",
+        "B": "Pizza",
+        "C": "Grilled meat",
+        "D": "Sandwiches"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which material is <bowl> made of?",
+      "options": {
+        "A": "Plastic",
+        "B": "Wood",
+        "C": "Ceramic",
+        "D": "Metal"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What makes <bowl> suitable for microwave use?",
+      "options": {
+        "A": "Its unglazed inner wall",
+        "B": "Ceramic's resistance to microwave energy",
+        "C": "The handles on the side",
+        "D": "It is see-through"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which aspect helps <bowl> blend with various tableware?",
+      "options": {
+        "A": "It has metallic edges",
+        "B": "The floral brushstroke design",
+        "C": "Its transparent lid",
+        "D": "Its built-in divider"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What makes <bowl> different from plain ceramic bowls?",
+      "options": {
+        "A": "Its patternless white exterior",
+        "B": "A curved lip and painted rim",
+        "C": "It has wheels underneath",
+        "D": "It includes an electronic warmer"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which factor makes <bowl> easy to stack?",
+      "options": {
+        "A": "It is made of silicone",
+        "B": "The lip extends beyond the base",
+        "C": "Tapered walls and uniform sizing",
+        "D": "It is foldable"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What visual design is primarily present on <bowl>?",
+      "options": {
+        "A": "Animal prints",
+        "B": "Abstract dots",
+        "C": "Floral brush strokes",
+        "D": "Grid lines"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What makes <bowl> practical for both casual and formal settings?",
+      "options": {
+        "A": "It’s made from paper",
+        "B": "It’s transparent",
+        "C": "The mix of white ceramic with elegant patterns",
+        "D": "It has multiple compartments"
+      },
+      "correct_answer": "C"
+    }
+],
+  "fill_in_the_blank": [
+    {
+      "question": "<bowl> is most commonly used to hold _______.",
+      "answer": "rice"
+    },
+    {
+      "question": "The primary material of <bowl> is _______.",
+      "answer": "ceramic"
+    },
+    {
+      "question": "The color of <bowl> is primarily _______.",
+      "answer": "white"
+    },
+    {
+      "question": "<bowl> has decorative patterns resembling _______.",
+      "answer": "flowers"
+    },
+    {
+      "question": "The shape of <bowl> is best described as _______.",
+      "answer": "round"
+    },
+    {
+      "question": "The base of <bowl> is slightly _______ for improved stability.",
+      "answer": "raised"
+    },
+    {
+      "question": "<bowl> is suitable for use in a _______.",
+      "answer": "microwave"
+    },
+    {
+      "question": "Because it is made of ceramic, <bowl> retains _______ well.",
+      "answer": "heat"
+    },
+    {
+      "question": "The floral design of <bowl> gives it a more _______ look.",
+      "answer": "elegant"
+    },
+    {
+      "question": "<bowl>'s outer surface is coated in a smooth _______.",
+      "answer": "glaze"
+    },
+    {
+      "question": "The object in the image is a _______.",
+      "answer": "bowl"
+    },
+    {
+      "question": "The bowl has a _______ shape, making it ideal for holding liquids.",
+      "answer": "round"
+    },
+    {
+      "question": "The primary material of the bowl is _______.",
+      "answer": "ceramic"
+    },
+    {
+      "question": "The bowl is often used to serve _______.",
+      "answer": "rice"
+    },
+    {
+      "question": "The bowl has a _______ design on the outer surface.",
+      "answer": "floral"
+    }
+  ],
+  "true_false": [
+    {
+      "question": "The bowl is made of plastic.",
+      "answer": false
+    },
+    {
+      "question": "The bowl has a floral pattern on its outer surface.",
+      "answer": true
+    },
+    {
+      "question": "The bowl is safe to use in the microwave.",
+      "answer": true
+    },
+    {
+      "question": "The bowl is not suitable for hot food.",
+      "answer": false
+    },
+    {
+      "question": "The bowl is transparent.",
+      "answer": false
+    },
+    {
+      "question": "<bowl> is made of ceramic.",
+      "answer": true
+    },
+    { "question": "<bowl> can be safely used in a dishwasher.", "answer": true },
+    { "question": "<bowl> has a square shape.", "answer": false },
+    { "question": "<bowl> is used for serving ice cream cones.", "answer": false },
+    { "question": "<bowl> has floral decorations.", "answer": true },
+    { "question": "The base of <bowl> is designed to reduce direct contact with hot surfaces.", "answer": true },
+    { "question": "<bowl> cannot be used in a microwave.", "answer": false },
+    { "question": "<bowl> has a transparent lid.", "answer": false },
+    { "question": "The patterns on <bowl> help distinguish it from plain bowls.", "answer": true },
+    { "question": "The glaze on <bowl> helps prevent absorption of food stains.", "answer": true },
+    { "question": "<bowl> has visible food residue on its surface.", "answer": false },
+    { "question": "<bowl> is too fragile for daily use.", "answer": false },
+    { "question": "<bowl>'s design makes it stackable with other bowls.", "answer": true },
+    { "question": "<bowl> has been designed to enhance the visual appeal of food.", "answer": true },
+    { "question": "<bowl> is disposable after one use.", "answer": false }
+  ],
+  "essay": [
+    {
+      "question": "Describe the design, functionality, and usability of the bowl.",
+      "answer": "The bowl is a ceramic dish primarily used for serving food such as rice, soup, and salads. It has a round shape, which makes it suitable for containing both solid and liquid food items. The ceramic material provides durability, heat retention, and an easy-to-clean surface. The bowl features a floral pattern on the outer surface, adding an aesthetic appeal that makes it ideal for both casual and formal dining. Additionally, it is microwave-safe and dishwasher-friendly, making it highly convenient for everyday use."
+    }
+  ]
+}

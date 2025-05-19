@@ -1,0 +1,564 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What is the primary function of the external CD/DVD drive?",
+      "options": {
+        "A": "To charge mobile devices",
+        "B": "To store data like a USB drive",
+        "C": "To read and write CDs and DVDs",
+        "D": "To play music directly without a computer"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the brand of the external CD/DVD drive shown in the images?",
+      "options": {
+        "A": "Lenovo",
+        "B": "Asus",
+        "C": "Dell",
+        "D": "HP"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What type of cable does the external CD/DVD drive use?",
+      "options": {
+        "A": "HDMI",
+        "B": "USB with dual connectors",
+        "C": "Ethernet",
+        "D": "Lightning Cable"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the main advantage of an external CD/DVD drive over an internal one?",
+      "options": {
+        "A": "It is portable and can be connected to multiple devices",
+        "B": "It has a larger storage capacity",
+        "C": "It does not require an operating system",
+        "D": "It is faster than internal drives"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the primary color of the external CD/DVD drive?",
+      "options": {
+        "A": "Black",
+        "B": "Silver",
+        "C": "White",
+        "D": "Gray"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why does the external CD/DVD drive have two USB connectors?",
+      "options": {
+        "A": "One is for data transfer, and the other provides additional power",
+        "B": "It allows the drive to be connected to two computers at the same time",
+        "C": "One is a backup in case the other fails",
+        "D": "It is for charging other devices while in use"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which type of disc is NOT supported by the external CD/DVD drive?",
+      "options": {
+        "A": "CD-R",
+        "B": "DVD-R",
+        "C": "Blu-ray",
+        "D": "CD-RW"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the shape of the external CD/DVD drive?",
+      "options": {
+        "A": "Cylindrical",
+        "B": "Rectangular",
+        "C": "Triangular",
+        "D": "Round"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is one potential disadvantage of using an external CD/DVD drive?",
+      "options": {
+        "A": "It requires an additional power adapter",
+        "B": "It is larger than an internal drive",
+        "C": "It requires a USB connection, taking up a port on the computer",
+        "D": "It does not support DVD playback"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following devices is most likely to need an external CD/DVD drive?",
+      "options": {
+        "A": "A modern laptop without an internal optical drive",
+        "B": "A desktop PC with a built-in optical drive",
+        "C": "A smartphone",
+        "D": "A tablet with only wireless connectivity"
+      },
+      "correct_answer": "A"
+    },
+  {
+    "question": "What brand is the external CD/DVD drive shown in the images?",
+    "options": {
+      "A": "Asus",
+      "B": "Dell",
+      "C": "Sony",
+      "D": "HP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What is the color of the external CD/DVD drive?",
+    "options": {
+      "A": "Black",
+      "B": "Silver",
+      "C": "White",
+      "D": "Gray"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What shape best describes the external CD/DVD drive?",
+    "options": {
+      "A": "Round",
+      "B": "Square",
+      "C": "Cylindrical",
+      "D": "Rectangular"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "Which material is used in the casing of the CD/DVD drive?",
+    "options": {
+      "A": "Wood",
+      "B": "Plastic only",
+      "C": "Metal and plastic",
+      "D": "Glass"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Is the CD/DVD drive currently in use?",
+    "options": {
+      "A": "Yes, it is reading a disc",
+      "B": "No, it is unplugged and empty",
+      "C": "Yes, it is charging",
+      "D": "No, but it is writing a disc"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What kind of tray does the CD/DVD drive feature?",
+    "options": {
+      "A": "Slot-in",
+      "B": "Top-loading",
+      "C": "Sliding tray",
+      "D": "No tray"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "How is the drive powered?",
+    "options": {
+      "A": "Through external adapter",
+      "B": "Battery-powered",
+      "C": "Solar panel",
+      "D": "Via USB"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "Which port type is required to connect this device?",
+    "options": {
+      "A": "HDMI",
+      "B": "USB-A",
+      "C": "USB-C only",
+      "D": "Ethernet"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Is this device portable?",
+    "options": {
+      "A": "No",
+      "B": "Yes, due to its size and power source",
+      "C": "Only when used with adapters",
+      "D": "Yes, but needs a suitcase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What condition is the drive in?",
+    "options": {
+      "A": "Damaged",
+      "B": "Used with visible wear",
+      "C": "Brand new with plastic wrap",
+      "D": "Good condition with no visible damage"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "Does the CD/DVD drive require software drivers?",
+    "options": {
+      "A": "Always",
+      "B": "Only for advanced features",
+      "C": "Never",
+      "D": "Only on MacOS"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What operating systems is this device compatible with?",
+    "options": {
+      "A": "Only Windows",
+      "B": "Windows and Android",
+      "C": "Most systems with USB-A ports",
+      "D": "Mac only"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What aesthetic design style does the drive have?",
+    "options": {
+      "A": "Rustic",
+      "B": "Gamer-themed",
+      "C": "Minimalistic and modern",
+      "D": "Retro"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which feature supports its portability?",
+    "options": {
+      "A": "It includes a built-in handle",
+      "B": "It has WiFi support",
+      "C": "It uses USB for both power and data",
+      "D": "It can fold"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What visual clue shows the drive is not in use?",
+    "options": {
+      "A": "The tray is closed",
+      "B": "It is connected to a computer",
+      "C": "No disc and unplugged USB",
+      "D": "There’s a blinking red light"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why might this drive need two USB connectors?",
+    "options": {
+      "A": "One for audio, one for video",
+      "B": "One for backup",
+      "C": "One for data, one for power",
+      "D": "To allow daisy-chaining"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which scenario requires an external CD/DVD drive?",
+    "options": {
+      "A": "Streaming Netflix",
+      "B": "Installing a game from a disc on a laptop",
+      "C": "Transferring files via email",
+      "D": "Backing up data to cloud"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why might a USB-C adapter be needed?",
+    "options": {
+      "A": "For Ethernet connectivity",
+      "B": "To reduce cable length",
+      "C": "To connect to USB-C only laptops",
+      "D": "To charge the drive"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What does the brushed metal finish help with?",
+    "options": {
+      "A": "Bluetooth signal",
+      "B": "Grip while holding",
+      "C": "Fingerprint and scratch resistance",
+      "D": "Cooling"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What does the presence of the Asus logo indicate?",
+    "options": {
+      "A": "The device is meant for gaming",
+      "B": "It is compatible only with Asus computers",
+      "C": "It is made by a reputable electronics brand",
+      "D": "It’s a refurbished model"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the main function of the external drive?",
+    "options": {
+      "A": "Streaming online videos",
+      "B": "Backing up cloud data",
+      "C": "Reading and writing CDs/DVDs",
+      "D": "Charging phones"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why might this device be essential for modern laptops?",
+    "options": {
+      "A": "Because they lack Ethernet ports",
+      "B": "They often omit internal optical drives",
+      "C": "It boosts WiFi performance",
+      "D": "It supports VR headsets"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How can the drive’s slim design be advantageous?",
+    "options": {
+      "A": "It prevents overheating",
+      "B": "It enhances audio playback",
+      "C": "It improves wireless connectivity",
+      "D": "It aids portability and storage"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "What must a user check before connecting the drive to a MacBook?",
+    "options": {
+      "A": "Whether they have an Ethernet port",
+      "B": "Whether the laptop supports HDMI",
+      "C": "Whether they have a USB-C to USB-A adapter",
+      "D": "If the MacBook supports CD-RW"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the role of plastic components inside the drive?",
+    "options": {
+      "A": "To improve heat dissipation",
+      "B": "To reduce electromagnetic interference",
+      "C": "To operate the tray and mechanical parts efficiently",
+      "D": "To provide a transparent casing"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why might someone prefer this external drive over a cloud solution?",
+    "options": {
+      "A": "It is cheaper for long-term data streaming",
+      "B": "It does not require internet access",
+      "C": "It allows editing of cloud documents",
+      "D": "It supports blockchain backups"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What indicates this product targets professional users?",
+    "options": {
+      "A": "Gaming RGB lighting",
+      "B": "Metallic rugged casing",
+      "C": "Minimalistic and clean design",
+      "D": "LCD display for status"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "How does dual-USB improve compatibility?",
+    "options": {
+      "A": "It lets you use Bluetooth and WiFi together",
+      "B": "It gives access to cloud storage",
+      "C": "It ensures sufficient power and stable data transfer",
+      "D": "It extends display to two monitors"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which task is NOT appropriate for this device?",
+    "options": {
+      "A": "Playing a movie from DVD",
+      "B": "Writing files to a CD-RW",
+      "C": "Backing up photos to cloud",
+      "D": "Installing software from a CD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "If the tray is open and no disc is present, what can be inferred?",
+    "options": {
+      "A": "The drive is malfunctioning",
+      "B": "The user is watching a movie",
+      "C": "The drive is idle",
+      "D": "The USB is transferring data"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why does using this drive not require an external power adapter?",
+    "options": {
+      "A": "Because it includes a battery",
+      "B": "Because it is powered entirely by USB",
+      "C": "Because it uses solar panels",
+      "D": "Because it plugs into the wall"
+    },
+    "correct_answer": "B"
+  }
+  ],
+  "fill_in_the_blank": [
+    {
+      "question": "The external CD/DVD drive has a ______ finish, giving it a sleek and professional look.",
+      "answer": "metallic silver"
+    },
+    {
+      "question": "The power source of the external CD/DVD drive is ______.",
+      "answer": "USB"
+    },
+    {
+      "question": "The shape of the external CD/DVD drive is a ______.",
+      "answer": "flat rectangle"
+    },
+    {
+      "question": "The external CD/DVD drive is primarily used to read and write ______ and ______.",
+      "answer": "CDs, DVDs"
+    },
+    {
+      "question": "One reason modern laptops may require an external CD/DVD drive is because they lack a built-in ______ drive.",
+      "answer": "optical"
+    },
+    {
+      "question": "The CD/DVD drive is powered via ______ connection to a computer.",
+      "answer": "USB"
+    },
+    {
+      "question": "The exterior casing of the CD/DVD drive is primarily made of ______ and ______.",
+      "answer": "metal, plastic"
+    },
+    {
+      "question": "The color of the external CD/DVD drive is ______.",
+      "answer": "silver"
+    },
+    {
+      "question": "The brand of the external CD/DVD drive is ______.",
+      "answer": "Asus"
+    },
+    {
+      "question": "The shape of the CD/DVD drive is a ______.",
+      "answer": "rectangle"
+    },
+    {
+      "question": "This external drive uses a dual ______ connector setup.",
+      "answer": "USB"
+    },
+    {
+      "question": "When the tray is open and no disc is inside, the drive is considered ______.",
+      "answer": "not in use"
+    },
+    {
+      "question": "The drive is compatible with computers that have ______ ports.",
+      "answer": "USB-A"
+    },
+    {
+      "question": "To use the drive with a USB-C only laptop, a ______ is needed.",
+      "answer": "USB-C to USB-A adapter"
+    },
+    {
+      "question": "The primary purpose of the CD/DVD drive is to ______ and ______ optical discs.",
+      "answer": "read, write"
+    }
+  ],
+  "true_false": [
+    {
+      "question": "The external CD/DVD drive requires an external power adapter to function.",
+      "answer": false
+    },
+    {
+      "question": "The external CD/DVD drive is portable and can be easily carried.",
+      "answer": true
+    },
+    {
+      "question": "The drive is currently in use as seen in the images.",
+      "answer": false
+    },
+    {
+      "question": "The external CD/DVD drive can read Blu-ray discs.",
+      "answer": false
+    },
+    {
+      "question": "The external CD/DVD drive connects to a computer via USB ports.",
+      "answer": true
+    },
+    {
+      "question": "The external CD/DVD drive is portable and lightweight.",
+      "answer": true
+    },
+    {
+      "question": "The drive must be connected to an external power outlet to operate.",
+      "answer": false
+    },
+    {
+      "question": "The CD/DVD tray is currently open in the images, indicating it is in use.",
+      "answer": false
+    },
+    {
+      "question": "The device uses a single USB cable for both power and data transfer.",
+      "answer": false
+    },
+    {
+      "question": "The drive has a modern, minimalistic design style.",
+      "answer": true
+    },
+    {
+      "question": "This drive is compatible with any device that supports HDMI.",
+      "answer": false
+    },
+    {
+      "question": "Most modern operating systems support this drive without additional drivers.",
+      "answer": true
+    },
+    {
+      "question": "The drive's tray mechanism is top-loading.",
+      "answer": false
+    },
+    {
+      "question": "There is visible damage or wear on the device in the images.",
+      "answer": false
+    },
+    {
+      "question": "The exterior finish of the device is metallic silver.",
+      "answer": true
+    },
+    {
+      "question": "A disc must be inside the tray for the drive to function.",
+      "answer": false
+    },
+    {
+      "question": "The external CD/DVD drive supports Blu-ray discs.",
+      "answer": false
+    },
+    {
+      "question": "The brand Asus is clearly visible on the top of the device.",
+      "answer": true
+    },
+    {
+      "question": "This external drive is intended only for Windows-based systems.",
+      "answer": false
+    },
+    {
+      "question": "The device is useful for laptops that do not have internal optical drives.",
+      "answer": true
+    }
+  ],
+  "essay": [
+    {
+      "question": "Describe the design and material composition of the external CD/DVD drive, considering both its aesthetic and functional aspects.",
+      "answer": "The external CD/DVD drive has a sleek, metallic silver finish that gives it a modern and professional appearance. Its compact, rectangular design makes it highly portable and convenient for users who need to read or write discs on the go. The drive features a dual-USB cable system, ensuring compatibility with a variety of devices while also providing additional power if necessary. The exterior is smooth and durable, protecting internal components from damage. Overall, the drive balances functionality with aesthetic appeal, making it a useful accessory for modern laptops."
+    }
+  ]
+}

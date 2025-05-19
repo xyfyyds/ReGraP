@@ -1,0 +1,1482 @@
+{
+    "./yollava-data/train/anime_calendar/0.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/1.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/2.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/3.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/4.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/5.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/6.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/7.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/8.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/9.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/10.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/11.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/12.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/13.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/14.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/15.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/16.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/17.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/18.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ],
+    "./yollava-data/train/anime_calendar/19.png": [
+        {
+            "Human": "What is the object of <anime_calendar>",
+            "AI": "By analyzing the visual setup, the rectangular base holding numerical blocks and the figure at the top both indicate a date-tracking purpose. The layout resembles a stand meant to display changing daily information. The decorative character also suggests a playful design intended to catch the eye while still serving a functional role. Hence, <anime_calendar> is a calendar."
+        },
+        {
+            "Human": "What color is <anime_calendar>",
+            "AI": "Observing the overall palette, the main structure appears to be primarily white, the date blocks display a soft pink hue, and the character\u9225\u6a9a bright yellow hair stands out. This trio of colors creates a balanced contrast between the muted base, the pastel blocks, and the vivid accent of the figure. The combination is intentionally eye-catching to highlight each functional element and the character. Consequently, <anime_calendar> is white, pink, and yellow."
+        },
+        {
+            "Human": "What is the shape of <anime_calendar>",
+            "AI": "Looking at the form, it presents a strong rectangular outline that encloses the movable blocks. The corners and edges are straight, giving the entire structure a box-like profile. Even though a figure extends above, the core shape remains that of a rectangular prism. Therefore, <anime_calendar> is cuboid in shape."
+        },
+        {
+            "Human": "What is the size of <anime_calendar>",
+            "AI": "Noting the compact dimensions, it appears intended for placement on a desk or small shelf without occupying excessive space. The blocks are sized for easy readability yet do not add much bulk. This design supports a practical function while ensuring portability. In this way, <anime_calendar> is small."
+        },
+        {
+            "Human": "What is the pattern of <anime_calendar>",
+            "AI": "Examining the graphic elements, the top section features an anime-inspired character with distinctive hair, while the lower section holds numeric blocks. The arrangement creates an interplay of decorative art above and functional date display below. This unifies both a visual pattern and a utilitarian calendar format. Hence, <anime_calendar> has a pattern centered around an anime character."
+        },
+        {
+            "Human": "Which date shows on <anime_calendar>",
+            "AI": "Focusing on the date blocks, the numerical pieces are arranged to read 22, and the month label is placed above as February. The design allows for rearranging the blocks to match each passing day. In the image, the chosen setup is specifically highlighting this day and month combination. As a result, <anime_calendar> is showing February 22nd."
+        },
+        {
+            "Human": "Which languages is used on <anime_calendar>",
+            "AI": "Inspecting the text, the month is labeled in English, and additional markings include Chinese characters to note the day, along with standard numerical digits. This bilingual usage caters to multiple language preferences in a single product. By combining both alphabets and numbers, the design feels universal. Consequently, <anime_calendar> uses English, Chinese, and figures."
+        },
+        {
+            "Human": "What is the material of <anime_calendar>",
+            "AI": "Reviewing the texture and build, the base and block frames suggest a solid, natural composition typical of wood. The smooth finish and sturdy appearance reflect wooden craftsmanship. This lends both stability and a warm aesthetic compared to plastic or metal. Thus, <anime_calendar> appears to be made of wood."
+        },
+        {
+            "Human": "What is the function of <anime_calendar>",
+            "AI": "Considering the movable blocks and the month label, its main purpose is to keep track of each day by adjusting the displayed numbers. The anime figure adds a decorative aspect, blending functionality with style. Through this design, users can quickly read the current date while enjoying a playful theme. Therefore, <anime_calendar> is used to record the date."
+        },
+        {
+            "Human": "What is the feature of <anime_calendar>",
+            "AI": "Reflecting on its special attributes, a bright-haired anime figure offers a playful accent, while bilingual month and day indicators increase accessibility. The manual date blocks provide an engaging, hands-on method of updating the day. These elements combine into a practical yet visually appealing product. Hence, <anime_calendar> features a girl with yellow hair on top and includes both Chinese and English text."
+        },
+        {
+            "Human": "What is the design style of <anime_calendar>?",
+            "AI": "Observing the neat geometric outline, it showcases a clean, structured form that efficiently holds the date blocks. Meanwhile, the vibrant anime figure injects a creative, pop-culture flair, breaking from a purely utilitarian look. This balance suggests a design that is at once minimalistic and playful. In this vein, <anime_calendar> embodies a functional yet whimsical style."
+        },
+        {
+            "Human": "What type of display mechanism does <anime_calendar> use?",
+            "AI": "Noticing how each date numeral is a separate piece, the calendar invites users to physically flip or rotate them to reflect the current day. This mechanism is tactile and manually driven, echoing a classic approach rather than an electronic readout. By changing the blocks, owners can track the date interactively. Accordingly, <anime_calendar> employs a manual flip display."
+        },
+        {
+            "Human": "Does <anime_calendar> have a light feature?",
+            "AI": "Looking closely at the region around the anime figure, a subtle glow or illuminated outline may be present, indicating a low-key lighting element. This extra detail can enhance its decorative appeal, especially in dim lighting. The slight luminescence draws attention to the character, adding visual interest beyond mere date display. Thus, <anime_calendar> features a subtle light around the character."
+        },
+        {
+            "Human": "Is <anime_calendar> interactive?",
+            "AI": "Considering the need for daily adjustments to the blocks, owners must actively rearrange numerals to match each passing day. This requires hands-on engagement rather than a static, purely decorative piece. As a result, the user interacts physically with the item to keep it up to date. Therefore, <anime_calendar> can be considered interactive."
+        },
+        {
+            "Human": "What is the weight of <anime_calendar>?",
+            "AI": "Contemplating the wooden construction and compact build, it likely carries moderate heft while remaining fairly easy to handle. The material supports durability yet does not make it overly heavy. Such an object can stand firmly in place, but still be moved without much effort. As such, <anime_calendar> has a light-to-moderate weight."
+        },
+        {
+            "Human": "What is the stability of <anime_calendar>?",
+            "AI": "Observing its flat base and the wooden blocks resting securely within, it exhibits the traits of a stable structure. The solidity of its foundation prevents it from easily toppling over when the blocks are changed. This design ensures minimal disruption to the displayed date. Hence, <anime_calendar> is stable."
+        },
+        {
+            "Human": "Is <anime_calendar> portable?",
+            "AI": "Taking into account its small form factor and the practicality of wooden construction, it is simple to move or carry from one spot to another. The manageable dimensions mean it fits in various settings like desks, shelves, or counters. Despite being sturdy, it remains suitably compact. Consequently, <anime_calendar> is portable."
+        },
+        {
+            "Human": "What is the durability of <anime_calendar>?",
+            "AI": "Considering wood as the primary component, combined with careful assembly to handle frequent flipping of blocks, it is designed for long-term use. Frequent adjustments should not lead to rapid wear. This construction can endure daily contact without easily breaking. Thus, <anime_calendar> is durable."
+        }
+    ]
+}

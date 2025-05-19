@@ -1,0 +1,1242 @@
+{
+    "./yollava-data/train/belt/0.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/1.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/2.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/3.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/4.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/5.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/6.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/7.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/8.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/9.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/10.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/11.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/12.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/13.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/14.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/15.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/16.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/17.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/18.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ],
+    "./yollava-data/train/belt/19.png": [
+        {
+            "Human": "What is the object of <belt>?",
+            "AI": "By examining the image, it is clear that <belt> is a power plug adapter, designed to allow the user to connect electrical devices to different socket types. This adapter typically features a universal design to support various plug shapes, ensuring compatibility with multiple countries or regions. It serves the critical function of enabling devices to receive power by bridging the gap between different plug configurations."
+        },
+        {
+            "Human": "What is the color of <belt>?",
+            "AI": "The color of <belt> is predominantly white, with a smooth, glossy finish. The white color not only gives it a clean and modern look but also helps reflect heat, ensuring the adapter does not overheat when used for extended periods. Additionally, the neutral color allows it to blend easily with most environments, whether it is on a desk, a travel bag, or a power strip."
+        },
+        {
+            "Human": "What is the shape of <belt>?",
+            "AI": "The shape of <belt> is rectangular with rounded corners and smooth edges. This shape is optimized for both portability and ease of use. Its flat, compact form allows it to be placed discreetly next to other devices or stored conveniently in a bag or pocket. The shape is also ergonomically designed for users to plug in and unplug devices without much effort."
+        },
+        {
+            "Human": "What is the size of <belt>?",
+            "AI": "The size of <belt> is compact, typically measuring around 2 to 3 inches in length and about 1 inch in width, making it small enough to fit into any pocket or travel bag. This compact size ensures that it can be easily carried around, providing users with the convenience of having a universal power adapter wherever they go, especially for travel purposes."
+        },
+        {
+            "Human": "What is the material of <belt>?",
+            "AI": "The material of <belt> is plastic, specifically a durable, heat-resistant plastic. This material is commonly used in adapters as it ensures the device remains lightweight and portable while still being able to withstand the heat generated during power transfer. The plastic casing also offers insulation to prevent electrical accidents and is relatively sturdy, ensuring the adapter longevity."
+        },
+        {
+            "Human": "What is the function of <belt>?",
+            "AI": "<belt> functions as a power plug adapter, allowing users to connect their electrical devices to different types of power outlets. This is especially useful for individuals traveling internationally or those moving between regions with varying electrical standards. The adapter provides the versatility needed to ensure that devices can work in a variety of countries with different plug designs and voltage systems."
+        },
+        {
+            "Human": "What kind of sockets does <belt> support?",
+            "AI": "<belt> is designed to support multiple types of power sockets, including but not limited to the common types used in Europe, the UK, the US, and other regions. The adapter is equipped with a set of prongs or slots that can fit various socket types, making it an essential tool for people who travel internationally or live in regions with non-standard electrical outlets."
+        },
+        {
+            "Human": "What is the brand of <belt>?",
+            "AI": "The brand of <belt> is not clearly visible in the image, but based on its design, it appears to be either a generic universal adapter or one produced by a company specializing in travel or electronic accessories. It could be from well-known global brands that specialize in creating travel-friendly accessories, offering convenience and reliability."
+        },
+        {
+            "Human": "Is <belt> easy to use?",
+            "AI": "Yes, <belt> is designed to be extremely user-friendly. With its simple plug-and-play functionality, users can easily insert the prongs into the appropriate socket, then plug in their devices without needing any additional setup. The compact design and clear labeling of input and output ports further contribute to making the adapter easy to operate, even for those who have never used one before."
+        },
+        {
+            "Human": "What kind of devices can <belt> connect?",
+            "AI": "<belt> can connect a wide range of devices that require electrical power. This includes common gadgets like laptops, phones, tablets, power banks, chargers, and other small appliances. The universal nature of the adapter means that users can safely plug in devices from different regions without worrying about compatibility issues, ensuring convenience for travelers and international device users."
+        },
+        {
+            "Human": "Is <belt> suitable for high-power devices?",
+            "AI": "No, <belt> is not specifically designed for high-power devices. It is a standard power plug adapter meant for low to medium power consumption devices, such as phones, laptops, and tablets. It may not be suitable for high-power appliances like refrigerators, air conditioners, or large kitchen appliances, as these require a more specialized adapter that can handle higher electrical loads without risking overheating or damage."
+        },
+        {
+            "Human": "Is <belt> compatible with all types of plugs?",
+            "AI": "No, <belt> is not compatible with all types of plugs. It is designed to work with a selection of common plug types used in various regions around the world, but it does not support every plug configuration. For example, older or specialized plugs, such as those used in certain industrial or medical applications, may not fit into this adapter. It is recommended to verify the specific plug type compatibility before use."
+        },
+        {
+            "Human": "Can <belt> be used in any country?",
+            "AI": "Yes, <belt> can be used in most countries, but it depends on the local power socket configuration and voltage standard. This adapter is designed to be versatile, supporting the plug configurations found in several countries, particularly for regions where users travel frequently. However, it is important to check the voltage compatibility for specific regions to ensure the safety of the device being powered."
+        },
+        {
+            "Human": "Does <belt> have built-in surge protection?",
+            "AI": "No, <belt> does not have built-in surge protection. This type of adapter is primarily focused on converting the plug shape, not on protecting against power surges or voltage fluctuations. Users who need surge protection should consider using a dedicated surge protector, which includes an additional layer of defense against power spikes that can damage electronic devices."
+        },
+        {
+            "Human": "Is <belt> portable?",
+            "AI": "Yes, <belt> is highly portable due to its compact and lightweight design. Its small size allows it to be easily stored in a travel bag, backpack, or even a pocket. The lightweight nature of the adapter ensures that it does not add unnecessary bulk, making it an ideal accessory for travelers who need a universal power solution on the go. Its portability makes it a convenient travel companion for anyone who needs to plug in devices in different countries."
+        }
+    ]
+}

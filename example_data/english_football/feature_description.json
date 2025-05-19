@@ -1,0 +1,1302 @@
+{
+    "./yollava-data/train/english_football/0.png": [
+        {
+            "Human": "What is the England National Football Team?",
+            "AI": "The England National Football Team represents England in international football. It is governed by The Football Association (FA) and competes in major tournaments like the FIFA World Cup and UEFA European Championship."
+        },
+        {
+            "Human": "What is the emblem of the England National Football Team?",
+            "AI": "The emblem features three blue lions with red roses on a white shield. The design is based on England's royal coat of arms, symbolizing strength and heritage."
+        },
+        {
+            "Human": "What is The Football Association (FA)?",
+            "AI": "The Football Association (FA) is the governing body of football in England. It oversees the rules, development, and national teams and is responsible for the regulation of professional and amateur football in the country."
+        },
+        {
+            "Human": "What is the logo of The Football Association (FA)?",
+            "AI": "The FA's logo consists of the three lions emblem, similar to the England National Team, but with The FA written in white on a navy blue background above the crest."
+        },
+        {
+            "Human": "What is the Premier League?",
+            "AI": "The Premier League is the top division of English football. It is the most-watched football league in the world and consists of 20 clubs competing annually for the league title."
+        },
+        {
+            "Human": "What is the emblem of the Premier League?",
+            "AI": "The Premier League emblem features a purple lion's head wearing a crown, representing leadership, power, and prestige in English football."
+        },
+        {
+            "Human": "What is Manchester United?",
+            "AI": "Manchester United is a professional football club based in Manchester, England. It is one of the most successful and popular clubs globally, competing in the Premier League."
+        },
+        {
+            "Human": "What is the logo of Manchester United?",
+            "AI": "The Manchester United logo features a red and yellow crest with a ship at the top and a red devil holding a trident in the center, symbolizing the club's nickname The Red Devils' and Manchester's industrial history."
+        },
+        {
+            "Human": "What is Manchester City?",
+            "AI": "Manchester City is a professional football club based in Manchester, England. The club has become a dominant force in English football in recent years, winning multiple Premier League titles."
+        },
+        {
+            "Human": "What is the logo of Manchester City?",
+            "AI": "The Manchester City logo features a circular blue crest with a ship at the top and a red rose at the bottom, symbolizing Manchester's maritime history and its connection to Lancashire."
+        },
+        {
+            "Human": "What is Liverpool Football Club?",
+            "AI": "Liverpool FC is a professional football club based in Liverpool, England. It is one of the most successful clubs in English football history, known for its passionate fan base and rich history in domestic and European competitions."
+        },
+        {
+            "Human": "What is the logo of Liverpool FC?",
+            "AI": "The Liverpool FC logo features a red crest with the Liverbird, the symbol of Liverpool, at the center. Above it is the club's motto You'll Never Walk Alone,' and at the bottom is Est. 1892, marking its founding year."
+        },
+        {
+            "Human": "What is the relation between The FA and the England National Football Team?",
+            "AI": "The FA governs the England National Football Team, organizing its matches, selecting coaches, and setting regulations for player eligibility. The FA also oversees player call-ups from club teams and ensures the national team competes in international tournaments."
+        },
+        {
+            "Human": "What is the relation between The FA and the Premier League?",
+            "AI": "The FA oversees the Premier League, ensuring that its rules align with national and international football regulations. While the Premier League operates independently, it must adhere to FA guidelines regarding financial fair play, refereeing standards, and player discipline."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester United?",
+            "AI": "Manchester United is a founding member of the Premier League and has been one of its most successful clubs. The club competes annually in the league and has contributed significantly to its global popularity due to its large fanbase and commercial success."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester City?",
+            "AI": "Manchester City is a member club of the Premier League. Although the club historically struggled for titles, its fortunes changed with investment from the City Football Group, leading to multiple league triumphs and making it one of the most dominant teams in the competition."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Liverpool?",
+            "AI": "Liverpool is a member club of the Premier League and one of its most decorated teams. The club has a massive global fanbase and has consistently been one of the league's top performers, particularly under the management of Jurgen Klopp in recent years."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester United?",
+            "AI": "The FA regulates Manchester United by enforcing league rules, fair play standards, and player registration policies. The club's players are also subject to FA disciplinary actions and are regularly called up for the England National Team."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester City?",
+            "AI": "The FA regulates Manchester City under financial fair play and player conduct rules. The FA has been involved in investigating alleged financial breaches by the club, highlighting its role in maintaining integrity in English football."
+        },
+        {
+            "Human": "What is the relation between The FA and Liverpool?",
+            "AI": "The FA regulates Liverpool's operations, ensuring compliance with national football regulations. Liverpool's English players are regularly called up for the national team, strengthening the club's connection to English football governance."
+        },
+        {
+            "Human": "What is the relation between Manchester United and the England National Team?",
+            "AI": "Manchester United provides players for the England National Team. Over the years, legends such as David Beckham, Wayne Rooney, and more recently Marcus Rashford have played key roles in the national team's success."
+        },
+        {
+            "Human": "What is the relation between Manchester City and the England National Team?",
+            "AI": "Manchester City supplies players to the England National Team, particularly in recent years as the club has dominated English football. Players such as Phil Foden and Jack Grealish are integral to both club and country."
+        },
+        {
+            "Human": "What is the relation between Liverpool and the England National Team?",
+            "AI": "Liverpool has historically provided key players for the England National Team, including Steven Gerrard and Trent Alexander-Arnold. The club's playing style under Jurgen Klopp has also influenced the tactical approach of the national team."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Manchester City?",
+            "AI": "Manchester United and Manchester City are fierce rivals, competing in the Manchester Derby. Historically, United was the more dominant club, but City's rise in the past decade has intensified the rivalry, with both clubs now competing for major honors."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Liverpool?",
+            "AI": "Manchester United and Liverpool have the biggest rivalry in English football. Their competition extends beyond football, rooted in historical economic and industrial rivalries between the cities of Manchester and Liverpool. Both clubs compete for the title of England's most successful team."
+        },
+        {
+            "Human": "What is the relation between Manchester City and Liverpool?",
+            "AI": "Manchester City and Liverpool have developed a modern footballing rivalry, often competing for the Premier League title. The tactical battles between Pep Guardiola and Jurgen Klopp have made their encounters some of the most anticipated in world football."
+        },
+        {
+            "Human": "How do financial resources impact the rivalry between Manchester United, Manchester City, and Liverpool?",
+            "AI": "Manchester United has historically been the wealthiest club in English football due to its commercial success. Manchester City, backed by the City Football Group, has emerged as a financial powerhouse, allowing it to dominate recent seasons. Liverpool, though operating under a more balanced financial model, has remained highly competitive through strong recruitment and coaching."
+        },
+        {
+            "Human": "What is the cultural impact of these clubs beyond football?",
+            "AI": "Manchester United, Manchester City, and Liverpool have significant cultural influences beyond football. United and Liverpool have massive global fanbases, with strong followings in Asia and North America. Liverpool's 'You'll Never Walk Alone' is one of football's most iconic anthems, while Manchester City's recent success has transformed its global brand."
+        },
+        {
+            "Human": "How have managers shaped the success of these clubs?",
+            "AI": "Sir Alex Ferguson defined Manchester United's dominance for over two decades, while Pep Guardiola has revolutionized Manchester City's playing style. Liverpool's resurgence under Jurgen Klopp has restored the club's status as a European powerhouse, making these managerial influences a crucial part of their histories."
+        },
+        {
+            "Human": "What role does youth development play in these clubs?",
+            "AI": "Manchester United has a strong history of developing young talent, with its famous 'Class of 92' including David Beckham and Ryan Giggs. Manchester City has heavily invested in its academy in recent years, producing stars like Phil Foden. Liverpool has also relied on its youth system, developing players such as Trent Alexander-Arnold."
+        },
+        {
+            "Human": "How do sponsorships and branding differentiate these clubs?",
+            "AI": "Manchester United has one of the most commercially successful brands in world football, securing major sponsorship deals with Adidas and Chevrolet. Manchester City's branding has expanded significantly under the City Football Group. Liverpool's resurgence has increased its marketability, securing deals with Nike and Standard Chartered."
+        },
+        {
+            "Human": "What is the impact of these clubs on English football as a whole?",
+            "AI": "Manchester United, Manchester City, and Liverpool contribute significantly to the Premier League's global appeal. Their competitive rivalries drive viewership, while their success in European competitions enhances the reputation of English football on the world stage."
+        }
+    ],
+    "./yollava-data/train/english_football/1.png": [
+        {
+            "Human": "What is the England National Football Team?",
+            "AI": "The England National Football Team represents England in international football. It is governed by The Football Association (FA) and competes in major tournaments like the FIFA World Cup and UEFA European Championship."
+        },
+        {
+            "Human": "What is the emblem of the England National Football Team?",
+            "AI": "The emblem features three blue lions with red roses on a white shield. The design is based on England's royal coat of arms, symbolizing strength and heritage."
+        },
+        {
+            "Human": "What is The Football Association (FA)?",
+            "AI": "The Football Association (FA) is the governing body of football in England. It oversees the rules, development, and national teams and is responsible for the regulation of professional and amateur football in the country."
+        },
+        {
+            "Human": "What is the logo of The Football Association (FA)?",
+            "AI": "The FA's logo consists of the three lions emblem, similar to the England National Team, but with The FA written in white on a navy blue background above the crest."
+        },
+        {
+            "Human": "What is the Premier League?",
+            "AI": "The Premier League is the top division of English football. It is the most-watched football league in the world and consists of 20 clubs competing annually for the league title."
+        },
+        {
+            "Human": "What is the emblem of the Premier League?",
+            "AI": "The Premier League emblem features a purple lion's head wearing a crown, representing leadership, power, and prestige in English football."
+        },
+        {
+            "Human": "What is Manchester United?",
+            "AI": "Manchester United is a professional football club based in Manchester, England. It is one of the most successful and popular clubs globally, competing in the Premier League."
+        },
+        {
+            "Human": "What is the logo of Manchester United?",
+            "AI": "The Manchester United logo features a red and yellow crest with a ship at the top and a red devil holding a trident in the center, symbolizing the club's nickname The Red Devils' and Manchester's industrial history."
+        },
+        {
+            "Human": "What is Manchester City?",
+            "AI": "Manchester City is a professional football club based in Manchester, England. The club has become a dominant force in English football in recent years, winning multiple Premier League titles."
+        },
+        {
+            "Human": "What is the logo of Manchester City?",
+            "AI": "The Manchester City logo features a circular blue crest with a ship at the top and a red rose at the bottom, symbolizing Manchester's maritime history and its connection to Lancashire."
+        },
+        {
+            "Human": "What is Liverpool Football Club?",
+            "AI": "Liverpool FC is a professional football club based in Liverpool, England. It is one of the most successful clubs in English football history, known for its passionate fan base and rich history in domestic and European competitions."
+        },
+        {
+            "Human": "What is the logo of Liverpool FC?",
+            "AI": "The Liverpool FC logo features a red crest with the Liverbird, the symbol of Liverpool, at the center. Above it is the club's motto You'll Never Walk Alone,' and at the bottom is Est. 1892, marking its founding year."
+        },
+        {
+            "Human": "What is the relation between The FA and the England National Football Team?",
+            "AI": "The FA governs the England National Football Team, organizing its matches, selecting coaches, and setting regulations for player eligibility. The FA also oversees player call-ups from club teams and ensures the national team competes in international tournaments."
+        },
+        {
+            "Human": "What is the relation between The FA and the Premier League?",
+            "AI": "The FA oversees the Premier League, ensuring that its rules align with national and international football regulations. While the Premier League operates independently, it must adhere to FA guidelines regarding financial fair play, refereeing standards, and player discipline."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester United?",
+            "AI": "Manchester United is a founding member of the Premier League and has been one of its most successful clubs. The club competes annually in the league and has contributed significantly to its global popularity due to its large fanbase and commercial success."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester City?",
+            "AI": "Manchester City is a member club of the Premier League. Although the club historically struggled for titles, its fortunes changed with investment from the City Football Group, leading to multiple league triumphs and making it one of the most dominant teams in the competition."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Liverpool?",
+            "AI": "Liverpool is a member club of the Premier League and one of its most decorated teams. The club has a massive global fanbase and has consistently been one of the league's top performers, particularly under the management of Jurgen Klopp in recent years."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester United?",
+            "AI": "The FA regulates Manchester United by enforcing league rules, fair play standards, and player registration policies. The club's players are also subject to FA disciplinary actions and are regularly called up for the England National Team."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester City?",
+            "AI": "The FA regulates Manchester City under financial fair play and player conduct rules. The FA has been involved in investigating alleged financial breaches by the club, highlighting its role in maintaining integrity in English football."
+        },
+        {
+            "Human": "What is the relation between The FA and Liverpool?",
+            "AI": "The FA regulates Liverpool's operations, ensuring compliance with national football regulations. Liverpool's English players are regularly called up for the national team, strengthening the club's connection to English football governance."
+        },
+        {
+            "Human": "What is the relation between Manchester United and the England National Team?",
+            "AI": "Manchester United provides players for the England National Team. Over the years, legends such as David Beckham, Wayne Rooney, and more recently Marcus Rashford have played key roles in the national team's success."
+        },
+        {
+            "Human": "What is the relation between Manchester City and the England National Team?",
+            "AI": "Manchester City supplies players to the England National Team, particularly in recent years as the club has dominated English football. Players such as Phil Foden and Jack Grealish are integral to both club and country."
+        },
+        {
+            "Human": "What is the relation between Liverpool and the England National Team?",
+            "AI": "Liverpool has historically provided key players for the England National Team, including Steven Gerrard and Trent Alexander-Arnold. The club's playing style under Jurgen Klopp has also influenced the tactical approach of the national team."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Manchester City?",
+            "AI": "Manchester United and Manchester City are fierce rivals, competing in the Manchester Derby. Historically, United was the more dominant club, but City's rise in the past decade has intensified the rivalry, with both clubs now competing for major honors."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Liverpool?",
+            "AI": "Manchester United and Liverpool have the biggest rivalry in English football. Their competition extends beyond football, rooted in historical economic and industrial rivalries between the cities of Manchester and Liverpool. Both clubs compete for the title of England's most successful team."
+        },
+        {
+            "Human": "What is the relation between Manchester City and Liverpool?",
+            "AI": "Manchester City and Liverpool have developed a modern footballing rivalry, often competing for the Premier League title. The tactical battles between Pep Guardiola and Jurgen Klopp have made their encounters some of the most anticipated in world football."
+        },
+        {
+            "Human": "How do financial resources impact the rivalry between Manchester United, Manchester City, and Liverpool?",
+            "AI": "Manchester United has historically been the wealthiest club in English football due to its commercial success. Manchester City, backed by the City Football Group, has emerged as a financial powerhouse, allowing it to dominate recent seasons. Liverpool, though operating under a more balanced financial model, has remained highly competitive through strong recruitment and coaching."
+        },
+        {
+            "Human": "What is the cultural impact of these clubs beyond football?",
+            "AI": "Manchester United, Manchester City, and Liverpool have significant cultural influences beyond football. United and Liverpool have massive global fanbases, with strong followings in Asia and North America. Liverpool's 'You'll Never Walk Alone' is one of football's most iconic anthems, while Manchester City's recent success has transformed its global brand."
+        },
+        {
+            "Human": "How have managers shaped the success of these clubs?",
+            "AI": "Sir Alex Ferguson defined Manchester United's dominance for over two decades, while Pep Guardiola has revolutionized Manchester City's playing style. Liverpool's resurgence under Jurgen Klopp has restored the club's status as a European powerhouse, making these managerial influences a crucial part of their histories."
+        },
+        {
+            "Human": "What role does youth development play in these clubs?",
+            "AI": "Manchester United has a strong history of developing young talent, with its famous 'Class of 92' including David Beckham and Ryan Giggs. Manchester City has heavily invested in its academy in recent years, producing stars like Phil Foden. Liverpool has also relied on its youth system, developing players such as Trent Alexander-Arnold."
+        },
+        {
+            "Human": "How do sponsorships and branding differentiate these clubs?",
+            "AI": "Manchester United has one of the most commercially successful brands in world football, securing major sponsorship deals with Adidas and Chevrolet. Manchester City's branding has expanded significantly under the City Football Group. Liverpool's resurgence has increased its marketability, securing deals with Nike and Standard Chartered."
+        },
+        {
+            "Human": "What is the impact of these clubs on English football as a whole?",
+            "AI": "Manchester United, Manchester City, and Liverpool contribute significantly to the Premier League's global appeal. Their competitive rivalries drive viewership, while their success in European competitions enhances the reputation of English football on the world stage."
+        }
+    ],
+    "./yollava-data/train/english_football/2.png": [
+        {
+            "Human": "What is the England National Football Team?",
+            "AI": "The England National Football Team represents England in international football. It is governed by The Football Association (FA) and competes in major tournaments like the FIFA World Cup and UEFA European Championship."
+        },
+        {
+            "Human": "What is the emblem of the England National Football Team?",
+            "AI": "The emblem features three blue lions with red roses on a white shield. The design is based on England's royal coat of arms, symbolizing strength and heritage."
+        },
+        {
+            "Human": "What is The Football Association (FA)?",
+            "AI": "The Football Association (FA) is the governing body of football in England. It oversees the rules, development, and national teams and is responsible for the regulation of professional and amateur football in the country."
+        },
+        {
+            "Human": "What is the logo of The Football Association (FA)?",
+            "AI": "The FA's logo consists of the three lions emblem, similar to the England National Team, but with The FA written in white on a navy blue background above the crest."
+        },
+        {
+            "Human": "What is the Premier League?",
+            "AI": "The Premier League is the top division of English football. It is the most-watched football league in the world and consists of 20 clubs competing annually for the league title."
+        },
+        {
+            "Human": "What is the emblem of the Premier League?",
+            "AI": "The Premier League emblem features a purple lion's head wearing a crown, representing leadership, power, and prestige in English football."
+        },
+        {
+            "Human": "What is Manchester United?",
+            "AI": "Manchester United is a professional football club based in Manchester, England. It is one of the most successful and popular clubs globally, competing in the Premier League."
+        },
+        {
+            "Human": "What is the logo of Manchester United?",
+            "AI": "The Manchester United logo features a red and yellow crest with a ship at the top and a red devil holding a trident in the center, symbolizing the club's nickname The Red Devils' and Manchester's industrial history."
+        },
+        {
+            "Human": "What is Manchester City?",
+            "AI": "Manchester City is a professional football club based in Manchester, England. The club has become a dominant force in English football in recent years, winning multiple Premier League titles."
+        },
+        {
+            "Human": "What is the logo of Manchester City?",
+            "AI": "The Manchester City logo features a circular blue crest with a ship at the top and a red rose at the bottom, symbolizing Manchester's maritime history and its connection to Lancashire."
+        },
+        {
+            "Human": "What is Liverpool Football Club?",
+            "AI": "Liverpool FC is a professional football club based in Liverpool, England. It is one of the most successful clubs in English football history, known for its passionate fan base and rich history in domestic and European competitions."
+        },
+        {
+            "Human": "What is the logo of Liverpool FC?",
+            "AI": "The Liverpool FC logo features a red crest with the Liverbird, the symbol of Liverpool, at the center. Above it is the club's motto You'll Never Walk Alone,' and at the bottom is Est. 1892, marking its founding year."
+        },
+        {
+            "Human": "What is the relation between The FA and the England National Football Team?",
+            "AI": "The FA governs the England National Football Team, organizing its matches, selecting coaches, and setting regulations for player eligibility. The FA also oversees player call-ups from club teams and ensures the national team competes in international tournaments."
+        },
+        {
+            "Human": "What is the relation between The FA and the Premier League?",
+            "AI": "The FA oversees the Premier League, ensuring that its rules align with national and international football regulations. While the Premier League operates independently, it must adhere to FA guidelines regarding financial fair play, refereeing standards, and player discipline."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester United?",
+            "AI": "Manchester United is a founding member of the Premier League and has been one of its most successful clubs. The club competes annually in the league and has contributed significantly to its global popularity due to its large fanbase and commercial success."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester City?",
+            "AI": "Manchester City is a member club of the Premier League. Although the club historically struggled for titles, its fortunes changed with investment from the City Football Group, leading to multiple league triumphs and making it one of the most dominant teams in the competition."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Liverpool?",
+            "AI": "Liverpool is a member club of the Premier League and one of its most decorated teams. The club has a massive global fanbase and has consistently been one of the league's top performers, particularly under the management of Jurgen Klopp in recent years."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester United?",
+            "AI": "The FA regulates Manchester United by enforcing league rules, fair play standards, and player registration policies. The club's players are also subject to FA disciplinary actions and are regularly called up for the England National Team."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester City?",
+            "AI": "The FA regulates Manchester City under financial fair play and player conduct rules. The FA has been involved in investigating alleged financial breaches by the club, highlighting its role in maintaining integrity in English football."
+        },
+        {
+            "Human": "What is the relation between The FA and Liverpool?",
+            "AI": "The FA regulates Liverpool's operations, ensuring compliance with national football regulations. Liverpool's English players are regularly called up for the national team, strengthening the club's connection to English football governance."
+        },
+        {
+            "Human": "What is the relation between Manchester United and the England National Team?",
+            "AI": "Manchester United provides players for the England National Team. Over the years, legends such as David Beckham, Wayne Rooney, and more recently Marcus Rashford have played key roles in the national team's success."
+        },
+        {
+            "Human": "What is the relation between Manchester City and the England National Team?",
+            "AI": "Manchester City supplies players to the England National Team, particularly in recent years as the club has dominated English football. Players such as Phil Foden and Jack Grealish are integral to both club and country."
+        },
+        {
+            "Human": "What is the relation between Liverpool and the England National Team?",
+            "AI": "Liverpool has historically provided key players for the England National Team, including Steven Gerrard and Trent Alexander-Arnold. The club's playing style under Jurgen Klopp has also influenced the tactical approach of the national team."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Manchester City?",
+            "AI": "Manchester United and Manchester City are fierce rivals, competing in the Manchester Derby. Historically, United was the more dominant club, but City's rise in the past decade has intensified the rivalry, with both clubs now competing for major honors."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Liverpool?",
+            "AI": "Manchester United and Liverpool have the biggest rivalry in English football. Their competition extends beyond football, rooted in historical economic and industrial rivalries between the cities of Manchester and Liverpool. Both clubs compete for the title of England's most successful team."
+        },
+        {
+            "Human": "What is the relation between Manchester City and Liverpool?",
+            "AI": "Manchester City and Liverpool have developed a modern footballing rivalry, often competing for the Premier League title. The tactical battles between Pep Guardiola and Jurgen Klopp have made their encounters some of the most anticipated in world football."
+        },
+        {
+            "Human": "How do financial resources impact the rivalry between Manchester United, Manchester City, and Liverpool?",
+            "AI": "Manchester United has historically been the wealthiest club in English football due to its commercial success. Manchester City, backed by the City Football Group, has emerged as a financial powerhouse, allowing it to dominate recent seasons. Liverpool, though operating under a more balanced financial model, has remained highly competitive through strong recruitment and coaching."
+        },
+        {
+            "Human": "What is the cultural impact of these clubs beyond football?",
+            "AI": "Manchester United, Manchester City, and Liverpool have significant cultural influences beyond football. United and Liverpool have massive global fanbases, with strong followings in Asia and North America. Liverpool's 'You'll Never Walk Alone' is one of football's most iconic anthems, while Manchester City's recent success has transformed its global brand."
+        },
+        {
+            "Human": "How have managers shaped the success of these clubs?",
+            "AI": "Sir Alex Ferguson defined Manchester United's dominance for over two decades, while Pep Guardiola has revolutionized Manchester City's playing style. Liverpool's resurgence under Jurgen Klopp has restored the club's status as a European powerhouse, making these managerial influences a crucial part of their histories."
+        },
+        {
+            "Human": "What role does youth development play in these clubs?",
+            "AI": "Manchester United has a strong history of developing young talent, with its famous 'Class of 92' including David Beckham and Ryan Giggs. Manchester City has heavily invested in its academy in recent years, producing stars like Phil Foden. Liverpool has also relied on its youth system, developing players such as Trent Alexander-Arnold."
+        },
+        {
+            "Human": "How do sponsorships and branding differentiate these clubs?",
+            "AI": "Manchester United has one of the most commercially successful brands in world football, securing major sponsorship deals with Adidas and Chevrolet. Manchester City's branding has expanded significantly under the City Football Group. Liverpool's resurgence has increased its marketability, securing deals with Nike and Standard Chartered."
+        },
+        {
+            "Human": "What is the impact of these clubs on English football as a whole?",
+            "AI": "Manchester United, Manchester City, and Liverpool contribute significantly to the Premier League's global appeal. Their competitive rivalries drive viewership, while their success in European competitions enhances the reputation of English football on the world stage."
+        }
+    ],
+    "./yollava-data/train/english_football/3.png": [
+        {
+            "Human": "What is the England National Football Team?",
+            "AI": "The England National Football Team represents England in international football. It is governed by The Football Association (FA) and competes in major tournaments like the FIFA World Cup and UEFA European Championship."
+        },
+        {
+            "Human": "What is the emblem of the England National Football Team?",
+            "AI": "The emblem features three blue lions with red roses on a white shield. The design is based on England's royal coat of arms, symbolizing strength and heritage."
+        },
+        {
+            "Human": "What is The Football Association (FA)?",
+            "AI": "The Football Association (FA) is the governing body of football in England. It oversees the rules, development, and national teams and is responsible for the regulation of professional and amateur football in the country."
+        },
+        {
+            "Human": "What is the logo of The Football Association (FA)?",
+            "AI": "The FA's logo consists of the three lions emblem, similar to the England National Team, but with The FA written in white on a navy blue background above the crest."
+        },
+        {
+            "Human": "What is the Premier League?",
+            "AI": "The Premier League is the top division of English football. It is the most-watched football league in the world and consists of 20 clubs competing annually for the league title."
+        },
+        {
+            "Human": "What is the emblem of the Premier League?",
+            "AI": "The Premier League emblem features a purple lion's head wearing a crown, representing leadership, power, and prestige in English football."
+        },
+        {
+            "Human": "What is Manchester United?",
+            "AI": "Manchester United is a professional football club based in Manchester, England. It is one of the most successful and popular clubs globally, competing in the Premier League."
+        },
+        {
+            "Human": "What is the logo of Manchester United?",
+            "AI": "The Manchester United logo features a red and yellow crest with a ship at the top and a red devil holding a trident in the center, symbolizing the club's nickname The Red Devils' and Manchester's industrial history."
+        },
+        {
+            "Human": "What is Manchester City?",
+            "AI": "Manchester City is a professional football club based in Manchester, England. The club has become a dominant force in English football in recent years, winning multiple Premier League titles."
+        },
+        {
+            "Human": "What is the logo of Manchester City?",
+            "AI": "The Manchester City logo features a circular blue crest with a ship at the top and a red rose at the bottom, symbolizing Manchester's maritime history and its connection to Lancashire."
+        },
+        {
+            "Human": "What is Liverpool Football Club?",
+            "AI": "Liverpool FC is a professional football club based in Liverpool, England. It is one of the most successful clubs in English football history, known for its passionate fan base and rich history in domestic and European competitions."
+        },
+        {
+            "Human": "What is the logo of Liverpool FC?",
+            "AI": "The Liverpool FC logo features a red crest with the Liverbird, the symbol of Liverpool, at the center. Above it is the club's motto You'll Never Walk Alone,' and at the bottom is Est. 1892, marking its founding year."
+        },
+        {
+            "Human": "What is the relation between The FA and the England National Football Team?",
+            "AI": "The FA governs the England National Football Team, organizing its matches, selecting coaches, and setting regulations for player eligibility. The FA also oversees player call-ups from club teams and ensures the national team competes in international tournaments."
+        },
+        {
+            "Human": "What is the relation between The FA and the Premier League?",
+            "AI": "The FA oversees the Premier League, ensuring that its rules align with national and international football regulations. While the Premier League operates independently, it must adhere to FA guidelines regarding financial fair play, refereeing standards, and player discipline."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester United?",
+            "AI": "Manchester United is a founding member of the Premier League and has been one of its most successful clubs. The club competes annually in the league and has contributed significantly to its global popularity due to its large fanbase and commercial success."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester City?",
+            "AI": "Manchester City is a member club of the Premier League. Although the club historically struggled for titles, its fortunes changed with investment from the City Football Group, leading to multiple league triumphs and making it one of the most dominant teams in the competition."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Liverpool?",
+            "AI": "Liverpool is a member club of the Premier League and one of its most decorated teams. The club has a massive global fanbase and has consistently been one of the league's top performers, particularly under the management of Jurgen Klopp in recent years."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester United?",
+            "AI": "The FA regulates Manchester United by enforcing league rules, fair play standards, and player registration policies. The club's players are also subject to FA disciplinary actions and are regularly called up for the England National Team."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester City?",
+            "AI": "The FA regulates Manchester City under financial fair play and player conduct rules. The FA has been involved in investigating alleged financial breaches by the club, highlighting its role in maintaining integrity in English football."
+        },
+        {
+            "Human": "What is the relation between The FA and Liverpool?",
+            "AI": "The FA regulates Liverpool's operations, ensuring compliance with national football regulations. Liverpool's English players are regularly called up for the national team, strengthening the club's connection to English football governance."
+        },
+        {
+            "Human": "What is the relation between Manchester United and the England National Team?",
+            "AI": "Manchester United provides players for the England National Team. Over the years, legends such as David Beckham, Wayne Rooney, and more recently Marcus Rashford have played key roles in the national team's success."
+        },
+        {
+            "Human": "What is the relation between Manchester City and the England National Team?",
+            "AI": "Manchester City supplies players to the England National Team, particularly in recent years as the club has dominated English football. Players such as Phil Foden and Jack Grealish are integral to both club and country."
+        },
+        {
+            "Human": "What is the relation between Liverpool and the England National Team?",
+            "AI": "Liverpool has historically provided key players for the England National Team, including Steven Gerrard and Trent Alexander-Arnold. The club's playing style under Jurgen Klopp has also influenced the tactical approach of the national team."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Manchester City?",
+            "AI": "Manchester United and Manchester City are fierce rivals, competing in the Manchester Derby. Historically, United was the more dominant club, but City's rise in the past decade has intensified the rivalry, with both clubs now competing for major honors."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Liverpool?",
+            "AI": "Manchester United and Liverpool have the biggest rivalry in English football. Their competition extends beyond football, rooted in historical economic and industrial rivalries between the cities of Manchester and Liverpool. Both clubs compete for the title of England's most successful team."
+        },
+        {
+            "Human": "What is the relation between Manchester City and Liverpool?",
+            "AI": "Manchester City and Liverpool have developed a modern footballing rivalry, often competing for the Premier League title. The tactical battles between Pep Guardiola and Jurgen Klopp have made their encounters some of the most anticipated in world football."
+        },
+        {
+            "Human": "How do financial resources impact the rivalry between Manchester United, Manchester City, and Liverpool?",
+            "AI": "Manchester United has historically been the wealthiest club in English football due to its commercial success. Manchester City, backed by the City Football Group, has emerged as a financial powerhouse, allowing it to dominate recent seasons. Liverpool, though operating under a more balanced financial model, has remained highly competitive through strong recruitment and coaching."
+        },
+        {
+            "Human": "What is the cultural impact of these clubs beyond football?",
+            "AI": "Manchester United, Manchester City, and Liverpool have significant cultural influences beyond football. United and Liverpool have massive global fanbases, with strong followings in Asia and North America. Liverpool's 'You'll Never Walk Alone' is one of football's most iconic anthems, while Manchester City's recent success has transformed its global brand."
+        },
+        {
+            "Human": "How have managers shaped the success of these clubs?",
+            "AI": "Sir Alex Ferguson defined Manchester United's dominance for over two decades, while Pep Guardiola has revolutionized Manchester City's playing style. Liverpool's resurgence under Jurgen Klopp has restored the club's status as a European powerhouse, making these managerial influences a crucial part of their histories."
+        },
+        {
+            "Human": "What role does youth development play in these clubs?",
+            "AI": "Manchester United has a strong history of developing young talent, with its famous 'Class of 92' including David Beckham and Ryan Giggs. Manchester City has heavily invested in its academy in recent years, producing stars like Phil Foden. Liverpool has also relied on its youth system, developing players such as Trent Alexander-Arnold."
+        },
+        {
+            "Human": "How do sponsorships and branding differentiate these clubs?",
+            "AI": "Manchester United has one of the most commercially successful brands in world football, securing major sponsorship deals with Adidas and Chevrolet. Manchester City's branding has expanded significantly under the City Football Group. Liverpool's resurgence has increased its marketability, securing deals with Nike and Standard Chartered."
+        },
+        {
+            "Human": "What is the impact of these clubs on English football as a whole?",
+            "AI": "Manchester United, Manchester City, and Liverpool contribute significantly to the Premier League's global appeal. Their competitive rivalries drive viewership, while their success in European competitions enhances the reputation of English football on the world stage."
+        }
+    ],
+    "./yollava-data/train/english_football/4.png": [
+        {
+            "Human": "What is the England National Football Team?",
+            "AI": "The England National Football Team represents England in international football. It is governed by The Football Association (FA) and competes in major tournaments like the FIFA World Cup and UEFA European Championship."
+        },
+        {
+            "Human": "What is the emblem of the England National Football Team?",
+            "AI": "The emblem features three blue lions with red roses on a white shield. The design is based on England's royal coat of arms, symbolizing strength and heritage."
+        },
+        {
+            "Human": "What is The Football Association (FA)?",
+            "AI": "The Football Association (FA) is the governing body of football in England. It oversees the rules, development, and national teams and is responsible for the regulation of professional and amateur football in the country."
+        },
+        {
+            "Human": "What is the logo of The Football Association (FA)?",
+            "AI": "The FA's logo consists of the three lions emblem, similar to the England National Team, but with The FA written in white on a navy blue background above the crest."
+        },
+        {
+            "Human": "What is the Premier League?",
+            "AI": "The Premier League is the top division of English football. It is the most-watched football league in the world and consists of 20 clubs competing annually for the league title."
+        },
+        {
+            "Human": "What is the emblem of the Premier League?",
+            "AI": "The Premier League emblem features a purple lion's head wearing a crown, representing leadership, power, and prestige in English football."
+        },
+        {
+            "Human": "What is Manchester United?",
+            "AI": "Manchester United is a professional football club based in Manchester, England. It is one of the most successful and popular clubs globally, competing in the Premier League."
+        },
+        {
+            "Human": "What is the logo of Manchester United?",
+            "AI": "The Manchester United logo features a red and yellow crest with a ship at the top and a red devil holding a trident in the center, symbolizing the club's nickname The Red Devils' and Manchester's industrial history."
+        },
+        {
+            "Human": "What is Manchester City?",
+            "AI": "Manchester City is a professional football club based in Manchester, England. The club has become a dominant force in English football in recent years, winning multiple Premier League titles."
+        },
+        {
+            "Human": "What is the logo of Manchester City?",
+            "AI": "The Manchester City logo features a circular blue crest with a ship at the top and a red rose at the bottom, symbolizing Manchester's maritime history and its connection to Lancashire."
+        },
+        {
+            "Human": "What is Liverpool Football Club?",
+            "AI": "Liverpool FC is a professional football club based in Liverpool, England. It is one of the most successful clubs in English football history, known for its passionate fan base and rich history in domestic and European competitions."
+        },
+        {
+            "Human": "What is the logo of Liverpool FC?",
+            "AI": "The Liverpool FC logo features a red crest with the Liverbird, the symbol of Liverpool, at the center. Above it is the club's motto You'll Never Walk Alone,' and at the bottom is Est. 1892, marking its founding year."
+        },
+        {
+            "Human": "What is the relation between The FA and the England National Football Team?",
+            "AI": "The FA governs the England National Football Team, organizing its matches, selecting coaches, and setting regulations for player eligibility. The FA also oversees player call-ups from club teams and ensures the national team competes in international tournaments."
+        },
+        {
+            "Human": "What is the relation between The FA and the Premier League?",
+            "AI": "The FA oversees the Premier League, ensuring that its rules align with national and international football regulations. While the Premier League operates independently, it must adhere to FA guidelines regarding financial fair play, refereeing standards, and player discipline."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester United?",
+            "AI": "Manchester United is a founding member of the Premier League and has been one of its most successful clubs. The club competes annually in the league and has contributed significantly to its global popularity due to its large fanbase and commercial success."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester City?",
+            "AI": "Manchester City is a member club of the Premier League. Although the club historically struggled for titles, its fortunes changed with investment from the City Football Group, leading to multiple league triumphs and making it one of the most dominant teams in the competition."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Liverpool?",
+            "AI": "Liverpool is a member club of the Premier League and one of its most decorated teams. The club has a massive global fanbase and has consistently been one of the league's top performers, particularly under the management of Jurgen Klopp in recent years."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester United?",
+            "AI": "The FA regulates Manchester United by enforcing league rules, fair play standards, and player registration policies. The club's players are also subject to FA disciplinary actions and are regularly called up for the England National Team."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester City?",
+            "AI": "The FA regulates Manchester City under financial fair play and player conduct rules. The FA has been involved in investigating alleged financial breaches by the club, highlighting its role in maintaining integrity in English football."
+        },
+        {
+            "Human": "What is the relation between The FA and Liverpool?",
+            "AI": "The FA regulates Liverpool's operations, ensuring compliance with national football regulations. Liverpool's English players are regularly called up for the national team, strengthening the club's connection to English football governance."
+        },
+        {
+            "Human": "What is the relation between Manchester United and the England National Team?",
+            "AI": "Manchester United provides players for the England National Team. Over the years, legends such as David Beckham, Wayne Rooney, and more recently Marcus Rashford have played key roles in the national team's success."
+        },
+        {
+            "Human": "What is the relation between Manchester City and the England National Team?",
+            "AI": "Manchester City supplies players to the England National Team, particularly in recent years as the club has dominated English football. Players such as Phil Foden and Jack Grealish are integral to both club and country."
+        },
+        {
+            "Human": "What is the relation between Liverpool and the England National Team?",
+            "AI": "Liverpool has historically provided key players for the England National Team, including Steven Gerrard and Trent Alexander-Arnold. The club's playing style under Jurgen Klopp has also influenced the tactical approach of the national team."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Manchester City?",
+            "AI": "Manchester United and Manchester City are fierce rivals, competing in the Manchester Derby. Historically, United was the more dominant club, but City's rise in the past decade has intensified the rivalry, with both clubs now competing for major honors."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Liverpool?",
+            "AI": "Manchester United and Liverpool have the biggest rivalry in English football. Their competition extends beyond football, rooted in historical economic and industrial rivalries between the cities of Manchester and Liverpool. Both clubs compete for the title of England's most successful team."
+        },
+        {
+            "Human": "What is the relation between Manchester City and Liverpool?",
+            "AI": "Manchester City and Liverpool have developed a modern footballing rivalry, often competing for the Premier League title. The tactical battles between Pep Guardiola and Jurgen Klopp have made their encounters some of the most anticipated in world football."
+        },
+        {
+            "Human": "How do financial resources impact the rivalry between Manchester United, Manchester City, and Liverpool?",
+            "AI": "Manchester United has historically been the wealthiest club in English football due to its commercial success. Manchester City, backed by the City Football Group, has emerged as a financial powerhouse, allowing it to dominate recent seasons. Liverpool, though operating under a more balanced financial model, has remained highly competitive through strong recruitment and coaching."
+        },
+        {
+            "Human": "What is the cultural impact of these clubs beyond football?",
+            "AI": "Manchester United, Manchester City, and Liverpool have significant cultural influences beyond football. United and Liverpool have massive global fanbases, with strong followings in Asia and North America. Liverpool's 'You'll Never Walk Alone' is one of football's most iconic anthems, while Manchester City's recent success has transformed its global brand."
+        },
+        {
+            "Human": "How have managers shaped the success of these clubs?",
+            "AI": "Sir Alex Ferguson defined Manchester United's dominance for over two decades, while Pep Guardiola has revolutionized Manchester City's playing style. Liverpool's resurgence under Jurgen Klopp has restored the club's status as a European powerhouse, making these managerial influences a crucial part of their histories."
+        },
+        {
+            "Human": "What role does youth development play in these clubs?",
+            "AI": "Manchester United has a strong history of developing young talent, with its famous 'Class of 92' including David Beckham and Ryan Giggs. Manchester City has heavily invested in its academy in recent years, producing stars like Phil Foden. Liverpool has also relied on its youth system, developing players such as Trent Alexander-Arnold."
+        },
+        {
+            "Human": "How do sponsorships and branding differentiate these clubs?",
+            "AI": "Manchester United has one of the most commercially successful brands in world football, securing major sponsorship deals with Adidas and Chevrolet. Manchester City's branding has expanded significantly under the City Football Group. Liverpool's resurgence has increased its marketability, securing deals with Nike and Standard Chartered."
+        },
+        {
+            "Human": "What is the impact of these clubs on English football as a whole?",
+            "AI": "Manchester United, Manchester City, and Liverpool contribute significantly to the Premier League's global appeal. Their competitive rivalries drive viewership, while their success in European competitions enhances the reputation of English football on the world stage."
+        }
+    ],
+    "./yollava-data/train/english_football/5.png": [
+        {
+            "Human": "What is the England National Football Team?",
+            "AI": "The England National Football Team represents England in international football. It is governed by The Football Association (FA) and competes in major tournaments like the FIFA World Cup and UEFA European Championship."
+        },
+        {
+            "Human": "What is the emblem of the England National Football Team?",
+            "AI": "The emblem features three blue lions with red roses on a white shield. The design is based on England's royal coat of arms, symbolizing strength and heritage."
+        },
+        {
+            "Human": "What is The Football Association (FA)?",
+            "AI": "The Football Association (FA) is the governing body of football in England. It oversees the rules, development, and national teams and is responsible for the regulation of professional and amateur football in the country."
+        },
+        {
+            "Human": "What is the logo of The Football Association (FA)?",
+            "AI": "The FA's logo consists of the three lions emblem, similar to the England National Team, but with The FA written in white on a navy blue background above the crest."
+        },
+        {
+            "Human": "What is the Premier League?",
+            "AI": "The Premier League is the top division of English football. It is the most-watched football league in the world and consists of 20 clubs competing annually for the league title."
+        },
+        {
+            "Human": "What is the emblem of the Premier League?",
+            "AI": "The Premier League emblem features a purple lion's head wearing a crown, representing leadership, power, and prestige in English football."
+        },
+        {
+            "Human": "What is Manchester United?",
+            "AI": "Manchester United is a professional football club based in Manchester, England. It is one of the most successful and popular clubs globally, competing in the Premier League."
+        },
+        {
+            "Human": "What is the logo of Manchester United?",
+            "AI": "The Manchester United logo features a red and yellow crest with a ship at the top and a red devil holding a trident in the center, symbolizing the club's nickname The Red Devils' and Manchester's industrial history."
+        },
+        {
+            "Human": "What is Manchester City?",
+            "AI": "Manchester City is a professional football club based in Manchester, England. The club has become a dominant force in English football in recent years, winning multiple Premier League titles."
+        },
+        {
+            "Human": "What is the logo of Manchester City?",
+            "AI": "The Manchester City logo features a circular blue crest with a ship at the top and a red rose at the bottom, symbolizing Manchester's maritime history and its connection to Lancashire."
+        },
+        {
+            "Human": "What is Liverpool Football Club?",
+            "AI": "Liverpool FC is a professional football club based in Liverpool, England. It is one of the most successful clubs in English football history, known for its passionate fan base and rich history in domestic and European competitions."
+        },
+        {
+            "Human": "What is the logo of Liverpool FC?",
+            "AI": "The Liverpool FC logo features a red crest with the Liverbird, the symbol of Liverpool, at the center. Above it is the club's motto You'll Never Walk Alone,' and at the bottom is Est. 1892, marking its founding year."
+        },
+        {
+            "Human": "What is the relation between The FA and the England National Football Team?",
+            "AI": "The FA governs the England National Football Team, organizing its matches, selecting coaches, and setting regulations for player eligibility. The FA also oversees player call-ups from club teams and ensures the national team competes in international tournaments."
+        },
+        {
+            "Human": "What is the relation between The FA and the Premier League?",
+            "AI": "The FA oversees the Premier League, ensuring that its rules align with national and international football regulations. While the Premier League operates independently, it must adhere to FA guidelines regarding financial fair play, refereeing standards, and player discipline."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester United?",
+            "AI": "Manchester United is a founding member of the Premier League and has been one of its most successful clubs. The club competes annually in the league and has contributed significantly to its global popularity due to its large fanbase and commercial success."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester City?",
+            "AI": "Manchester City is a member club of the Premier League. Although the club historically struggled for titles, its fortunes changed with investment from the City Football Group, leading to multiple league triumphs and making it one of the most dominant teams in the competition."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Liverpool?",
+            "AI": "Liverpool is a member club of the Premier League and one of its most decorated teams. The club has a massive global fanbase and has consistently been one of the league's top performers, particularly under the management of Jurgen Klopp in recent years."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester United?",
+            "AI": "The FA regulates Manchester United by enforcing league rules, fair play standards, and player registration policies. The club's players are also subject to FA disciplinary actions and are regularly called up for the England National Team."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester City?",
+            "AI": "The FA regulates Manchester City under financial fair play and player conduct rules. The FA has been involved in investigating alleged financial breaches by the club, highlighting its role in maintaining integrity in English football."
+        },
+        {
+            "Human": "What is the relation between The FA and Liverpool?",
+            "AI": "The FA regulates Liverpool's operations, ensuring compliance with national football regulations. Liverpool's English players are regularly called up for the national team, strengthening the club's connection to English football governance."
+        },
+        {
+            "Human": "What is the relation between Manchester United and the England National Team?",
+            "AI": "Manchester United provides players for the England National Team. Over the years, legends such as David Beckham, Wayne Rooney, and more recently Marcus Rashford have played key roles in the national team's success."
+        },
+        {
+            "Human": "What is the relation between Manchester City and the England National Team?",
+            "AI": "Manchester City supplies players to the England National Team, particularly in recent years as the club has dominated English football. Players such as Phil Foden and Jack Grealish are integral to both club and country."
+        },
+        {
+            "Human": "What is the relation between Liverpool and the England National Team?",
+            "AI": "Liverpool has historically provided key players for the England National Team, including Steven Gerrard and Trent Alexander-Arnold. The club's playing style under Jurgen Klopp has also influenced the tactical approach of the national team."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Manchester City?",
+            "AI": "Manchester United and Manchester City are fierce rivals, competing in the Manchester Derby. Historically, United was the more dominant club, but City's rise in the past decade has intensified the rivalry, with both clubs now competing for major honors."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Liverpool?",
+            "AI": "Manchester United and Liverpool have the biggest rivalry in English football. Their competition extends beyond football, rooted in historical economic and industrial rivalries between the cities of Manchester and Liverpool. Both clubs compete for the title of England's most successful team."
+        },
+        {
+            "Human": "What is the relation between Manchester City and Liverpool?",
+            "AI": "Manchester City and Liverpool have developed a modern footballing rivalry, often competing for the Premier League title. The tactical battles between Pep Guardiola and Jurgen Klopp have made their encounters some of the most anticipated in world football."
+        },
+        {
+            "Human": "How do financial resources impact the rivalry between Manchester United, Manchester City, and Liverpool?",
+            "AI": "Manchester United has historically been the wealthiest club in English football due to its commercial success. Manchester City, backed by the City Football Group, has emerged as a financial powerhouse, allowing it to dominate recent seasons. Liverpool, though operating under a more balanced financial model, has remained highly competitive through strong recruitment and coaching."
+        },
+        {
+            "Human": "What is the cultural impact of these clubs beyond football?",
+            "AI": "Manchester United, Manchester City, and Liverpool have significant cultural influences beyond football. United and Liverpool have massive global fanbases, with strong followings in Asia and North America. Liverpool's 'You'll Never Walk Alone' is one of football's most iconic anthems, while Manchester City's recent success has transformed its global brand."
+        },
+        {
+            "Human": "How have managers shaped the success of these clubs?",
+            "AI": "Sir Alex Ferguson defined Manchester United's dominance for over two decades, while Pep Guardiola has revolutionized Manchester City's playing style. Liverpool's resurgence under Jurgen Klopp has restored the club's status as a European powerhouse, making these managerial influences a crucial part of their histories."
+        },
+        {
+            "Human": "What role does youth development play in these clubs?",
+            "AI": "Manchester United has a strong history of developing young talent, with its famous 'Class of 92' including David Beckham and Ryan Giggs. Manchester City has heavily invested in its academy in recent years, producing stars like Phil Foden. Liverpool has also relied on its youth system, developing players such as Trent Alexander-Arnold."
+        },
+        {
+            "Human": "How do sponsorships and branding differentiate these clubs?",
+            "AI": "Manchester United has one of the most commercially successful brands in world football, securing major sponsorship deals with Adidas and Chevrolet. Manchester City's branding has expanded significantly under the City Football Group. Liverpool's resurgence has increased its marketability, securing deals with Nike and Standard Chartered."
+        },
+        {
+            "Human": "What is the impact of these clubs on English football as a whole?",
+            "AI": "Manchester United, Manchester City, and Liverpool contribute significantly to the Premier League's global appeal. Their competitive rivalries drive viewership, while their success in European competitions enhances the reputation of English football on the world stage."
+        }
+    ],
+    "./yollava-data/train/english_football/6.png": [
+        {
+            "Human": "What is the England National Football Team?",
+            "AI": "The England National Football Team represents England in international football. It is governed by The Football Association (FA) and competes in major tournaments like the FIFA World Cup and UEFA European Championship."
+        },
+        {
+            "Human": "What is the emblem of the England National Football Team?",
+            "AI": "The emblem features three blue lions with red roses on a white shield. The design is based on England's royal coat of arms, symbolizing strength and heritage."
+        },
+        {
+            "Human": "What is The Football Association (FA)?",
+            "AI": "The Football Association (FA) is the governing body of football in England. It oversees the rules, development, and national teams and is responsible for the regulation of professional and amateur football in the country."
+        },
+        {
+            "Human": "What is the logo of The Football Association (FA)?",
+            "AI": "The FA's logo consists of the three lions emblem, similar to the England National Team, but with The FA written in white on a navy blue background above the crest."
+        },
+        {
+            "Human": "What is the Premier League?",
+            "AI": "The Premier League is the top division of English football. It is the most-watched football league in the world and consists of 20 clubs competing annually for the league title."
+        },
+        {
+            "Human": "What is the emblem of the Premier League?",
+            "AI": "The Premier League emblem features a purple lion's head wearing a crown, representing leadership, power, and prestige in English football."
+        },
+        {
+            "Human": "What is Manchester United?",
+            "AI": "Manchester United is a professional football club based in Manchester, England. It is one of the most successful and popular clubs globally, competing in the Premier League."
+        },
+        {
+            "Human": "What is the logo of Manchester United?",
+            "AI": "The Manchester United logo features a red and yellow crest with a ship at the top and a red devil holding a trident in the center, symbolizing the club's nickname The Red Devils' and Manchester's industrial history."
+        },
+        {
+            "Human": "What is Manchester City?",
+            "AI": "Manchester City is a professional football club based in Manchester, England. The club has become a dominant force in English football in recent years, winning multiple Premier League titles."
+        },
+        {
+            "Human": "What is the logo of Manchester City?",
+            "AI": "The Manchester City logo features a circular blue crest with a ship at the top and a red rose at the bottom, symbolizing Manchester's maritime history and its connection to Lancashire."
+        },
+        {
+            "Human": "What is Liverpool Football Club?",
+            "AI": "Liverpool FC is a professional football club based in Liverpool, England. It is one of the most successful clubs in English football history, known for its passionate fan base and rich history in domestic and European competitions."
+        },
+        {
+            "Human": "What is the logo of Liverpool FC?",
+            "AI": "The Liverpool FC logo features a red crest with the Liverbird, the symbol of Liverpool, at the center. Above it is the club's motto You'll Never Walk Alone,' and at the bottom is Est. 1892, marking its founding year."
+        },
+        {
+            "Human": "What is the relation between The FA and the England National Football Team?",
+            "AI": "The FA governs the England National Football Team, organizing its matches, selecting coaches, and setting regulations for player eligibility. The FA also oversees player call-ups from club teams and ensures the national team competes in international tournaments."
+        },
+        {
+            "Human": "What is the relation between The FA and the Premier League?",
+            "AI": "The FA oversees the Premier League, ensuring that its rules align with national and international football regulations. While the Premier League operates independently, it must adhere to FA guidelines regarding financial fair play, refereeing standards, and player discipline."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester United?",
+            "AI": "Manchester United is a founding member of the Premier League and has been one of its most successful clubs. The club competes annually in the league and has contributed significantly to its global popularity due to its large fanbase and commercial success."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester City?",
+            "AI": "Manchester City is a member club of the Premier League. Although the club historically struggled for titles, its fortunes changed with investment from the City Football Group, leading to multiple league triumphs and making it one of the most dominant teams in the competition."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Liverpool?",
+            "AI": "Liverpool is a member club of the Premier League and one of its most decorated teams. The club has a massive global fanbase and has consistently been one of the league's top performers, particularly under the management of Jurgen Klopp in recent years."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester United?",
+            "AI": "The FA regulates Manchester United by enforcing league rules, fair play standards, and player registration policies. The club's players are also subject to FA disciplinary actions and are regularly called up for the England National Team."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester City?",
+            "AI": "The FA regulates Manchester City under financial fair play and player conduct rules. The FA has been involved in investigating alleged financial breaches by the club, highlighting its role in maintaining integrity in English football."
+        },
+        {
+            "Human": "What is the relation between The FA and Liverpool?",
+            "AI": "The FA regulates Liverpool's operations, ensuring compliance with national football regulations. Liverpool's English players are regularly called up for the national team, strengthening the club's connection to English football governance."
+        },
+        {
+            "Human": "What is the relation between Manchester United and the England National Team?",
+            "AI": "Manchester United provides players for the England National Team. Over the years, legends such as David Beckham, Wayne Rooney, and more recently Marcus Rashford have played key roles in the national team's success."
+        },
+        {
+            "Human": "What is the relation between Manchester City and the England National Team?",
+            "AI": "Manchester City supplies players to the England National Team, particularly in recent years as the club has dominated English football. Players such as Phil Foden and Jack Grealish are integral to both club and country."
+        },
+        {
+            "Human": "What is the relation between Liverpool and the England National Team?",
+            "AI": "Liverpool has historically provided key players for the England National Team, including Steven Gerrard and Trent Alexander-Arnold. The club's playing style under Jurgen Klopp has also influenced the tactical approach of the national team."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Manchester City?",
+            "AI": "Manchester United and Manchester City are fierce rivals, competing in the Manchester Derby. Historically, United was the more dominant club, but City's rise in the past decade has intensified the rivalry, with both clubs now competing for major honors."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Liverpool?",
+            "AI": "Manchester United and Liverpool have the biggest rivalry in English football. Their competition extends beyond football, rooted in historical economic and industrial rivalries between the cities of Manchester and Liverpool. Both clubs compete for the title of England's most successful team."
+        },
+        {
+            "Human": "What is the relation between Manchester City and Liverpool?",
+            "AI": "Manchester City and Liverpool have developed a modern footballing rivalry, often competing for the Premier League title. The tactical battles between Pep Guardiola and Jurgen Klopp have made their encounters some of the most anticipated in world football."
+        },
+        {
+            "Human": "How do financial resources impact the rivalry between Manchester United, Manchester City, and Liverpool?",
+            "AI": "Manchester United has historically been the wealthiest club in English football due to its commercial success. Manchester City, backed by the City Football Group, has emerged as a financial powerhouse, allowing it to dominate recent seasons. Liverpool, though operating under a more balanced financial model, has remained highly competitive through strong recruitment and coaching."
+        },
+        {
+            "Human": "What is the cultural impact of these clubs beyond football?",
+            "AI": "Manchester United, Manchester City, and Liverpool have significant cultural influences beyond football. United and Liverpool have massive global fanbases, with strong followings in Asia and North America. Liverpool's 'You'll Never Walk Alone' is one of football's most iconic anthems, while Manchester City's recent success has transformed its global brand."
+        },
+        {
+            "Human": "How have managers shaped the success of these clubs?",
+            "AI": "Sir Alex Ferguson defined Manchester United's dominance for over two decades, while Pep Guardiola has revolutionized Manchester City's playing style. Liverpool's resurgence under Jurgen Klopp has restored the club's status as a European powerhouse, making these managerial influences a crucial part of their histories."
+        },
+        {
+            "Human": "What role does youth development play in these clubs?",
+            "AI": "Manchester United has a strong history of developing young talent, with its famous 'Class of 92' including David Beckham and Ryan Giggs. Manchester City has heavily invested in its academy in recent years, producing stars like Phil Foden. Liverpool has also relied on its youth system, developing players such as Trent Alexander-Arnold."
+        },
+        {
+            "Human": "How do sponsorships and branding differentiate these clubs?",
+            "AI": "Manchester United has one of the most commercially successful brands in world football, securing major sponsorship deals with Adidas and Chevrolet. Manchester City's branding has expanded significantly under the City Football Group. Liverpool's resurgence has increased its marketability, securing deals with Nike and Standard Chartered."
+        },
+        {
+            "Human": "What is the impact of these clubs on English football as a whole?",
+            "AI": "Manchester United, Manchester City, and Liverpool contribute significantly to the Premier League's global appeal. Their competitive rivalries drive viewership, while their success in European competitions enhances the reputation of English football on the world stage."
+        }
+    ],
+    "./yollava-data/train/english_football/7.png": [
+        {
+            "Human": "What is the England National Football Team?",
+            "AI": "The England National Football Team represents England in international football. It is governed by The Football Association (FA) and competes in major tournaments like the FIFA World Cup and UEFA European Championship."
+        },
+        {
+            "Human": "What is the emblem of the England National Football Team?",
+            "AI": "The emblem features three blue lions with red roses on a white shield. The design is based on England's royal coat of arms, symbolizing strength and heritage."
+        },
+        {
+            "Human": "What is The Football Association (FA)?",
+            "AI": "The Football Association (FA) is the governing body of football in England. It oversees the rules, development, and national teams and is responsible for the regulation of professional and amateur football in the country."
+        },
+        {
+            "Human": "What is the logo of The Football Association (FA)?",
+            "AI": "The FA's logo consists of the three lions emblem, similar to the England National Team, but with The FA written in white on a navy blue background above the crest."
+        },
+        {
+            "Human": "What is the Premier League?",
+            "AI": "The Premier League is the top division of English football. It is the most-watched football league in the world and consists of 20 clubs competing annually for the league title."
+        },
+        {
+            "Human": "What is the emblem of the Premier League?",
+            "AI": "The Premier League emblem features a purple lion's head wearing a crown, representing leadership, power, and prestige in English football."
+        },
+        {
+            "Human": "What is Manchester United?",
+            "AI": "Manchester United is a professional football club based in Manchester, England. It is one of the most successful and popular clubs globally, competing in the Premier League."
+        },
+        {
+            "Human": "What is the logo of Manchester United?",
+            "AI": "The Manchester United logo features a red and yellow crest with a ship at the top and a red devil holding a trident in the center, symbolizing the club's nickname The Red Devils' and Manchester's industrial history."
+        },
+        {
+            "Human": "What is Manchester City?",
+            "AI": "Manchester City is a professional football club based in Manchester, England. The club has become a dominant force in English football in recent years, winning multiple Premier League titles."
+        },
+        {
+            "Human": "What is the logo of Manchester City?",
+            "AI": "The Manchester City logo features a circular blue crest with a ship at the top and a red rose at the bottom, symbolizing Manchester's maritime history and its connection to Lancashire."
+        },
+        {
+            "Human": "What is Liverpool Football Club?",
+            "AI": "Liverpool FC is a professional football club based in Liverpool, England. It is one of the most successful clubs in English football history, known for its passionate fan base and rich history in domestic and European competitions."
+        },
+        {
+            "Human": "What is the logo of Liverpool FC?",
+            "AI": "The Liverpool FC logo features a red crest with the Liverbird, the symbol of Liverpool, at the center. Above it is the club's motto You'll Never Walk Alone,' and at the bottom is Est. 1892, marking its founding year."
+        },
+        {
+            "Human": "What is the relation between The FA and the England National Football Team?",
+            "AI": "The FA governs the England National Football Team, organizing its matches, selecting coaches, and setting regulations for player eligibility. The FA also oversees player call-ups from club teams and ensures the national team competes in international tournaments."
+        },
+        {
+            "Human": "What is the relation between The FA and the Premier League?",
+            "AI": "The FA oversees the Premier League, ensuring that its rules align with national and international football regulations. While the Premier League operates independently, it must adhere to FA guidelines regarding financial fair play, refereeing standards, and player discipline."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester United?",
+            "AI": "Manchester United is a founding member of the Premier League and has been one of its most successful clubs. The club competes annually in the league and has contributed significantly to its global popularity due to its large fanbase and commercial success."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester City?",
+            "AI": "Manchester City is a member club of the Premier League. Although the club historically struggled for titles, its fortunes changed with investment from the City Football Group, leading to multiple league triumphs and making it one of the most dominant teams in the competition."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Liverpool?",
+            "AI": "Liverpool is a member club of the Premier League and one of its most decorated teams. The club has a massive global fanbase and has consistently been one of the league's top performers, particularly under the management of Jurgen Klopp in recent years."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester United?",
+            "AI": "The FA regulates Manchester United by enforcing league rules, fair play standards, and player registration policies. The club's players are also subject to FA disciplinary actions and are regularly called up for the England National Team."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester City?",
+            "AI": "The FA regulates Manchester City under financial fair play and player conduct rules. The FA has been involved in investigating alleged financial breaches by the club, highlighting its role in maintaining integrity in English football."
+        },
+        {
+            "Human": "What is the relation between The FA and Liverpool?",
+            "AI": "The FA regulates Liverpool's operations, ensuring compliance with national football regulations. Liverpool's English players are regularly called up for the national team, strengthening the club's connection to English football governance."
+        },
+        {
+            "Human": "What is the relation between Manchester United and the England National Team?",
+            "AI": "Manchester United provides players for the England National Team. Over the years, legends such as David Beckham, Wayne Rooney, and more recently Marcus Rashford have played key roles in the national team's success."
+        },
+        {
+            "Human": "What is the relation between Manchester City and the England National Team?",
+            "AI": "Manchester City supplies players to the England National Team, particularly in recent years as the club has dominated English football. Players such as Phil Foden and Jack Grealish are integral to both club and country."
+        },
+        {
+            "Human": "What is the relation between Liverpool and the England National Team?",
+            "AI": "Liverpool has historically provided key players for the England National Team, including Steven Gerrard and Trent Alexander-Arnold. The club's playing style under Jurgen Klopp has also influenced the tactical approach of the national team."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Manchester City?",
+            "AI": "Manchester United and Manchester City are fierce rivals, competing in the Manchester Derby. Historically, United was the more dominant club, but City's rise in the past decade has intensified the rivalry, with both clubs now competing for major honors."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Liverpool?",
+            "AI": "Manchester United and Liverpool have the biggest rivalry in English football. Their competition extends beyond football, rooted in historical economic and industrial rivalries between the cities of Manchester and Liverpool. Both clubs compete for the title of England's most successful team."
+        },
+        {
+            "Human": "What is the relation between Manchester City and Liverpool?",
+            "AI": "Manchester City and Liverpool have developed a modern footballing rivalry, often competing for the Premier League title. The tactical battles between Pep Guardiola and Jurgen Klopp have made their encounters some of the most anticipated in world football."
+        },
+        {
+            "Human": "How do financial resources impact the rivalry between Manchester United, Manchester City, and Liverpool?",
+            "AI": "Manchester United has historically been the wealthiest club in English football due to its commercial success. Manchester City, backed by the City Football Group, has emerged as a financial powerhouse, allowing it to dominate recent seasons. Liverpool, though operating under a more balanced financial model, has remained highly competitive through strong recruitment and coaching."
+        },
+        {
+            "Human": "What is the cultural impact of these clubs beyond football?",
+            "AI": "Manchester United, Manchester City, and Liverpool have significant cultural influences beyond football. United and Liverpool have massive global fanbases, with strong followings in Asia and North America. Liverpool's 'You'll Never Walk Alone' is one of football's most iconic anthems, while Manchester City's recent success has transformed its global brand."
+        },
+        {
+            "Human": "How have managers shaped the success of these clubs?",
+            "AI": "Sir Alex Ferguson defined Manchester United's dominance for over two decades, while Pep Guardiola has revolutionized Manchester City's playing style. Liverpool's resurgence under Jurgen Klopp has restored the club's status as a European powerhouse, making these managerial influences a crucial part of their histories."
+        },
+        {
+            "Human": "What role does youth development play in these clubs?",
+            "AI": "Manchester United has a strong history of developing young talent, with its famous 'Class of 92' including David Beckham and Ryan Giggs. Manchester City has heavily invested in its academy in recent years, producing stars like Phil Foden. Liverpool has also relied on its youth system, developing players such as Trent Alexander-Arnold."
+        },
+        {
+            "Human": "How do sponsorships and branding differentiate these clubs?",
+            "AI": "Manchester United has one of the most commercially successful brands in world football, securing major sponsorship deals with Adidas and Chevrolet. Manchester City's branding has expanded significantly under the City Football Group. Liverpool's resurgence has increased its marketability, securing deals with Nike and Standard Chartered."
+        },
+        {
+            "Human": "What is the impact of these clubs on English football as a whole?",
+            "AI": "Manchester United, Manchester City, and Liverpool contribute significantly to the Premier League's global appeal. Their competitive rivalries drive viewership, while their success in European competitions enhances the reputation of English football on the world stage."
+        }
+    ],
+    "./yollava-data/train/english_football/8.png": [
+        {
+            "Human": "What is the England National Football Team?",
+            "AI": "The England National Football Team represents England in international football. It is governed by The Football Association (FA) and competes in major tournaments like the FIFA World Cup and UEFA European Championship."
+        },
+        {
+            "Human": "What is the emblem of the England National Football Team?",
+            "AI": "The emblem features three blue lions with red roses on a white shield. The design is based on England's royal coat of arms, symbolizing strength and heritage."
+        },
+        {
+            "Human": "What is The Football Association (FA)?",
+            "AI": "The Football Association (FA) is the governing body of football in England. It oversees the rules, development, and national teams and is responsible for the regulation of professional and amateur football in the country."
+        },
+        {
+            "Human": "What is the logo of The Football Association (FA)?",
+            "AI": "The FA's logo consists of the three lions emblem, similar to the England National Team, but with The FA written in white on a navy blue background above the crest."
+        },
+        {
+            "Human": "What is the Premier League?",
+            "AI": "The Premier League is the top division of English football. It is the most-watched football league in the world and consists of 20 clubs competing annually for the league title."
+        },
+        {
+            "Human": "What is the emblem of the Premier League?",
+            "AI": "The Premier League emblem features a purple lion's head wearing a crown, representing leadership, power, and prestige in English football."
+        },
+        {
+            "Human": "What is Manchester United?",
+            "AI": "Manchester United is a professional football club based in Manchester, England. It is one of the most successful and popular clubs globally, competing in the Premier League."
+        },
+        {
+            "Human": "What is the logo of Manchester United?",
+            "AI": "The Manchester United logo features a red and yellow crest with a ship at the top and a red devil holding a trident in the center, symbolizing the club's nickname The Red Devils' and Manchester's industrial history."
+        },
+        {
+            "Human": "What is Manchester City?",
+            "AI": "Manchester City is a professional football club based in Manchester, England. The club has become a dominant force in English football in recent years, winning multiple Premier League titles."
+        },
+        {
+            "Human": "What is the logo of Manchester City?",
+            "AI": "The Manchester City logo features a circular blue crest with a ship at the top and a red rose at the bottom, symbolizing Manchester's maritime history and its connection to Lancashire."
+        },
+        {
+            "Human": "What is Liverpool Football Club?",
+            "AI": "Liverpool FC is a professional football club based in Liverpool, England. It is one of the most successful clubs in English football history, known for its passionate fan base and rich history in domestic and European competitions."
+        },
+        {
+            "Human": "What is the logo of Liverpool FC?",
+            "AI": "The Liverpool FC logo features a red crest with the Liverbird, the symbol of Liverpool, at the center. Above it is the club's motto You'll Never Walk Alone,' and at the bottom is Est. 1892, marking its founding year."
+        },
+        {
+            "Human": "What is the relation between The FA and the England National Football Team?",
+            "AI": "The FA governs the England National Football Team, organizing its matches, selecting coaches, and setting regulations for player eligibility. The FA also oversees player call-ups from club teams and ensures the national team competes in international tournaments."
+        },
+        {
+            "Human": "What is the relation between The FA and the Premier League?",
+            "AI": "The FA oversees the Premier League, ensuring that its rules align with national and international football regulations. While the Premier League operates independently, it must adhere to FA guidelines regarding financial fair play, refereeing standards, and player discipline."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester United?",
+            "AI": "Manchester United is a founding member of the Premier League and has been one of its most successful clubs. The club competes annually in the league and has contributed significantly to its global popularity due to its large fanbase and commercial success."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester City?",
+            "AI": "Manchester City is a member club of the Premier League. Although the club historically struggled for titles, its fortunes changed with investment from the City Football Group, leading to multiple league triumphs and making it one of the most dominant teams in the competition."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Liverpool?",
+            "AI": "Liverpool is a member club of the Premier League and one of its most decorated teams. The club has a massive global fanbase and has consistently been one of the league's top performers, particularly under the management of Jurgen Klopp in recent years."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester United?",
+            "AI": "The FA regulates Manchester United by enforcing league rules, fair play standards, and player registration policies. The club's players are also subject to FA disciplinary actions and are regularly called up for the England National Team."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester City?",
+            "AI": "The FA regulates Manchester City under financial fair play and player conduct rules. The FA has been involved in investigating alleged financial breaches by the club, highlighting its role in maintaining integrity in English football."
+        },
+        {
+            "Human": "What is the relation between The FA and Liverpool?",
+            "AI": "The FA regulates Liverpool's operations, ensuring compliance with national football regulations. Liverpool's English players are regularly called up for the national team, strengthening the club's connection to English football governance."
+        },
+        {
+            "Human": "What is the relation between Manchester United and the England National Team?",
+            "AI": "Manchester United provides players for the England National Team. Over the years, legends such as David Beckham, Wayne Rooney, and more recently Marcus Rashford have played key roles in the national team's success."
+        },
+        {
+            "Human": "What is the relation between Manchester City and the England National Team?",
+            "AI": "Manchester City supplies players to the England National Team, particularly in recent years as the club has dominated English football. Players such as Phil Foden and Jack Grealish are integral to both club and country."
+        },
+        {
+            "Human": "What is the relation between Liverpool and the England National Team?",
+            "AI": "Liverpool has historically provided key players for the England National Team, including Steven Gerrard and Trent Alexander-Arnold. The club's playing style under Jurgen Klopp has also influenced the tactical approach of the national team."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Manchester City?",
+            "AI": "Manchester United and Manchester City are fierce rivals, competing in the Manchester Derby. Historically, United was the more dominant club, but City's rise in the past decade has intensified the rivalry, with both clubs now competing for major honors."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Liverpool?",
+            "AI": "Manchester United and Liverpool have the biggest rivalry in English football. Their competition extends beyond football, rooted in historical economic and industrial rivalries between the cities of Manchester and Liverpool. Both clubs compete for the title of England's most successful team."
+        },
+        {
+            "Human": "What is the relation between Manchester City and Liverpool?",
+            "AI": "Manchester City and Liverpool have developed a modern footballing rivalry, often competing for the Premier League title. The tactical battles between Pep Guardiola and Jurgen Klopp have made their encounters some of the most anticipated in world football."
+        },
+        {
+            "Human": "How do financial resources impact the rivalry between Manchester United, Manchester City, and Liverpool?",
+            "AI": "Manchester United has historically been the wealthiest club in English football due to its commercial success. Manchester City, backed by the City Football Group, has emerged as a financial powerhouse, allowing it to dominate recent seasons. Liverpool, though operating under a more balanced financial model, has remained highly competitive through strong recruitment and coaching."
+        },
+        {
+            "Human": "What is the cultural impact of these clubs beyond football?",
+            "AI": "Manchester United, Manchester City, and Liverpool have significant cultural influences beyond football. United and Liverpool have massive global fanbases, with strong followings in Asia and North America. Liverpool's 'You'll Never Walk Alone' is one of football's most iconic anthems, while Manchester City's recent success has transformed its global brand."
+        },
+        {
+            "Human": "How have managers shaped the success of these clubs?",
+            "AI": "Sir Alex Ferguson defined Manchester United's dominance for over two decades, while Pep Guardiola has revolutionized Manchester City's playing style. Liverpool's resurgence under Jurgen Klopp has restored the club's status as a European powerhouse, making these managerial influences a crucial part of their histories."
+        },
+        {
+            "Human": "What role does youth development play in these clubs?",
+            "AI": "Manchester United has a strong history of developing young talent, with its famous 'Class of 92' including David Beckham and Ryan Giggs. Manchester City has heavily invested in its academy in recent years, producing stars like Phil Foden. Liverpool has also relied on its youth system, developing players such as Trent Alexander-Arnold."
+        },
+        {
+            "Human": "How do sponsorships and branding differentiate these clubs?",
+            "AI": "Manchester United has one of the most commercially successful brands in world football, securing major sponsorship deals with Adidas and Chevrolet. Manchester City's branding has expanded significantly under the City Football Group. Liverpool's resurgence has increased its marketability, securing deals with Nike and Standard Chartered."
+        },
+        {
+            "Human": "What is the impact of these clubs on English football as a whole?",
+            "AI": "Manchester United, Manchester City, and Liverpool contribute significantly to the Premier League's global appeal. Their competitive rivalries drive viewership, while their success in European competitions enhances the reputation of English football on the world stage."
+        }
+    ],
+    "./yollava-data/train/english_football/9.png": [
+        {
+            "Human": "What is the England National Football Team?",
+            "AI": "The England National Football Team represents England in international football. It is governed by The Football Association (FA) and competes in major tournaments like the FIFA World Cup and UEFA European Championship."
+        },
+        {
+            "Human": "What is the emblem of the England National Football Team?",
+            "AI": "The emblem features three blue lions with red roses on a white shield. The design is based on England's royal coat of arms, symbolizing strength and heritage."
+        },
+        {
+            "Human": "What is The Football Association (FA)?",
+            "AI": "The Football Association (FA) is the governing body of football in England. It oversees the rules, development, and national teams and is responsible for the regulation of professional and amateur football in the country."
+        },
+        {
+            "Human": "What is the logo of The Football Association (FA)?",
+            "AI": "The FA's logo consists of the three lions emblem, similar to the England National Team, but with The FA written in white on a navy blue background above the crest."
+        },
+        {
+            "Human": "What is the Premier League?",
+            "AI": "The Premier League is the top division of English football. It is the most-watched football league in the world and consists of 20 clubs competing annually for the league title."
+        },
+        {
+            "Human": "What is the emblem of the Premier League?",
+            "AI": "The Premier League emblem features a purple lion's head wearing a crown, representing leadership, power, and prestige in English football."
+        },
+        {
+            "Human": "What is Manchester United?",
+            "AI": "Manchester United is a professional football club based in Manchester, England. It is one of the most successful and popular clubs globally, competing in the Premier League."
+        },
+        {
+            "Human": "What is the logo of Manchester United?",
+            "AI": "The Manchester United logo features a red and yellow crest with a ship at the top and a red devil holding a trident in the center, symbolizing the club's nickname The Red Devils' and Manchester's industrial history."
+        },
+        {
+            "Human": "What is Manchester City?",
+            "AI": "Manchester City is a professional football club based in Manchester, England. The club has become a dominant force in English football in recent years, winning multiple Premier League titles."
+        },
+        {
+            "Human": "What is the logo of Manchester City?",
+            "AI": "The Manchester City logo features a circular blue crest with a ship at the top and a red rose at the bottom, symbolizing Manchester's maritime history and its connection to Lancashire."
+        },
+        {
+            "Human": "What is Liverpool Football Club?",
+            "AI": "Liverpool FC is a professional football club based in Liverpool, England. It is one of the most successful clubs in English football history, known for its passionate fan base and rich history in domestic and European competitions."
+        },
+        {
+            "Human": "What is the logo of Liverpool FC?",
+            "AI": "The Liverpool FC logo features a red crest with the Liverbird, the symbol of Liverpool, at the center. Above it is the club's motto You'll Never Walk Alone,' and at the bottom is Est. 1892, marking its founding year."
+        },
+        {
+            "Human": "What is the relation between The FA and the England National Football Team?",
+            "AI": "The FA governs the England National Football Team, organizing its matches, selecting coaches, and setting regulations for player eligibility. The FA also oversees player call-ups from club teams and ensures the national team competes in international tournaments."
+        },
+        {
+            "Human": "What is the relation between The FA and the Premier League?",
+            "AI": "The FA oversees the Premier League, ensuring that its rules align with national and international football regulations. While the Premier League operates independently, it must adhere to FA guidelines regarding financial fair play, refereeing standards, and player discipline."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester United?",
+            "AI": "Manchester United is a founding member of the Premier League and has been one of its most successful clubs. The club competes annually in the league and has contributed significantly to its global popularity due to its large fanbase and commercial success."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Manchester City?",
+            "AI": "Manchester City is a member club of the Premier League. Although the club historically struggled for titles, its fortunes changed with investment from the City Football Group, leading to multiple league triumphs and making it one of the most dominant teams in the competition."
+        },
+        {
+            "Human": "What is the relation between the Premier League and Liverpool?",
+            "AI": "Liverpool is a member club of the Premier League and one of its most decorated teams. The club has a massive global fanbase and has consistently been one of the league's top performers, particularly under the management of Jurgen Klopp in recent years."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester United?",
+            "AI": "The FA regulates Manchester United by enforcing league rules, fair play standards, and player registration policies. The club's players are also subject to FA disciplinary actions and are regularly called up for the England National Team."
+        },
+        {
+            "Human": "What is the relation between The FA and Manchester City?",
+            "AI": "The FA regulates Manchester City under financial fair play and player conduct rules. The FA has been involved in investigating alleged financial breaches by the club, highlighting its role in maintaining integrity in English football."
+        },
+        {
+            "Human": "What is the relation between The FA and Liverpool?",
+            "AI": "The FA regulates Liverpool's operations, ensuring compliance with national football regulations. Liverpool's English players are regularly called up for the national team, strengthening the club's connection to English football governance."
+        },
+        {
+            "Human": "What is the relation between Manchester United and the England National Team?",
+            "AI": "Manchester United provides players for the England National Team. Over the years, legends such as David Beckham, Wayne Rooney, and more recently Marcus Rashford have played key roles in the national team's success."
+        },
+        {
+            "Human": "What is the relation between Manchester City and the England National Team?",
+            "AI": "Manchester City supplies players to the England National Team, particularly in recent years as the club has dominated English football. Players such as Phil Foden and Jack Grealish are integral to both club and country."
+        },
+        {
+            "Human": "What is the relation between Liverpool and the England National Team?",
+            "AI": "Liverpool has historically provided key players for the England National Team, including Steven Gerrard and Trent Alexander-Arnold. The club's playing style under Jurgen Klopp has also influenced the tactical approach of the national team."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Manchester City?",
+            "AI": "Manchester United and Manchester City are fierce rivals, competing in the Manchester Derby. Historically, United was the more dominant club, but City's rise in the past decade has intensified the rivalry, with both clubs now competing for major honors."
+        },
+        {
+            "Human": "What is the relation between Manchester United and Liverpool?",
+            "AI": "Manchester United and Liverpool have the biggest rivalry in English football. Their competition extends beyond football, rooted in historical economic and industrial rivalries between the cities of Manchester and Liverpool. Both clubs compete for the title of England's most successful team."
+        },
+        {
+            "Human": "What is the relation between Manchester City and Liverpool?",
+            "AI": "Manchester City and Liverpool have developed a modern footballing rivalry, often competing for the Premier League title. The tactical battles between Pep Guardiola and Jurgen Klopp have made their encounters some of the most anticipated in world football."
+        },
+        {
+            "Human": "How do financial resources impact the rivalry between Manchester United, Manchester City, and Liverpool?",
+            "AI": "Manchester United has historically been the wealthiest club in English football due to its commercial success. Manchester City, backed by the City Football Group, has emerged as a financial powerhouse, allowing it to dominate recent seasons. Liverpool, though operating under a more balanced financial model, has remained highly competitive through strong recruitment and coaching."
+        },
+        {
+            "Human": "What is the cultural impact of these clubs beyond football?",
+            "AI": "Manchester United, Manchester City, and Liverpool have significant cultural influences beyond football. United and Liverpool have massive global fanbases, with strong followings in Asia and North America. Liverpool's 'You'll Never Walk Alone' is one of football's most iconic anthems, while Manchester City's recent success has transformed its global brand."
+        },
+        {
+            "Human": "How have managers shaped the success of these clubs?",
+            "AI": "Sir Alex Ferguson defined Manchester United's dominance for over two decades, while Pep Guardiola has revolutionized Manchester City's playing style. Liverpool's resurgence under Jurgen Klopp has restored the club's status as a European powerhouse, making these managerial influences a crucial part of their histories."
+        },
+        {
+            "Human": "What role does youth development play in these clubs?",
+            "AI": "Manchester United has a strong history of developing young talent, with its famous 'Class of 92' including David Beckham and Ryan Giggs. Manchester City has heavily invested in its academy in recent years, producing stars like Phil Foden. Liverpool has also relied on its youth system, developing players such as Trent Alexander-Arnold."
+        },
+        {
+            "Human": "How do sponsorships and branding differentiate these clubs?",
+            "AI": "Manchester United has one of the most commercially successful brands in world football, securing major sponsorship deals with Adidas and Chevrolet. Manchester City's branding has expanded significantly under the City Football Group. Liverpool's resurgence has increased its marketability, securing deals with Nike and Standard Chartered."
+        },
+        {
+            "Human": "What is the impact of these clubs on English football as a whole?",
+            "AI": "Manchester United, Manchester City, and Liverpool contribute significantly to the Premier League's global appeal. Their competitive rivalries drive viewership, while their success in European competitions enhances the reputation of English football on the world stage."
+        }
+    ]
+}

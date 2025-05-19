@@ -1,0 +1,509 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What is the brand name of the tissue product?",
+      "options": {
+        "A": "Kleenex",
+        "B": "Tempo",
+        "C": "Vinda",
+        "D": "Scott"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What scent is mentioned on the tissue packaging?",
+      "options": {
+        "A": "Lavender",
+        "B": "Orange Blossom",
+        "C": "Rose",
+        "D": "Lemon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What color is the majority of the tissue packaging?",
+      "options": {
+        "A": "White",
+        "B": "Yellow",
+        "C": "Red",
+        "D": "Blue"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which flower image appears on the packaging?",
+      "options": {
+        "A": "Lily",
+        "B": "Cherry Blossom",
+        "C": "Orange Blossom",
+        "D": "Sunflower"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What feature is emphasized in the text 'UltraStrong'?",
+      "options": {
+        "A": "Tear Resistance",
+        "B": "Scent Quality",
+        "C": "Design",
+        "D": "Color"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following best describes the packaging type?",
+      "options": {
+        "A": "Canister",
+        "B": "Hard Box",
+        "C": "Plastic Pack",
+        "D": "Glass Bottle"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What additional feature is printed near the Vinda logo?",
+      "options": {
+        "A": "Extra Thickness",
+        "B": "UltraStrong",
+        "C": "Super Absorbency",
+        "D": "Cool Touch"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What color are the flower petals shown in the design?",
+      "options": {
+        "A": "White",
+        "B": "Yellow",
+        "C": "Blue",
+        "D": "Pink"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which word appears alongside 'UltraStrong'?",
+      "options": {
+        "A": "Dry",
+        "B": "Soft",
+        "C": "Scented",
+        "D": "Tough"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the primary language used on the packaging?",
+      "options": {
+        "A": "Japanese",
+        "B": "Chinese and English",
+        "C": "French",
+        "D": "Thai"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following functions is directly described on the package?",
+      "options": {
+        "A": "Antibacterial",
+        "B": "Cooling",
+        "C": "Super Absorbency",
+        "D": "Eco-friendly"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What shape is the tissue opening on top of the package?",
+      "options": {
+        "A": "Zipper",
+        "B": "Square cut",
+        "C": "Oval slit",
+        "D": "Pop-cap"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the accent color near the floral design?",
+      "options": {
+        "A": "Red",
+        "B": "Green",
+        "C": "Black",
+        "D": "Brown"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which feature enhances the tissue's durability?",
+      "options": {
+        "A": "UltraSoft",
+        "B": "UltraStrong",
+        "C": "Extra Length",
+        "D": "Scent Free"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What does the scent 'Orange Blossom' suggest?",
+      "options": {
+        "A": "Antibacterial properties",
+        "B": "Citrus freshness",
+        "C": "Minty coolness",
+        "D": "Floral luxury"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Why is 'Super Absorbency' an important feature for tissues?",
+      "options": {
+        "A": "It keeps hands dry faster",
+        "B": "It reduces tearing",
+        "C": "It adds color",
+        "D": "It saves packaging"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why is the color blue likely used on the package?",
+      "options": {
+        "A": "It represents danger",
+        "B": "It symbolizes cleanliness and trust",
+        "C": "It contrasts with the scent",
+        "D": "It is cost-effective"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the likely reason for showing flowers on the package?",
+      "options": {
+        "A": "For decoration only",
+        "B": "To indicate softness",
+        "C": "To communicate scent",
+        "D": "To fill space"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the most prominent printed descriptor of the tissue's strength?",
+      "options": {
+        "A": "Tear-Free",
+        "B": "UltraStrong",
+        "C": "SturdyWeave",
+        "D": "PowerWipe"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is the package semi-transparent in places?",
+      "options": {
+        "A": "To look modern",
+        "B": "To allow viewing remaining tissues",
+        "C": "To reduce cost",
+        "D": "To match with flower"
+      },
+      "correct_answer": "B"
+    },
+  {
+    "question": "What visual design makes the packaging appear fresh and fragrant?",
+    "options": {
+      "A": "Geometric stripes",
+      "B": "Bright flowers and soft color gradients",
+      "C": "Barcode alignment",
+      "D": "Minimal white space"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why might 'UltraStrong' be a critical marketing term for tissues?",
+    "options": {
+      "A": "To differentiate from toilet paper",
+      "B": "To indicate luxury branding",
+      "C": "To emphasize tear resistance and durability",
+      "D": "To describe anti-viral coating"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What functional role does the oval slit opening serve?",
+    "options": {
+      "A": "Improves heat retention",
+      "B": "Makes tearing easier",
+      "C": "Dispenses tissues one at a time efficiently",
+      "D": "Prevents child access"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What feature of the packaging helps consumers verify usage level?",
+    "options": {
+      "A": "Color-changing ink",
+      "B": "QR code tracking",
+      "C": "Transparent side strip",
+      "D": "Weight indicator"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which of the following would best support the claim of being suitable for sensitive skin?",
+    "options": {
+      "A": "Use of bamboo fiber",
+      "B": "UltraStrong label",
+      "C": "Hypoallergenic and soft texture",
+      "D": "Extra size"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is the flower on the package specifically orange blossom?",
+    "options": {
+      "A": "It is a national flower",
+      "B": "It reflects the paper color",
+      "C": "It matches the scented variation",
+      "D": "It’s unrelated and decorative"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What inference can you make from the logo placement at top-left?",
+    "options": {
+      "A": "It's purely decorative",
+      "B": "It matches the layout design balance",
+      "C": "It's where people first look when scanning",
+      "D": "It supports tear control"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is blue an effective background for white branding?",
+    "options": {
+      "A": "It signals discounts",
+      "B": "It repels dirt",
+      "C": "It provides strong visual contrast",
+      "D": "It reduces light reflection"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which feature is implicitly suggested by the term 'UltraStrong'?",
+    "options": {
+      "A": "It dissolves instantly",
+      "B": "It includes fabric softener",
+      "C": "It resists tearing when wet",
+      "D": "It leaves skin dry"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why might flowers and scent be associated in tissue marketing?",
+    "options": {
+      "A": "For allergy testing",
+      "B": "For humidity retention",
+      "C": "To create emotional comfort and sensory appeal",
+      "D": "To reflect medical certification"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is plastic used for packaging this tissue?",
+    "options": {
+      "A": "It is biodegradable",
+      "B": "It’s cheap and protects from moisture",
+      "C": "It makes the scent stronger",
+      "D": "It lets you heat the tissue"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How does the blue color help in visual branding?",
+    "options": {
+      "A": "It shows premium class",
+      "B": "It helps people sleep",
+      "C": "It aligns with calmness and hygiene",
+      "D": "It reflects more light"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "If a user needs durable tissues for travel, which feature would they rely on?",
+    "options": {
+      "A": "Compact package",
+      "B": "Fragrance intensity",
+      "C": "UltraStrong label",
+      "D": "Box color"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What would make this product less suitable for infants?",
+    "options": {
+      "A": "Its size",
+      "B": "Its strong scent might be irritating",
+      "C": "Its blue color",
+      "D": "Its resealable slit"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What practical benefit does the floral artwork provide?",
+    "options": {
+      "A": "It increases resale value",
+      "B": "It distinguishes the product line visually",
+      "C": "It camouflages package wrinkles",
+      "D": "It adds weight"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why is the product labeled with both Chinese and English?",
+    "options": {
+      "A": "To satisfy packaging laws",
+      "B": "To increase export compatibility",
+      "C": "To look more decorative",
+      "D": "To fill empty space"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why is scent mentioned on the front and not the back?",
+    "options": {
+      "A": "It affects expiration",
+      "B": "It’s for design symmetry",
+      "C": "It’s a key selling point that enhances appeal",
+      "D": "It prevents barcode scanning errors"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why would a consumer choose this tissue over an unscented brand?",
+    "options": {
+      "A": "Price only",
+      "B": "Longer sheets",
+      "C": "Fragrance and softness combined",
+      "D": "More colors available"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which design feature would likely improve shelf visibility?",
+    "options": {
+      "A": "Fluorescent logo",
+      "B": "Vertical layout",
+      "C": "Large white brand logo on a blue background",
+      "D": "Flat square shape"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is 'Super Absorbency' useful in facial tissues?",
+    "options": {
+      "A": "To reduce static",
+      "B": "To prevent makeup smudging",
+      "C": "To clean up messes efficiently",
+      "D": "To extend usage time"
+    },
+    "correct_answer": "C"
+  }
+  ],
+  "true_false": [
+  {
+    "question": "The brand name printed on the packaging is 'Vinda'.",
+    "answer": true
+  },
+  {
+    "question": "The tissue is advertised as 'UltraSoft' on the package.",
+    "answer": false
+  },
+  {
+    "question": "The packaging features an image of orange blossom flowers.",
+    "answer": true
+  },
+  {
+    "question": "The tissue is described as having antibacterial properties.",
+    "answer": false
+  },
+  {
+    "question": "The packaging combines both Chinese and English text.",
+    "answer": true
+  },
+  {
+    "question": "The color scheme of the package is predominantly blue and white.",
+    "answer": true
+  },
+  {
+    "question": "There is a transparent section on the package to check tissue quantity.",
+    "answer": true
+  },
+  {
+    "question": "The package uses cardboard as its outer layer.",
+    "answer": false
+  },
+  {
+    "question": "The tissue is scented with 'Orange Blossom'.",
+    "answer": true
+  },
+  {
+    "question": "The words 'Super Absorbency' appear clearly on the front.",
+    "answer": true
+  },
+  {
+    "question": "The flower image has pink petals and a yellow center.",
+    "answer": false
+  },
+  {
+    "question": "The packaging includes the term 'UltraStrong'.",
+    "answer": true
+  },
+  {
+    "question": "The oval slit allows users to easily extract tissues.",
+    "answer": true
+  },
+  {
+    "question": "The scent is mentioned only in Chinese characters.",
+    "answer": false
+  },
+  {
+    "question": "There is no visible logo on the front of the tissue packaging.",
+    "answer": false
+  }
+],
+  "fill_in_the_blank":[
+  {
+    "question": "The brand name of the tissue product is ______.",
+    "answer": "Vinda"
+  },
+  {
+    "question": "The scent mentioned on the package is ______ Blossom.",
+    "answer": "Orange"
+  },
+  {
+    "question": "The packaging design features a ______ background with white flower accents.",
+    "answer": "blue"
+  },
+  {
+    "question": "The tissue is described as ______ Strong for marketing emphasis.",
+    "answer": "Ultra"
+  },
+  {
+    "question": "The words 'Super ______' appear near the center of the packaging.",
+    "answer": "Absorbency"
+  },
+  {
+    "question": "The packaging material is primarily made of clear and printed ______.",
+    "answer": "plastic"
+  },
+  {
+    "question": "The opening at the top of the tissue pack is shaped like an ______.",
+    "answer": "oval"
+  },
+  {
+    "question": "The flower imagery on the packaging helps indicate the ______ of the tissue.",
+    "answer": "scent"
+  },
+  {
+    "question": "Both ______ and English are used in the labeling text.",
+    "answer": "Chinese"
+  },
+  {
+    "question": "The color white is used for the ______ to contrast with the dark blue background.",
+    "answer": "logo"
+  }
+]
+
+}

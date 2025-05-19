@@ -1,0 +1,434 @@
+{
+  "multiple_choice": [
+  {
+    "question": "What is the primary object shown in the images?",
+    "options": {
+      "A": "Octopus card",
+      "B": "Credit card",
+      "C": "Train ticket",
+      "D": "Student ID"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which language is shown on the card along with English?",
+    "options": {
+      "A": "Korean",
+      "B": "Japanese",
+      "C": "Traditional Chinese",
+      "D": "Simplified Chinese"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which shape is prominently shown in the logo design?",
+    "options": {
+      "A": "Infinity",
+      "B": "Circle",
+      "C": "Square",
+      "D": "Triangle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What colors are present in the Octopus card logo?",
+    "options": {
+      "A": "Blue, Orange, Green",
+      "B": "Red, Yellow, Blue",
+      "C": "Green, Pink, Orange",
+      "D": "Black, White, Grey"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Where is the Octopus card commonly used?",
+    "options": {
+      "A": "Tokyo",
+      "B": "Seoul",
+      "C": "Hong Kong",
+      "D": "Shanghai"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What type of card is the Octopus card?",
+    "options": {
+      "A": "Magnetic stripe ID card",
+      "B": "NFC-based contactless smart card",
+      "C": "RFID proximity access card",
+      "D": "Barcoded entry pass"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the shape of the Octopus card?",
+    "options": {
+      "A": "Round",
+      "B": "Square",
+      "C": "Oval",
+      "D": "Rectangular"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "What color is the background of the Octopus card?",
+    "options": {
+      "A": "Grey",
+      "B": "Black",
+      "C": "Blue",
+      "D": "White"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which company issues the Octopus card?",
+    "options": {
+      "A": "MTR Corporation",
+      "B": "Hongkong Post",
+      "C": "Octopus Cards Limited",
+      "D": "Visa"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the main purpose of the Octopus card?",
+    "options": {
+      "A": "Paying school fees",
+      "B": "Public transportation and retail payments",
+      "C": "Unlocking doors",
+      "D": "Student discount verification"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "The '∞'-like symbol on the card suggests what concept?",
+    "options": {
+      "A": "Mobility",
+      "B": "Infinity / Continuity",
+      "C": "Recharge",
+      "D": "Wireless communication"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which card format does the Octopus card follow?",
+    "options": {
+      "A": "Credit card ISO size",
+      "B": "Passport booklet size",
+      "C": "Foldable paper pass",
+      "D": "Keychain token"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "What feature ensures the card's reusability?",
+    "options": {
+      "A": "Battery inside",
+      "B": "Biometric scan",
+      "C": "Rechargeable stored value",
+      "D": "Barcode scanning"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is NFC technology suitable for this card's usage?",
+    "options": {
+      "A": "It stores large files",
+      "B": "It allows fast, contactless interaction",
+      "C": "It requires password authentication",
+      "D": "It allows magnetic swiping"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What kind of surface finish does the card appear to have?",
+    "options": {
+      "A": "Matte",
+      "B": "Transparent",
+      "C": "Glossy",
+      "D": "Textured"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "The curve of the logo resembles which mathematical concept?",
+    "options": {
+      "A": "Pi spiral",
+      "B": "Möbius strip",
+      "C": "Lemniscate",
+      "D": "Circle"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "If someone uses the Octopus card inside an MTR station, it most likely interacts via:",
+    "options": {
+      "A": "Manual swipe",
+      "B": "Voice command",
+      "C": "NFC reader",
+      "D": "QR code scan"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which of the following best describes the portability of the Octopus card?",
+    "options": {
+      "A": "Bulky and thick",
+      "B": "Heavy and rigid",
+      "C": "Compact and lightweight",
+      "D": "Needs external casing"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What information is visibly printed at the lower right of the card?",
+    "options": {
+      "A": "Owner's name",
+      "B": "Card serial code",
+      "C": "Date of issue",
+      "D": "Brand slogan"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "The Octopus card shown appears to be:",
+    "options": {
+      "A": "Damaged and scratched",
+      "B": "Torn in half",
+      "C": "Digitally erased",
+      "D": "Brand new"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Why is the Octopus card ideal for fast-paced environments like public transit?",
+    "options": {
+      "A": "It has a visible clock",
+      "B": "It can be swiped like a magnet card",
+      "C": "It supports quick tap-and-go interaction via NFC",
+      "D": "It stores high-resolution maps"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What does the infinity-shaped logo on the Octopus card symbolize?",
+    "options": {
+      "A": "Scientific research",
+      "B": "Unending usability and freedom of movement",
+      "C": "Looped route stations",
+      "D": "Recycling efficiency"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why would the Octopus card's plastic body be preferable to paper or metal?",
+    "options": {
+      "A": "It is biodegradable",
+      "B": "It is waterproof, flexible, and durable",
+      "C": "It increases RFID signal range",
+      "D": "It improves signal encryption"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How does the presence of both English and Chinese text benefit users?",
+    "options": {
+      "A": "It makes the card stylish",
+      "B": "It complies with branding guidelines",
+      "C": "It serves local and tourist populations in Hong Kong",
+      "D": "It improves QR scan readability"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which design element helps visually reinforce the idea of motion and connectivity?",
+    "options": {
+      "A": "Rectangular border",
+      "B": "Serial code font",
+      "C": "Flowing ribbon-like infinity symbol",
+      "D": "Black background"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why is the Octopus card a better choice than coins for public transport?",
+    "options": {
+      "A": "It glows in the dark",
+      "B": "It cannot be lost",
+      "C": "It eliminates physical currency handling and is faster",
+      "D": "It is required by law"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What does the presence of a unique printed number on the card indicate?",
+    "options": {
+      "A": "It links to the user's biometric data",
+      "B": "It shows version type",
+      "C": "It identifies each card for transaction tracking",
+      "D": "It lists a hotline number"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What role does color play in the Octopus card's branding?",
+    "options": {
+      "A": "Makes the card heat-resistant",
+      "B": "Helps it be used internationally",
+      "C": "Signals function type (e.g. student, adult)",
+      "D": "Enhances brand recognition and visual identity"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question": "Why is an NFC card like Octopus preferred over magnetic stripe cards?",
+    "options": {
+      "A": "It’s cheaper to print",
+      "B": "It is lighter in weight",
+      "C": "It is more secure and less prone to wear",
+      "D": "It has a smaller memory size"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why might scratches on the Octopus card still not affect its function?",
+    "options": {
+      "A": "It has a screen protector",
+      "B": "The important chip and antenna are embedded inside",
+      "C": "It has cloud backup",
+      "D": "It’s self-repairing plastic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What does the rectangular and slim shape of the card enable?",
+    "options": {
+      "A": "Wind resistance",
+      "B": "Easy stacking in wallets and card readers",
+      "C": "RFID jamming",
+      "D": "Grip-enhanced rotation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How can the Octopus card support both human and machine usage?",
+    "options": {
+      "A": "It has a voice chip",
+      "B": "It is touchscreen operated",
+      "C": "It can be tapped at automated gates or handed to staff",
+      "D": "It includes a stylus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why might black be chosen as the background color of the card?",
+    "options": {
+      "A": "To reduce cost of printing",
+      "B": "To contrast and highlight the colorful logo",
+      "C": "To show loyalty program status",
+      "D": "To match subway interiors"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What feature allows the Octopus card to be recharged multiple times?",
+    "options": {
+      "A": "Thin-film battery",
+      "B": "Stored-value memory and linked system",
+      "C": "Magnet strip rewinding",
+      "D": "Touch charging nodes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why is the Octopus card not printed with personal user info?",
+    "options": {
+      "A": "To make it cheaper",
+      "B": "To reduce personalization delay",
+      "C": "To maintain user privacy and ease anonymous use",
+      "D": "To match other card designs"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Why does the Octopus logo appear prominently in the center?",
+    "options": {
+      "A": "To meet legal visibility requirements",
+      "B": "To ensure scanner alignment",
+      "C": "To emphasize brand identity at a glance",
+      "D": "To allow card orientation hints"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What makes the card ideal for elderly users or children?",
+    "options": {
+      "A": "Big text on the back",
+      "B": "Simple tap function with no buttons",
+      "C": "Braille engraving",
+      "D": "Rechargeable battery slot"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How does the Octopus card reduce queue time in metro stations?",
+    "options": {
+      "A": "By showing countdown timers",
+      "B": "Through fast contactless validation",
+      "C": "By disabling low-value cards",
+      "D": "By asking for feedback"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What detail allows the card to be used across various sectors beyond transport?",
+    "options": {
+      "A": "Its color design",
+      "B": "Its strong branding",
+      "C": "Its NFC and centralized backend system",
+      "D": "Its rectangular shape"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "If someone lost their card, what can be inferred about data loss?",
+    "options": {
+      "A": "All funds are immediately lost",
+      "B": "The card tracks location",
+      "C": "Funds may be recoverable if the card is registered",
+      "D": "The card is GPS enabled"
+    },
+    "correct_answer": "C"
+  }
+],
+    "true_false":[
+  { "question": "The Octopus card has a curved logo resembling an infinity loop.", "answer": "True" },
+  { "question": "The Octopus card contains visible printed text in both English and Chinese.", "answer": "True" },
+  { "question": "The primary background color of the card is red.", "answer": "False" },
+  { "question": "Octopus cards are generally used in Seoul’s transportation system.", "answer": "False" },
+  { "question": "The card shows signs of surface scratches.", "answer": "True" },
+  { "question": "The logo consists only of orange and red colors.", "answer": "False" },
+  { "question": "The card format matches typical credit card dimensions.", "answer": "True" },
+  { "question": "There is no English word visible on the Octopus card.", "answer": "False" },
+  { "question": "Octopus cards can only be used for train rides.", "answer": "False" },
+  { "question": "The card features NFC-based technology.", "answer": "True" },
+  { "question": "The logo design includes geometric symmetry.", "answer": "True" },
+  { "question": "The Octopus card has a metallic edge visible on all sides.", "answer": "False" },
+  { "question": "The serial code is found on the bottom right corner of the card.", "answer": "True" },
+  { "question": "The card's primary utility is payment.", "answer": "True" },
+  { "question": "The Octopus card includes biometric verification for security.", "answer": "False" }
+],
+  "fill_in_the_blank":[
+  { "question": "The Octopus card is commonly used in ______.", "answer": "Hong Kong" },
+  { "question": "The card features a logo that resembles the symbol for ______.", "answer": "infinity" },
+  { "question": "The Octopus card supports ______ transactions through NFC.", "answer": "contactless" },
+  { "question": "The three colors visible in the Octopus card logo are orange, blue, and ______.", "answer": "green" },
+  { "question": "The surface of the card appears to be ______.", "answer": "glossy" },
+  { "question": "The Octopus card is printed with both English and ______ characters.", "answer": "Chinese" },
+  { "question": "A serial number is located at the ______ corner of the card.", "answer": "bottom right" },
+  { "question": "The Octopus card is typically the size of a ______ card.", "answer": "credit" },
+  { "question": "The material of the card is likely to be ______ plastic.", "answer": "rigid" },
+  { "question": "The Octopus card is issued by ______ Cards Limited.", "answer": "Octopus" }
+]
+
+}

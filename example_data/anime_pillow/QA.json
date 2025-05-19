@@ -1,0 +1,411 @@
+{
+  "multiple_choice": [
+    {
+      "question",
+      :
+      "Who is the character illustrated on the pillow?",
+      "options": {
+        "A": "Nezuko Kamado",
+        "B": "Umaru Doma",
+        "C": "Kagura",
+        "D": "Shinobu"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What anime is the character from?",
+      "options": {
+        "A": "Attack on Titan",
+        "B": "Spy x Family",
+        "C": "Himouto! Umaru-chan",
+        "D": "K-On!"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What color dominates the pillow’s cover?",
+      "options": {
+        "A": "Blue",
+        "B": "Orange",
+        "C": "Pink",
+        "D": "Green"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is Umaru depicted as doing on the pillow?",
+      "options": {
+        "A": "Studying",
+        "B": "Eating snacks",
+        "C": "Sleeping with a bubble on her nose",
+        "D": "Gaming"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What shape is the pillow?",
+      "options": {
+        "A": "Cylindrical",
+        "B": "Rectangular",
+        "C": "Round/Oval",
+        "D": "Heart-shaped"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which accessory appears on Umaru's head?",
+      "options": {
+        "A": "Cat ears",
+        "B": "Hairpin",
+        "C": "A hoodie hood",
+        "D": "Glasses"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which expression best describes Umaru’s face on the pillow?",
+      "options": {
+        "A": "Serious and focused",
+        "B": "Tearful and angry",
+        "C": "Sleepy and relaxed",
+        "D": "Laughing loudly"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What facial detail shows she is asleep?",
+      "options": {
+        "A": "Red cheeks",
+        "B": "Drool",
+        "C": "Sleep bubble",
+        "D": "Glowing eyes"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What clothing is illustrated on the pillow?",
+      "options": {
+        "A": "School uniform",
+        "B": "Blanket hoodie",
+        "C": "Battle armor",
+        "D": "Swimsuit"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What texture is implied by the surface of the pillow?",
+      "options": {
+        "A": "Hard plastic",
+        "B": "Glossy metal",
+        "C": "Soft fabric",
+        "D": "Wood"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why might the pillow appeal specifically to fans of the anime?",
+      "options": {
+        "A": "It features real fur",
+        "B": "It shows Umaru in her iconic lazy home mode",
+        "C": "It includes full manga chapters inside",
+        "D": "It transforms shape with remote"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What does the sleeping bubble suggest about Umaru's personality?",
+      "options": {
+        "A": "She is energetic and hyperactive",
+        "B": "She is diligent and organized",
+        "C": "She is playful and carefree in private",
+        "D": "She is shy and anxious"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following elements reinforces the pillow’s theme of relaxation?",
+      "options": {
+        "A": "Bold lettering",
+        "B": "Sharp angles and texture",
+        "C": "Sleepy face and soft shape",
+        "D": "Standing posture"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How does the pillow reflect duality in Umaru’s character?",
+      "options": {
+        "A": "It shows her as both cheerful and angry",
+        "B": "It displays her indoor lazy persona distinct from her public model-student self",
+        "C": "It mixes her with another anime character",
+        "D": "It presents her as a robot"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which material would best preserve the printed illustration long-term?",
+      "options": {
+        "A": "Cotton",
+        "B": "Fleece",
+        "C": "Polyester with heat-transfer print",
+        "D": "Wool with hand-stitched face"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which aspect of the pillow is likely to fade if exposed to direct sunlight?",
+      "options": {
+        "A": "The air inside",
+        "B": "The color of the print",
+        "C": "The zipper",
+        "D": "The texture of the filler"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What might the compact, round shape suggest about its intended use?",
+      "options": {
+        "A": "It’s a wall decoration",
+        "B": "It’s a travel or comfort pillow",
+        "C": "It stores other anime merchandise",
+        "D": "It is a sleeping mat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why might the pillow be considered a form of emotional support?",
+      "options": {
+        "A": "It glows in the dark",
+        "B": "It contains electronics",
+        "C": "Its softness and character provide familiar comfort",
+        "D": "It speaks lines from the show"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is the face printed on the curved surface effective?",
+      "options": {
+        "A": "It amplifies shadows for realism",
+        "B": "It allows dynamic stretching of expression",
+        "C": "It simulates depth and plush cuteness",
+        "D": "It prevents wear from touch"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which detail signifies this pillow was likely designed for indoor leisure settings?",
+      "options": {
+        "A": "Light-reactive paint",
+        "B": "Soft textures and sleepy character expression",
+        "C": "Velcro sides for stacking",
+        "D": "Grip-enhanced rubber base"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "How does the overall visual design emphasize humor?",
+      "options": {
+        "A": "Exaggerated sleeping bubble and derpy expression",
+        "B": "Hyper-realistic shading",
+        "C": "Multiple contrasting layers",
+        "D": "Use of grayscale filters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following describes the primary artistic style of the print?",
+      "options": {
+        "A": "Chibi exaggeration",
+        "B": "Realist painting",
+        "C": "3D rendering",
+        "D": "Photographic overlay"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why is this type of character pose chosen for merchandise?",
+      "options": {
+        "A": "It reflects high drama",
+        "B": "It emphasizes relaxation and fan attachment",
+        "C": "It mimics transformation scenes",
+        "D": "It is meant to confuse viewers"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is the blue bubble important in conveying mood?",
+      "options": {
+        "A": "It signals embarrassment",
+        "B": "It implies deep sleep and detachment",
+        "C": "It means she is angry",
+        "D": "It tracks room temperature"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What distinguishes this from a generic orange pillow?",
+      "options": {
+        "A": "Its fluffy core",
+        "B": "Its circular geometry",
+        "C": "Its licensed anime character print and face expression",
+        "D": "Its removable shell"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How does the exaggerated proportion of the pillow enhance its function as an emotional support item?",
+      "options": {
+        "A": "It makes it more durable in washing machines",
+        "B": "It allows users to sleep on it like a body pillow despite its size",
+        "C": "It mimics the visual softness of the character in plush form",
+        "D": "It enhances digital recognition in AR applications"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "How does the character design reinforce parasocial attachment?",
+      "options": {
+        "A": "Through branding on the back",
+        "B": "By portraying relatable homebody behavior",
+        "C": "By including product ID tags",
+        "D": "Via encrypted audio messages"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why might this pillow be especially popular in certain fan demographics?",
+      "options": {
+        "A": "It displays romantic gestures",
+        "B": "It aligns with 'moe' culture that emphasizes vulnerability and cuteness",
+        "C": "It has hidden compartments",
+        "D": "It plays a theme song"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What does the use of a sleep bubble, drool, and blanket suggest symbolically?",
+      "options": {
+        "A": "The need for stealth and secrecy",
+        "B": "A cultural ideal of lazy comfort and domestic life",
+        "C": "High alertness",
+        "D": "Futuristic gaming mode"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "In merchandising, what principle does this pillow exemplify?",
+      "options": {
+        "A": "Cross-property bundling",
+        "B": "Ambient empathy embedding",
+        "C": "Character branding through passive lifestyle items",
+        "D": "AR-first product linking"
+      },
+      "correct_answer": "C"
+    }
+  ],
+  "true_or_false": [
+    {
+      "question": "The character on the pillow is Umaru Doma from 'Himouto! Umaru-chan'.",
+      "answer": true
+    },
+    {
+      "question": "The pillow shows Umaru in a sleeping pose.",
+      "answer": true
+    },
+    {
+      "question": "The pillow has a circular or oval shape.",
+      "answer": true
+    },
+    {
+      "question": "The dominant color of the pillow is blue.",
+      "answer": false
+    },
+    {
+      "question": "Umaru is wearing her signature hoodie on the pillow.",
+      "answer": true
+    },
+    {
+      "question": "The blue bubble near Umaru’s face suggests she is focused on studying.",
+      "answer": false
+    },
+    {
+      "question": "The pillow combines softness and visual familiarity to enhance parasocial comfort.",
+      "answer": true
+    },
+    {
+      "question": "This pillow's design reflects both fan service and a commentary on work-life balance.",
+      "answer": true
+    },
+    {
+      "question": "Umaru's lazy pose on the pillow contrasts her 'outside' identity as a perfect student.",
+      "answer": true
+    },
+    {
+      "question": "The sleeping position and bubble are commonly used anime symbols for embarrassment.",
+      "answer": false
+    },
+    {
+      "question": "The pillow is shaped this way to emphasize motion and kinetic energy.",
+      "answer": false
+    },
+    {
+      "question": "The product likely targets a demographic interested in domestic relaxation themes.",
+      "answer": true
+    },
+    {
+      "question": "The face design on the pillow follows a photorealistic art style.",
+      "answer": false
+    },
+    {
+      "question": "The pillow relies on non-verbal elements (like expression and pose) to convey its emotional context.",
+      "answer": true
+    },
+    {
+      "question": "This pillow design emphasizes formal elegance over casual humor.",
+      "answer": false
+    }
+  ],
+    "fill_in_the_blank": [
+  {
+    "question": "The anime character printed on the pillow is ______.",
+    "answer": "Umaru Doma"
+  },
+  {
+    "question": "The shape of the pillow is mostly ______.",
+    "answer": "circular"
+  },
+  {
+    "question": "The facial bubble in anime usually indicates that the character is ______.",
+    "answer": "asleep"
+  },
+  {
+    "question": "Umaru is known for wearing an orange ______ at home.",
+    "answer": "hoodie"
+  },
+  {
+    "question": "The overall color scheme of the pillow is ______ and white.",
+    "answer": "orange"
+  },
+  {
+    "question": "The pillow conveys domestic comfort by combining a soft shape and a character in a ______ pose.",
+    "answer": "sleeping"
+  },
+  {
+    "question": "The character’s closed eyes and rounded form are designed to evoke ______ in the viewer.",
+    "answer": "relaxation"
+  },
+  {
+    "question": "The pillow uses a curved surface to enhance the illusion of ______ expression.",
+    "answer": "plush (or soft)"
+  },
+  {
+    "question": "In anime merchandise design, round items like this often reinforce themes of ______ and approachability.",
+    "answer": "cuteness"
+  },
+  {
+    "question": "The combination of printed emotion and physical comfort builds a form of ______ attachment.",
+    "answer": "parasocial"
+  }
+]
+
+}

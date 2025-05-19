@@ -1,0 +1,295 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What is the primary function of the power plug adapter?",
+      "options": {
+        "A": "Convert electricity from AC to DC",
+        "B": "Allow connection of electrical devices to different socket types",
+        "C": "Provide surge protection",
+        "D": "Enhance the power output"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the predominant color of the power plug adapter?",
+      "options": {
+        "A": "Black",
+        "B": "White",
+        "C": "Grey",
+        "D": "Transparent"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What material is primarily used for the power plug adapter's casing?",
+      "options": {
+        "A": "Metal",
+        "B": "Glass",
+        "C": "Plastic",
+        "D": "Rubber"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the typical size of the power plug adapter?",
+      "options": {
+        "A": "10 inches in length",
+        "B": "2 to 3 inches in length and about 1 inch in width",
+        "C": "6 inches in width",
+        "D": "12 inches in height"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following power sockets is NOT commonly supported by the adapter?",
+      "options": {
+        "A": "European type",
+        "B": "UK type",
+        "C": "US type",
+        "D": "Industrial high-voltage socket"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "The power plug adapter is most useful for:",
+      "options": {
+        "A": "Charging devices faster",
+        "B": "Travelers connecting devices in different countries",
+        "C": "Providing additional power supply",
+        "D": "Reducing electricity consumption"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What kind of electrical devices can be safely connected using this adapter?",
+      "options": {
+        "A": "Phones, laptops, and tablets",
+        "B": "Refrigerators and air conditioners",
+        "C": "Industrial machines",
+        "D": "High-powered kitchen appliances"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following is NOT a feature of the power plug adapter?",
+      "options": {
+        "A": "Compact and portable design",
+        "B": "Built-in surge protection",
+        "C": "Heat-resistant plastic material",
+        "D": "Universal plug compatibility"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What makes this power plug adapter ideal for travel?",
+      "options": {
+        "A": "It is waterproof",
+        "B": "It is lightweight and supports multiple plug types",
+        "C": "It extends the lifespan of devices",
+        "D": "It increases voltage supply"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is one limitation of this power plug adapter?",
+      "options": {
+        "A": "It does not work with high-power devices",
+        "B": "It can only be used in one country",
+        "C": "It requires an additional converter for all devices",
+        "D": "It is not portable"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why might the adapter labeled <belt> not be ideal for use with a hairdryer or space heater?",
+      "options": {
+        "A": "It only supports European plugs",
+        "B": "Its internal fuse resets too frequently",
+        "C": "Its wattage limit is insufficient for high-power appliances",
+        "D": "It cannot transmit alternating current (AC)"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What aspect of <belt>'s design suggests it's optimized for international travelers?",
+      "options": {
+        "A": "It includes a built-in voltage converter",
+        "B": "It supports multiple plug standards through universal socket slots",
+        "C": "It features retractable prongs",
+        "D": "It’s designed to store multiple currencies"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What design trait helps ensure <belt> remains safe during prolonged use?",
+      "options": {
+        "A": "Its ability to change voltage",
+        "B": "The flame-retardant plastic casing",
+        "C": "The absence of any internal wiring",
+        "D": "Its metal housing dissipates heat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is it recommended to pair <belt> with a surge protector for some environments?",
+      "options": {
+        "A": "Because it blocks USB charging",
+        "B": "Because <belt> lacks built-in voltage or surge protection",
+        "C": "Because it doesn't allow any device grounding",
+        "D": "Because it's made of aluminum alloy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which feature most likely makes <belt> unsuitable for hospital-grade equipment?",
+      "options": {
+        "A": "Lack of waterproof coating",
+        "B": "Lack of medical-grade certifications and plug support",
+        "C": "Rounded corners instead of reinforced square casing",
+        "D": "Too small for bedside racks"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What does the presence of both two-pin and three-pin input slots on <belt> imply?",
+      "options": {
+        "A": "It supports multi-voltage appliances only",
+        "B": "It can be used in vehicles",
+        "C": "It can receive both grounded and ungrounded plugs",
+        "D": "It charges itself"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "If a user plugs a device with a European plug into <belt> while in the U.S., what happens?",
+      "options": {
+        "A": "The adapter blocks incompatible power input",
+        "B": "The device receives physical compatibility, but voltage compatibility still needs to be confirmed",
+        "C": "The device will be boosted to U.S. voltage automatically",
+        "D": "The plug melts due to conversion overload"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What about <belt> implies it is intended for personal devices more than industrial machinery?",
+      "options": {
+        "A": "Its labeling in Japanese only",
+        "B": "Its limited amperage rating and compact size",
+        "C": "It lacks a power LED",
+        "D": "Its integrated circuit breaker"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why does <belt> require user verification before use with some devices?",
+      "options": {
+        "A": "To confirm voltage and current compatibility of the connected device",
+        "B": "To initialize its smart chip",
+        "C": "To ensure data logging syncs with cloud storage",
+        "D": "To prevent theft"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What structural feature suggests <belt> is region-specific for socket output?",
+      "options": {
+        "A": "It only includes USB ports",
+        "B": "The prongs on the bottom are fixed and shaped for a specific socket standard",
+        "C": "The internal chip reads grid frequency",
+        "D": "It has wireless power output"
+      },
+      "correct_answer": "B"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "question": "The power plug adapter is designed to connect electrical devices to different types of ___.",
+      "answer": "power outlets"
+    },
+    {
+      "question": "The main material used in the adapter is ___, which is both durable and heat-resistant.",
+      "answer": "plastic"
+    },
+    {
+      "question": "The adapter is especially useful for ___, who travel to different regions with varying power outlet standards.",
+      "answer": "travelers"
+    },
+    {
+      "question": "One drawback of this adapter is that it does not include ___, which protects devices from sudden voltage spikes.",
+      "answer": "surge protection"
+    },
+    {
+      "question": "The adapter is ___ in size, making it easy to carry in a travel bag.",
+      "answer": "compact"
+    },
+    {
+      "question": "<belt> is particularly effective for connecting two-pin and three-pin plugs because it includes ______ input slots.",
+      "answer": "universal"
+    },
+    {
+      "question": "Although <belt> supports many plug shapes, it does not change voltage, so users must verify ______ compatibility before use.",
+      "answer": "voltage"
+    },
+    {
+      "question": "The material used for <belt>'s casing is ______-resistant plastic, which increases safety during prolonged electrical use.",
+      "answer": "heat"
+    },
+    {
+      "question": "<belt> offers wide regional plug compatibility, but its ______ prongs limit where it can be directly plugged in.",
+      "answer": "fixed"
+    },
+    {
+      "question": "Because <belt> does not include surge protection, users should pair it with a dedicated ______ protector when traveling.",
+      "answer": "surge"
+    }
+
+  ],
+  "true_false": [
+    {
+      "question": "The power plug adapter is compatible with all types of plugs worldwide.",
+      "answer": false
+    },
+    {
+      "question": "The adapter is made of heat-resistant plastic, ensuring safety and durability.",
+      "answer": true
+    },
+    {
+      "question": "It is designed to handle high-power devices like air conditioners and refrigerators.",
+      "answer": false
+    },
+    {
+      "question": "The adapter is primarily used for converting voltage between different electrical systems.",
+      "answer": false
+    },
+    {
+      "question": "The compact and lightweight design of the adapter makes it ideal for travel purposes.",
+      "answer": true
+    },
+    {
+      "question": "<belt> can safely convert voltage levels between countries with different power standards.",
+      "answer": false
+    },
+    {
+      "question": "The compact rectangular shape of <belt> enhances both portability and compatibility with wall sockets.",
+      "answer": true
+    },
+    {
+      "question": "<belt> supports a fixed output prong design, which limits where it can be plugged in directly.",
+      "answer": true
+    },
+    {
+      "question": "All industrial and medical-grade plugs are compatible with <belt> due to its universal input slots.",
+      "answer": false
+    },
+    {
+      "question": "<belt> is ideal for use with both grounded and ungrounded devices due to its internal slot configuration.",
+      "answer": true
+    }
+  ],
+  "essay": [
+    {
+      "question": "Describe the importance of a universal power plug adapter for international travelers. What features should a good travel adapter include, and what are its limitations?",
+      "answer": "A universal power plug adapter is an essential tool for travelers who visit different countries with varying electrical socket types. The primary purpose of a travel adapter is to allow devices from one region to be plugged into outlets of another region. An ideal adapter should be compact, lightweight, and support multiple plug types for maximum compatibility. It should also include safety features such as heat-resistant plastic, a secure connection mechanism, and optional surge protection. However, a limitation of such adapters is that they do not convert voltage, meaning users must check whether their devices support dual-voltage before use. Additionally, some high-powered devices like hairdryers and microwaves may not be compatible with these adapters, requiring additional converters or transformers."
+    }
+  ]
+}

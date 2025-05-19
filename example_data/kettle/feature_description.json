@@ -1,0 +1,1402 @@
+{
+    "./yollava-data/train/kettle/0.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/1.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/2.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/3.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/4.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/5.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/6.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/7.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/8.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/9.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/10.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/11.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/12.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/13.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/14.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/15.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/16.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/17.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/18.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ],
+    "./yollava-data/train/kettle/19.png": [
+        {
+            "Human": "What objects are in <kettle>?",
+            "AI": "By analyzing the image, the primary object is an electric kettle. Several key features confirm this: it has a sturdy handle, a power cord, a heating base, and a lid, which are all typical components of a kettle used for boiling water. The presence of condensation or water stains on the lid further suggests its frequent use for heating liquids. Given these observations, <kettle> is an electric kettle."
+        },
+        {
+            "Human": "What is the color of <kettle>?",
+            "AI": "The kettle is predominantly black, which is evident from its overall appearance. The black color gives it a sleek, modern look and is commonly used for appliances due to its ability to conceal minor stains or fingerprints. The glossy surface also reflects light, making the black appear more polished. Thus, <kettle> is black."
+        },
+        {
+            "Human": "What is the shape of <kettle>?",
+            "AI": "The kettle is cylindrical in shape, which is the most efficient form for heating water evenly. A cylinder allows maximum water capacity while ensuring uniform heat distribution from the heating base to the top. The slightly tapered lid and the ergonomic handle complement its cylindrical design for ease of use. Thus, <kettle> is cylindrical."
+        },
+        {
+            "Human": "What is the size of <kettle>?",
+            "AI": "Based on proportional analysis relative to surrounding objects, the kettle appears to be of medium size. It is large enough to hold a significant amount of water but compact enough for kitchen countertops without occupying excessive space. This balance makes it suitable for personal and family use. Thus, <kettle> is medium-sized."
+        },
+        {
+            "Human": "What is the feature of <kettle>?",
+            "AI": "One noticeable feature of the kettle is its glossy reflective surface. The reflection seen on the body, including the photographer's image, indicates that the surface is smooth and polished, likely made of stainless steel or high-gloss plastic. This reflective finish enhances its aesthetic appeal and makes it easier to clean. Additionally, the lid has condensation, implying recent use. Thus, <kettle> has a glossy reflective surface and a condensation-prone lid."
+        },
+        {
+            "Human": "What is the function of <kettle>?",
+            "AI": "The primary function of the kettle is to boil water efficiently. It has an electrical heating element that rapidly raises the temperature of the liquid inside, making it suitable for preparing tea, coffee, or instant meals. The presence of a power cord confirms its dependency on electricity for operation. Thus, <kettle> is used to boil water."
+        },
+        {
+            "Human": "What is the brand of <kettle>?",
+            "AI": "The brand name 'PHILIPS' is visibly printed on the body of the kettle, confirming that it is manufactured by Philips. Philips is a globally recognized brand known for producing high-quality electronic appliances, including kitchen gadgets. The branding reinforces the product\u9225\u6a9a credibility and reliability. Thus, <kettle> is a Philips kettle."
+        },
+        {
+            "Human": "Is <kettle> now working?",
+            "AI": "There are no visible signs of operation in the image. The indicator light is off, and there is no visible steam escaping from the lid or spout. The power cord is loosely placed, indicating that it is not plugged in at the moment. Given these observations, <kettle> is not currently working."
+        },
+        {
+            "Human": "What is the condition of <kettle>?",
+            "AI": "The kettle appears to be in good condition. There are no visible cracks, dents, or signs of significant wear and tear. The handle and lid are intact, and there are no apparent leaks. The exterior is clean, indicating that it has been well-maintained. Thus, <kettle> is in good condition."
+        },
+        {
+            "Human": "What is the power source of <kettle>?",
+            "AI": "The presence of a visible power cord confirms that the kettle is powered by electricity. Unlike stovetop kettles, which rely on direct heat sources, this model has an internal heating element that activates when plugged in. Thus, <kettle> is powered by electricity."
+        },
+        {
+            "Human": "What is the handle material of <kettle>?",
+            "AI": "The handle appears to be made of plastic, specifically heat-resistant plastic. This material choice is intentional to prevent heat transfer, ensuring that users can safely grip the handle without burning their hands. The ergonomic design of the handle further enhances user comfort. Thus, <kettle> has a plastic handle designed for heat insulation."
+        },
+        {
+            "Human": "Does <kettle> have a lid?",
+            "AI": "Yes, <kettle> has a lid, which serves to retain heat and prevent water from splashing out during boiling. The lid is securely attached and appears to have a mechanism for easy opening, likely via a push-button release. This design enhances convenience and safety. Thus, <kettle> has a securely attached lid with an easy-open mechanism."
+        },
+        {
+            "Human": "Is <kettle> cordless?",
+            "AI": "No, <kettle> is not cordless. The power cord is visible, indicating that it must be connected to an electrical outlet to function. Unlike some cordless models that have a detachable heating base, this kettle appears to have an integrated power connection. Thus, <kettle> is not cordless."
+        },
+        {
+            "Human": "Is <kettle> insulated?",
+            "AI": "The kettle appears to be insulated, as indicated by its design. The outer layer does not show excessive heat discoloration, and the handle remains distinct from the heated body. This suggests that it is built with double-walled construction or an insulated outer layer to retain heat while keeping the exterior safe to touch. Thus, <kettle> is insulated."
+        },
+        {
+            "Human": "Is <kettle> easy to clean?",
+            "AI": "The smooth and glossy surface suggests that <kettle> is easy to clean. The absence of intricate grooves or exposed wiring means that wiping down the exterior requires minimal effort. The removable lid also facilitates cleaning the interior. Thus, <kettle> is easy to clean."
+        },
+        {
+            "Human": "Does <kettle> have a spout?",
+            "AI": "Yes, <kettle> has a spout designed for precise pouring. The spout allows users to control the water flow, reducing the chances of spills. The spout design also suggests an anti-drip feature, ensuring a clean and efficient pouring experience. Thus, <kettle> has a well-designed spout for controlled pouring."
+        },
+        {
+            "Human": "Does <kettle> have an automatic shutoff function?",
+            "AI": "Most modern electric kettles, especially those from reputable brands like Philips, come with an automatic shutoff feature for safety. Although it is not explicitly visible in the image, the presence of a power button and its standard build strongly indicate this functionality. This feature prevents overheating and conserves energy. Thus, <kettle> likely has an automatic shutoff function."
+        }
+    ]
+}

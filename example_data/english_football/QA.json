@@ -1,0 +1,486 @@
+{
+  "multiple_choice": [
+    {
+      "question": "Which of the following statements is correct?",
+        "options": {
+            "A": "The FA is responsible for overseeing club football and the England National Team.",
+            "B": "Manchester United and Manchester City share a historic rivalry known as the Manchester Derby.",
+            "C": "Liverpool and Manchester United have no historical rivalry.",
+            "D": "The FA has complete ownership of the Premier League."
+        },
+        "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following statements is correct?",
+      "options": {
+        "A": "The Premier League is directly owned by The Football Association (FA).",
+        "B": "Manchester United and Manchester City are historic rivals in the Manchester Derby.",
+        "C": "Liverpool and Manchester City share the same stadium.",
+        "D": "The FA does not regulate international competitions."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following statements correctly describes the relationship between Manchester United and Liverpool?",
+      "options": {
+        "A": "They have a strong historical rivalry due to their dominance in English football.",
+        "B": "They have no significant competitive history.",
+        "C": "They frequently share players between their squads.",
+        "D": "Liverpool was originally part of Manchester United."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following clubs is NOT a direct rival of Manchester United?",
+      "options": {
+        "A": "Liverpool",
+        "B": "Manchester City",
+        "C": "Chelsea",
+        "D": "Real Madrid"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which of the following is true about The FA's role in the Premier League?",
+      "options": {
+        "A": "The FA has no influence over the Premier League.",
+        "B": "The FA regulates league rules but does not manage business operations.",
+        "C": "The FA owns and operates the Premier League directly.",
+        "D": "The FA only manages international tournaments and not club football."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following statements is correct?",
+      "options": {
+        "A": "Manchester United and Manchester City were founded in the same year.",
+        "B": "The Manchester Derby is played between Manchester United and Manchester City.",
+        "C": "Liverpool and Manchester City have no rivalry in the Premier League.",
+        "D": "The FA Cup is only for international teams."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following correctly describes Manchester City’s rise in English football?",
+      "options": {
+        "A": "Manchester City has always been the dominant force in English football.",
+        "B": "Manchester City’s recent success is largely attributed to new financial investments.",
+        "C": "Manchester City and Manchester United have never played in the same league.",
+        "D": "Manchester City and Liverpool were founded by the same organization."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following statements about Liverpool is correct?",
+      "options": {
+        "A": "Liverpool's biggest historical rival is Arsenal.",
+        "B": "Liverpool's 'You'll Never Walk Alone' anthem is unrelated to its identity.",
+        "C": "Liverpool has a strong rivalry with Manchester United due to their history and title dominance.",
+        "D": "Liverpool and Manchester City were founded in the same year."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following statements correctly describes the role of The FA?",
+      "options": {
+        "A": "The FA is responsible for both club football and the England National Team.",
+        "B": "The FA only manages youth football and amateur leagues.",
+        "C": "The FA is the primary governing body of UEFA.",
+        "D": "The FA does not influence football regulations in England."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following correctly describes the rivalry between Liverpool and Manchester City?",
+      "options": {
+        "A": "Liverpool and Manchester City have become title contenders in modern Premier League seasons.",
+        "B": "Liverpool and Manchester City have no football rivalry.",
+        "C": "Liverpool and Manchester City share the same ownership.",
+        "D": "Liverpool and Manchester City were once part of the same club."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following is true regarding the relationship between Manchester United and The FA?",
+      "options": {
+        "A": "The FA regulates Manchester United under English football rules.",
+        "B": "The FA does not manage club football.",
+        "C": "Manchester United is owned by The FA.",
+        "D": "The FA only manages teams outside the Premier League."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following describes the relationship between the Premier League and The FA?",
+      "options": {
+        "A": "The Premier League operates independently, but The FA regulates its rules.",
+        "B": "The FA fully owns the Premier League.",
+        "C": "The FA has no authority over the Premier League.",
+        "D": "The Premier League is governed solely by UEFA."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following is true about Manchester United and Manchester City?",
+      "options": {
+        "A": "Both clubs are based in Manchester and are rivals in the Manchester Derby.",
+        "B": "Manchester United and Manchester City have always played in separate leagues.",
+        "C": "Manchester United and Manchester City share the same ownership.",
+        "D": "Manchester City was formed as a youth academy of Manchester United."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following statements about The FA and England National Team is correct?",
+      "options": {
+        "A": "The FA manages and governs the England National Team.",
+        "B": "The FA does not have authority over the England National Team.",
+        "C": "The Premier League selects the England National Team players.",
+        "D": "The FA only governs club football."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following correctly describes the relationship between Manchester United and Liverpool?",
+      "options": {
+        "A": "They are historic rivals due to their long-standing competition for English football dominance.",
+        "B": "Manchester United and Liverpool have always been friendly clubs.",
+        "C": "Liverpool was formed as a part of Manchester United.",
+        "D": "They compete in different leagues and have never played against each other."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which organization governs the England National Football Team?",
+      "options": {
+        "A": "Premier League",
+        "B": "UEFA",
+        "C": "The Football Association (FA)",
+        "D": "FIFA"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What symbol is featured on the England National Football Team emblem?",
+      "options": {
+        "A": "A red lion",
+        "B": "Three blue lions with red roses",
+        "C": "A ship and a trident",
+        "D": "A Liverbird"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following clubs is NOT a part of the Premier League?",
+      "options": {
+        "A": "Manchester United",
+        "B": "Liverpool",
+        "C": "Manchester City",
+        "D": "Real Madrid"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What does the Manchester United logo feature?",
+      "options": {
+        "A": "A Liverbird",
+        "B": "A blue lion",
+        "C": "A red devil holding a trident",
+        "D": "A roaring tiger"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which football club has a logo with a circular blue crest, a ship, and a red rose?",
+      "options": {
+        "A": "Manchester United",
+        "B": "Manchester City",
+        "C": "NO club",
+        "D": "Chelsea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which football club has the motto 'You'll Never Walk Alone'?",
+      "options": {
+        "A": "Manchester United",
+        "B": "Liverpool",
+        "C": "Manchester City",
+        "D": "Chelsea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What color is the lion in the Premier League emblem?",
+      "options": {
+        "A": "Red",
+        "B": "Purple",
+        "C": "Green",
+        "D": "There is no lion"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the historical significance of the ship symbol in Manchester United and Manchester City's logos?",
+      "options": {
+        "A": "It has no relation to the history",
+        "B": "It symbolizes their connection to industrial trade",
+        "C": "It signifies Manchester's old naval base",
+        "D": "It was randomly chosen for aesthetic purposes"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following teams is NOT based in Manchester?",
+      "options": {
+        "A": "Manchester United",
+        "B": "Liverpool",
+        "C": "Manchester City",
+        "D": "None of the above"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the relationship between The Football Association (FA) and the England National Football Team?",
+      "options": {
+        "A": "The FA manages and governs the national team",
+        "B": "The FA is a rival to the England National Team",
+        "C": "The FA only regulates club football",
+        "D": "The FA has no authority over the national team"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which club's emblem features a Liverbird?",
+      "options": {
+        "A": "Manchester United",
+        "B": "Liverpool",
+        "C": "Manchester City",
+        "D": "Chelsea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the primary reason for the intense rivalry between Manchester United and Liverpool?",
+      "options": {
+        "A": "They have good relations",
+        "B": "They are competing for historical dominance in English football",
+        "C": "They were founded by the same group",
+        "D": "They share the same stadium"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which club's emblem contains a red crest with a trident-wielding figure?",
+      "options": {
+        "A": "Manchester United",
+        "B": "Liverpool",
+        "C": "Manchester City",
+        "D": "Arsenal"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the role of The FA in the Premier League?",
+      "options": {
+        "A": "It governs all match rules and oversees referees",
+        "B": "It owns the Premier League",
+        "C": "It has no connection to the Premier League",
+        "D": "It manages only international competitions"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which club's logo includes a devil holding a trident?",
+      "options": {
+        "A": "Manchester United",
+        "B": "Liverpool",
+        "C": "Manchester City",
+        "D": "Chelsea"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which organization oversees the rules and regulations of English football?",
+      "options": {
+        "A": "The Premier League",
+        "B": "UEFA",
+        "C": "The Football Association (FA)",
+        "D": "FIFA"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the governing body of the England National Football Team?",
+      "options": {
+        "A": "Premier League",
+        "B": "UEFA",
+        "C": "The Football Association (FA)",
+        "D": "FIFA"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which entity has the authority to regulate the Premier League?",
+      "options": {
+        "A": "UEFA",
+        "B": "The Football Association (FA)",
+        "C": "FIFA",
+        "D": "EPL Board"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which organization is responsible for enforcing financial fair play rules in English football?",
+      "options": {
+        "A": "The Premier League",
+        "B": "UEFA",
+        "C": "The Football Association (FA)",
+        "D": "FIFA"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following teams is a member of the Premier League?",
+      "options": {
+        "A": "Real Madrid",
+        "B": "Bayern Munich",
+        "C": "Manchester United",
+        "D": "Barcelona"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which clubs compete in the Manchester Derby?",
+      "options": {
+        "A": "Liverpool and Manchester United",
+        "B": "Manchester City and Manchester United",
+        "C": "Chelsea and Arsenal",
+        "D": "Liverpool and Everton"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the historic rivalry between Manchester United and Liverpool called?",
+      "options": {
+        "A": "The National Derby",
+        "B": "The Manchester Derby",
+        "C": "They are nor rivals",
+        "D": "The El Clásico of England"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which two clubs have been the primary contenders for the Premier League title in recent years?",
+      "options": {
+        "A": "Manchester City and Liverpool",
+        "B": "Manchester United and Arsenal",
+        "C": "Chelsea and Tottenham",
+        "D": "Liverpool and Manchester United"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which club has historically provided many players for the England National Team?",
+      "options": {
+        "A": "Barcelona",
+        "B": "Manchester United",
+        "C": "Bayern Munich",
+        "D": "Juventus"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which organization is responsible for approving player registrations and transfers in the Premier League?",
+      "options": {
+        "A": "UEFA",
+        "B": "The Football Association (FA)",
+        "C": "FIFA",
+        "D": "The Premier League Board"
+      },
+      "correct_answer": "B"
+    }
+  ],
+  "true_false": [
+    {
+      "question": "The FA is responsible for overseeing club football and the England National Team.",
+      "answer": true
+    },
+    {
+      "question": "Manchester United and Manchester City share a historic rivalry known as the Manchester Derby.",
+      "answer": true
+    },
+    {
+      "question": "Liverpool and Manchester United have no historical rivalry.",
+      "answer": false
+    },
+    {
+      "question": "The FA has complete ownership of the Premier League.",
+      "answer": false
+    },
+    {
+      "question": "Liverpool and Manchester City have competed for the Premier League title in recent years.",
+      "answer": true
+    },
+    {
+      "question": "Manchester United and Manchester City were founded in the same year.",
+      "answer": false
+    },
+    {
+      "question": "The FA is the governing body responsible for setting English football regulations.",
+      "answer": true
+    },
+    {
+      "question": "Manchester United and Liverpool's rivalry is based on their geographical locations rather than football success.",
+      "answer": false
+    },
+    {
+      "question": "The Premier League operates completely independently of The FA.",
+      "answer": false
+    },
+    {
+      "question": "Manchester City’s rise in English football is largely attributed to financial investment in recent decades.",
+      "answer": true
+    },
+    {
+      "question": "Liverpool and Manchester City are in the ame league",
+      "answer": true
+    },
+    {
+      "question": "True or False: The FA governs both club football and the England National Team.",
+      "answer": true
+    },
+    {
+      "question": "True or False: The Premier League and The Football Association (FA) operate independently with no connection.",
+      "answer": false
+    },
+    {
+      "question": "True or False: The FA has no influence over club football and only focuses on international tournaments.",
+      "answer": false
+    },
+    {
+      "question": "True or False: Manchester United and Liverpool’s rivalry continues for a long time",
+      "answer": true
+    },
+    {
+      "question": "True or False: Manchester City and Liverpool have become title contenders in the modern Premier League era.",
+      "answer": true
+    },
+    {
+      "question": "True or False: Manchester United and Manchester City do not support the English National Team.",
+      "answer": false
+    },
+    {
+      "question": "True or False: The England National Team is managed by the Premier League.",
+      "answer": false
+    },
+    {
+      "question": "True or False: The Manchester Derby is the rivalry between Manchester United and Manchester City.",
+      "answer": true
+    },
+    {
+      "question": "True or False: Liverpool and Manchester City have been title rivals in recent Premier League seasons.",
+      "answer": true
+    }
+  ]
+}

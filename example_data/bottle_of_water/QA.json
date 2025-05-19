@@ -1,0 +1,554 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What type of object is shown in the image?",
+      "options": {
+        "A": "A plastic cup",
+        "B": "A glass",
+        "C": "A ceramic mug",
+        "D": "A metal tumbler"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the primary material of the object?",
+      "options": {
+        "A": "Plastic",
+        "B": "Glass",
+        "C": "Metal",
+        "D": "Wood"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the predominant color of the glass?",
+      "options": {
+        "A": "Transparent with a slight blue tint",
+        "B": "Completely colorless",
+        "C": "Green-tinted",
+        "D": "Brown"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the primary function of the object?",
+      "options": {
+        "A": "To hold drinking liquid",
+        "B": "To store small objects",
+        "C": "To be used as a candle holder",
+        "D": "To be a decorative piece"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is a unique design feature of the glass?",
+      "options": {
+        "A": "It has a faceted surface for better grip",
+        "B": "It has a handle",
+        "C": "It is collapsible",
+        "D": "It has an insulated layer"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the approximate volume capacity of the glass?",
+      "options": {
+        "A": "200ml",
+        "B": "300ml",
+        "C": "400ml",
+        "D": "600ml"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Is the glass suitable for holding hot liquids?",
+      "options": {
+        "A": "Yes, it is heat-resistant",
+        "B": "No, it is only for cold beverages",
+        "C": "Yes, but only for short durations",
+        "D": "It cannot hold any liquid"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Is the glass dishwasher safe?",
+      "options": {
+        "A": "Yes, it is dishwasher safe",
+        "B": "No, it should be hand washed only",
+        "C": "Only on the top rack",
+        "D": "It cannot be cleaned with water"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What makes this glass practical for everyday use?",
+      "options": {
+        "A": "It is made of durable glass",
+        "B": "It has a built-in straw",
+        "C": "It is unbreakable",
+        "D": "It has a heating element"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why does the glass have a transparent body?",
+      "options": {
+        "A": "To allow the user to see the liquid inside",
+        "B": "To make it difficult to hold",
+        "C": "To reduce durability",
+        "D": "To prevent condensation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why does the glass of <bottle_of_water> have vertical ridges?",
+      "options": {
+        "A": "To reduce its weight",
+        "B": "For decoration only",
+        "C": "To improve grip and stability",
+        "D": "To allow hot water flow"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What evidence suggests <bottle_of_water> was used recently?",
+      "options": {
+        "A": "It has a straw",
+        "B": "Condensation droplets are visible",
+        "C": "It is cracked",
+        "D": "The water is colored"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What design element helps prevent <bottle_of_water> from tipping over?",
+      "options": {
+        "A": "Heavy top",
+        "B": "Rounded bottom",
+        "C": "Stable base and tapered shape",
+        "D": "Flexible plastic layer"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which observation supports that the glass is made for cold drinks?",
+      "options": {
+        "A": "Visible steam inside",
+        "B": "Droplets form on the outside",
+        "C": "Double-wall insulation",
+        "D": "It has a cover"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "How can we infer that the material is glass?",
+      "options": {
+        "A": "It has a matte surface",
+        "B": "It reflects light and is transparent with ridges",
+        "C": "It looks soft to the touch",
+        "D": "There is a rubber texture"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What suggests that <bottle_of_water> is unbranded?",
+      "options": {
+        "A": "It has large logo text",
+        "B": "The glass is clear with no visible markings",
+        "C": "There is a sticker on the base",
+        "D": "The rim is colored"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Why is the slight blue tint significant in <bottle_of_water>?",
+      "options": {
+        "A": "Indicates it's a designer glass",
+        "B": "Aesthetic and material trace element reflection",
+        "C": "Signals temperature safety",
+        "D": "Shows it’s for medicinal use"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which feature allows <bottle_of_water> to be used outdoors despite being glass?",
+      "options": {
+        "A": "Shatterproof plastic lining",
+        "B": "Textured grip and wide base",
+        "C": "Flexible silicone bottom",
+        "D": "Built-in cork"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What can be inferred from the tapered top and wide mouth of <bottle_of_water>?",
+      "options": {
+        "A": "It is used for pouring sauces",
+        "B": "It aids in easy drinking and cleaning",
+        "C": "It makes it lighter",
+        "D": "It is easier to seal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What makes <bottle_of_water> different from other similar size glasses?",
+      "options": {
+        "A": "Its colored lid",
+        "B": "Its faceted vertical ridges and slight blue tint",
+        "C": "It is metal inside",
+        "D": "It has markings on the outside"
+      },
+      "correct_answer": "B"
+    },
+  {
+    "question": "What is the primary purpose of the vertical ridges on <bottle_of_water>?",
+    "options": {
+      "A": "To make it stackable",
+      "B": "To allow for light diffusion",
+      "C": "To improve grip and prevent slippage",
+      "D": "To reduce weight"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What structural design helps <bottle_of_water> maintain stability on flat surfaces?",
+    "options": {
+      "A": "Rubberized base",
+      "B": "Widened bottom diameter",
+      "C": "Tapered top and faceted body",
+      "D": "Weight-distribution ring"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "How can we infer that <bottle_of_water> is used for cold liquids?",
+    "options": {
+      "A": "It has a wide opening",
+      "B": "There are water droplets on the outer surface",
+      "C": "It is made of plastic",
+      "D": "It contains bubbles inside"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which feature ensures that <bottle_of_water> can be comfortably held for extended periods?",
+    "options": {
+      "A": "Small size",
+      "B": "Insulated inner layer",
+      "C": "Textured, contoured surface",
+      "D": "Elastic strap"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What about the transparency of <bottle_of_water> adds functional value?",
+    "options": {
+      "A": "Reflects external heat",
+      "B": "Helps monitor liquid level",
+      "C": "Improves air circulation",
+      "D": "Allows UV sterilization"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the most likely reason <bottle_of_water> lacks a handle?",
+    "options": {
+      "A": "It reduces cost",
+      "B": "The grip-friendly design makes a handle unnecessary",
+      "C": "It is designed to be disposable",
+      "D": "It is part of a pair"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which detail helps distinguish <bottle_of_water> as a reusable container?",
+    "options": {
+      "A": "Its curved mouthpiece",
+      "B": "Its thick walls and ridged texture",
+      "C": "Its light weight",
+      "D": "Its resealable sticker"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why is the absence of branding significant in <bottle_of_water>'s design?",
+    "options": {
+      "A": "It’s intended for children",
+      "B": "It allows it to blend aesthetically in any setting",
+      "C": "It improves manufacturing precision",
+      "D": "It reflects medical certification"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What visual evidence suggests that <bottle_of_water> is currently filled?",
+    "options": {
+      "A": "The shape is distorted",
+      "B": "There are bubbles forming on the surface",
+      "C": "Light refraction lines and visible water meniscus",
+      "D": "A label floats inside"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What would be a likely impact of removing the vertical ridges from <bottle_of_water>?",
+    "options": {
+      "A": "It would increase volume",
+      "B": "It would reduce grip and make the surface slippery",
+      "C": "It would be easier to clean",
+      "D": "It would glow under UV"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which design element of <bottle_of_water> enhances both functionality and aesthetics?",
+    "options": {
+      "A": "Colorful bands",
+      "B": "Vertical facets",
+      "C": "Matte paint",
+      "D": "Floating scale indicator"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "The blueish tint of <bottle_of_water> likely results from:",
+    "options": {
+      "A": "An applied coating",
+      "B": "A glass impurity or aesthetic choice in material",
+      "C": "The color of the contents",
+      "D": "Temperature-based chemical reaction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Why might someone choose <bottle_of_water> over a plastic cup?",
+    "options": {
+      "A": "It is lighter",
+      "B": "It provides more insulation",
+      "C": "It offers greater durability and environmental value",
+      "D": "It costs less"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What kind of context best fits the design and style of <bottle_of_water>?",
+    "options": {
+      "A": "Formal dinner tableware",
+      "B": "Camping gear",
+      "C": "Office or minimalist household setting",
+      "D": "Medical utility"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What makes the base of <bottle_of_water> effective in terms of balance?",
+    "options": {
+      "A": "It is filled with weighted gel",
+      "B": "It has a large, flat surface",
+      "C": "It contains a suction cup",
+      "D": "It is concave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which observation would indicate that <bottle_of_water> is intended for frequent reuse?",
+    "options": {
+      "A": "Delicate rim",
+      "B": "Lightweight plastic build",
+      "C": "Sturdy glass thickness and wear resistance",
+      "D": "Disposable cap"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What reasoning best supports that the bottle contains water?",
+    "options": {
+      "A": "It has foam",
+      "B": "It is completely transparent and lacks bubbles or color",
+      "C": "There is a cap",
+      "D": "It is labeled 'clear'"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which of these is most likely the capacity range for <bottle_of_water>?",
+    "options": {
+      "A": "100 mL",
+      "B": "250 mL",
+      "C": "400 mL",
+      "D": "1 liter"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What function does the slight outward flare near the top serve?",
+    "options": {
+      "A": "To direct airflow",
+      "B": "To support stacking",
+      "C": "To aid pouring and drinking",
+      "D": "To house a screw cap"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What could make the bottle’s design more sustainable without changing its shape?",
+    "options": {
+      "A": "Adding colored LED lighting",
+      "B": "Replacing the glass with bioplastic",
+      "C": "Using thicker double-walled metal",
+      "D": "Adding plastic reinforcements"
+    },
+    "correct_answer": "B"
+  }
+  ],
+  "fill_in_the_blank": [
+    {
+      "question": "The object in the image is a _______.",
+      "answer": "glass"
+    },
+    {
+      "question": "The glass has a slight _______ tint.",
+      "answer": "blue"
+    },
+    {
+      "question": "The primary function of the glass is to hold _______.",
+      "answer": "drinks"
+    },
+    {
+      "question": "The glass has a _______ design to provide better grip.",
+      "answer": "faceted"
+    },
+    {
+      "question": "The glass is made of _______ material, making it durable and transparent.",
+      "answer": "glass"
+    },
+    {
+      "question": "The glass in the image is used primarily to hold _______.",
+      "answer": "water"
+    },
+    {
+      "question": "The object has a _______ design to enhance grip.",
+      "answer": "faceted"
+    },
+    {
+      "question": "The slight blue hue in <bottle_of_water> comes from the _______.",
+      "answer": "glass material"
+    },
+    {
+      "question": "<bottle_of_water> has no branding or _______ visible.",
+      "answer": "label"
+    },
+    {
+      "question": "The capacity of <bottle_of_water> is approximately _______.",
+      "answer": "400ml"
+    },
+    {
+      "question": "The condensation on the glass suggests the beverage is _______.",
+      "answer": "cold"
+    },
+    {
+      "question": "The structured design of the glass improves both _______ and visual aesthetics.",
+      "answer": "grip"
+    },
+    {
+      "question": "The glass is likely _______ safe, though handwashing is preferred.",
+      "answer": "dishwasher"
+    },
+    {
+      "question": "Its thick base helps prevent _______ during use.",
+      "answer": "tipping"
+    },
+    {
+      "question": "The transparency of <bottle_of_water> allows the user to monitor the _______ level.",
+      "answer": "liquid"
+    }
+  ],
+  "true_false": [
+    {
+      "question": "The glass is made of plastic.",
+      "answer": false
+    },
+    {
+      "question": "The glass is heat-resistant and can hold hot liquids safely.",
+      "answer": false
+    },
+    {
+      "question": "The glass has a faceted surface that improves grip.",
+      "answer": true
+    },
+    {
+      "question": "The glass is dishwasher safe.",
+      "answer": true
+    },
+    {
+      "question": "The glass has a built-in handle for easier holding.",
+      "answer": false
+    },
+  {
+    "question": "<bottle_of_water> is made of glass.",
+    "answer": true
+  },
+  {
+    "question": "The color of <bottle_of_water> is due to a blue tint in the material.",
+    "answer": true
+  },
+  {
+    "question": "The design includes vertical ridges to aid grip.",
+    "answer": true
+  },
+  {
+    "question": "<bottle_of_water> has a handle for carrying.",
+    "answer": false
+  },
+  {
+    "question": "The liquid inside <bottle_of_water> is transparent.",
+    "answer": true
+  },
+  {
+    "question": "<bottle_of_water> has branding printed on the side.",
+    "answer": false
+  },
+  {
+    "question": "The tapering shape of the glass makes it less stable.",
+    "answer": false
+  },
+  {
+    "question": "The presence of droplets indicates recent use with a cold beverage.",
+    "answer": true
+  },
+  {
+    "question": "<bottle_of_water> can only be used indoors due to its design.",
+    "answer": false
+  },
+  {
+    "question": "The base of the glass is narrower than the top.",
+    "answer": true
+  },
+  {
+    "question": "The glass is insulated for hot beverages.",
+    "answer": false
+  },
+  {
+    "question": "The surface of the glass is entirely smooth with no design texture.",
+    "answer": false
+  },
+  {
+    "question": "Its visual appeal is enhanced by a slight blue tint.",
+    "answer": true
+  },
+  {
+    "question": "The vertical facets are purely decorative.",
+    "answer": false
+  },
+  {
+    "question": "The volume of the glass makes it ideal for single servings.",
+    "answer": true
+  }
+  ],
+  "essay": [
+    {
+      "question": "Describe the design, functionality, and usability of the glass.",
+      "answer": "The glass is a transparent drinking vessel with a slight blue tint. It is made of durable glass, which allows users to see the liquid inside while drinking. The faceted surface enhances grip, reducing the likelihood of slipping. It has a moderate capacity of approximately 400ml, making it suitable for everyday use. The glass is dishwasher safe, adding convenience for maintenance. However, it is primarily designed for cold beverages and is not heat-resistant. The simple yet functional design makes it a practical choice for home and office use."
+    }
+  ]
+}

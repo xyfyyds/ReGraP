@@ -1,0 +1,45 @@
+{
+    "nodes": [
+        {"id": "Owner", "type": "Person"},
+        {"id": "Computer", "type": "Device"},
+        {"id": "Monitor", "type": "Device"},
+        {"id": "Keyboard", "type": "Device"},
+        {"id": "Mouse", "type": "Device"},
+        {"id": "Headphones", "type": "Device"},
+        {"id": "Workspace", "type": "Environment"}
+    ],
+    "edges": [
+        {"from": "Owner", "to": "Computer", "relation": "owns"},
+        {"from": "Owner", "to": "Monitor", "relation": "owns"},
+        {"from": "Owner", "to": "Keyboard", "relation": "owns"},
+        {"from": "Owner", "to": "Mouse", "relation": "owns"},
+        {"from": "Owner", "to": "Headphones", "relation": "owns"},
+        {"from": "Owner", "to": "Workspace", "relation": "customizes"},
+
+        {"from": "Computer", "to": "Monitor", "relation": "connected_by_wire"},
+        {"from": "Computer", "to": "Keyboard", "relation": "connected_by_wire"},
+        {"from": "Computer", "to": "Mouse", "relation": "connected_by_bluetooth"},
+        {"from": "Computer", "to": "Headphones", "relation": "connected_by_wire"},
+
+        {"from": "Mouse", "to": "Computer", "relation": "controls_cursor"},
+        {"from": "Keyboard", "to": "Computer", "relation": "inputs_data"},
+
+        {"from": "Mouse", "to": "Monitor", "relation": "affects_cursor"},
+        {"from": "Keyboard", "to": "Monitor", "relation": "affects_text_display"},
+
+        {"from": "Monitor", "to": "Computer", "relation": "displays_output"},
+        {"from": "Headphones", "to": "Computer", "relation": "plays_audio"},
+
+        {"from": "Owner", "to": "Monitor", "relation": "adjusts_display_settings"},
+        {"from": "Owner", "to": "Mouse", "relation": "adjusts_dpi_settings"},
+        {"from": "Owner", "to": "Keyboard", "relation": "customizes_keybindings"},
+        {"from": "Owner", "to": "Headphones", "relation": "adjusts_audio_settings"},
+
+        {"from": "Owner", "to": "Workspace", "relation": "arranges_devices"},
+        {"from": "Workspace", "to": "Computer", "relation": "contains"},
+        {"from": "Workspace", "to": "Monitor", "relation": "contains"},
+        {"from": "Workspace", "to": "Keyboard", "relation": "contains"},
+        {"from": "Workspace", "to": "Mouse", "relation": "contains"},
+        {"from": "Workspace", "to": "Headphones", "relation": "contains"}
+    ]
+}

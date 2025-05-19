@@ -1,0 +1,1482 @@
+{
+    "./yollava-data/train/electronic_devices/0.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/1.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/2.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/3.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/4.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/5.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/6.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/7.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/8.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/9.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/10.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/11.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/12.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/13.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/14.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/15.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/16.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/17.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/18.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ],
+    "./yollava-data/train/electronic_devices/19.png": [
+        {
+            "Human": "What is the brand of the keyboard?",
+            "AI": "The keyboard is a Filco keyboard."
+        },
+        {
+            "Human": "What is the brand of the mouse?",
+            "AI": "The mouse is an Asus ROG mouse."
+        },
+        {
+            "Human": "What is the brand of the computer?",
+            "AI": "The computer is an Asus ROG laptop."
+        },
+        {
+            "Human": "What is the brand of the monitor?",
+            "AI": "The monitor is a Philips monitor."
+        },
+        {
+            "Human": "What is the brand of the headphones?",
+            "AI": "The headphones are Bose headphones."
+        },
+        {
+            "Human": "What is the relation between the workspace and the devices?",
+            "AI": "The workspace contains the Asus ROG laptop, Philips monitor, Filco keyboard, Asus ROG mouse, and Bose headphones. The setup is arranged for ergonomic efficiency, with an external keyboard and mouse positioned in front of the laptop for comfort. The monitor is used as a secondary screen, and the headphones are wired, suggesting frequent use in an active session."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the computer?",
+            "AI": "The Filco keyboard is a wired external input device connected to the Asus ROG laptop via a physical cable. This ensures a stable and latency-free typing experience, which is ideal for productivity and gaming. The wired connection means the keyboard does not require battery charging."
+        },
+        {
+            "Human": "What is the relation between the mouse and the computer?",
+            "AI": "The Asus ROG mouse is connected to the Asus ROG laptop via Bluetooth. Since there is no visible cable, it is using a wireless, specifically Bluetooth connection, allowing for a clutter-free desk setup."
+        },
+        {
+            "Human": "What is the relation between the monitor and the computer?",
+            "AI": "The Philips monitor is connected to the Asus ROG laptop via a wired connection, it supports HDMI and DP, and now is using HDMI. The wired connection ensures high-quality video output without latency, allowing the monitor to serve as an extended display for multitasking."
+        },
+        {
+            "Human": "What is the relation between the headphones and the computer?",
+            "AI": "The Bose headphones are connected to the Asus ROG laptop using a wired connection. Even though the headphones support both wired and wireless (Bluetooth) modes, they are currently using a physical cable. Wired connections provide lower latency and better audio quality compared to Bluetooth, making them ideal for tasks requiring precise audio synchronization, such as video editing or gaming."
+        },
+        {
+            "Human": "What is the relation between the keyboard and the monitor?",
+            "AI": "The Filco keyboard does not directly connect to the Philips monitor but instead inputs data into the Asus ROG laptop, which then displays the corresponding text or commands on both the laptop screen and the monitor."
+        },
+        {
+            "Human": "What is the relation between the mouse and the monitor?",
+            "AI": "The Asus ROG mouse indirectly affects the Philips monitor by controlling the cursor on the extended display. Since the mouse is connected to the Asus ROG laptop via Bluetooth, its movements are reflected on both the laptop screen and the monitor when in extended mode."
+        },
+        {
+            "Human": "What is the relation between the owner and the workspace?",
+            "AI": "The owner customizes and arranges the workspace to maximize efficiency and usability. The choice of a wired keyboard and monitor suggests a preference for stability, while the use of a Bluetooth mouse reduces desk clutter. The wired headphones indicate that the owner prioritizes high-quality audio output."
+        },
+        {
+            "Human": "How does the choice of a wired keyboard affect the setup?",
+            "AI": "The Filco keyboard is wired, meaning it has a direct, stable connection without requiring battery charging. This ensures reliability for prolonged use but limits mobility since the keyboard must remain near the laptop."
+        },
+        {
+            "Human": "How does the choice of a Bluetooth mouse affect the setup?",
+            "AI": "The Asus ROG mouse is connected via Bluetooth, allowing for wireless usage and a cleaner workspace."
+        },
+        {
+            "Human": "How does the choice of a wired monitor affect the setup?",
+            "AI": "The Philips monitor is connected via a wired cable, ensuring a high-bandwidth, stable video connection. This allows for a smooth dual-screen experience without concerns about wireless display lag or interference."
+        },
+        {
+            "Human": "How does the choice of wired headphones affect the setup?",
+            "AI": "The Bose headphones, though capable of wireless operation, are currently connected via a wired connection. This setup provides superior sound quality and eliminates concerns about Bluetooth latency, making it ideal for real-time audio tasks such as gaming, video editing, or calls."
+        },
+        {
+            "Human": "What is the overall impact of wired and wireless connections in this setup?",
+            "AI": "The setup uses a mix of wired and wireless connections to optimize reliability and convenience. The keyboard and monitor are wired, ensuring stable input and video output. The mouse is Bluetooth, reducing desk clutter at the cost of slight latency. The headphones, although capable of wireless use, are wired in this scenario for superior audio quality. This balance suggests the owner prioritizes performance while maintaining a clean workspace."
+        }
+    ]
+}

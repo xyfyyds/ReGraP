@@ -1,0 +1,439 @@
+{
+  "multiple_choice": [
+    {
+      "question": "What is the color of the laptop's keyboard?",
+      "options": {
+        "A": "Black",
+        "B": "Silver",
+        "C": "White",
+        "D": "Gray"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which company manufactures the laptop?",
+      "options": {
+        "A": "Acer",
+        "B": "Lenovo",
+        "C": "MSI",
+        "D": "ASUS"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which sticker indicates the presence of a dedicated graphics card?",
+      "options": {
+        "A": "Intel Core Ultra",
+        "B": "GeForce RTX",
+        "C": "Windows",
+        "D": "AMD Ryzen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Where is the power button located on this laptop?",
+      "options": {
+        "A": "Above the keyboard",
+        "B": "Top right of the keyboard",
+        "C": "Below the screen",
+        "D": "On the left edge"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which brand is shown on the green and black sticker?",
+      "options": {
+        "A": "Intel",
+        "B": "AMD",
+        "C": "GeForce",
+        "D": "ROG"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the layout of the keyboard?",
+      "options": {
+        "A": "Tenkeyless",
+        "B": "With numpad",
+        "C": "Split",
+        "D": "Ergonomic"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is located to the right of the keyboard?",
+      "options": {
+        "A": "Trackpad",
+        "B": "Speaker grille",
+        "C": "Touchscreen",
+        "D": "Fingerprint reader"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What shape is the power button?",
+      "options": {
+        "A": "Rectangle",
+        "B": "Circle",
+        "C": "Hexagon",
+        "D": "Pentagon"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What symbol appears on the Intel sticker?",
+      "options": {
+        "A": "Intel Xe",
+        "B": "Intel i5",
+        "C": "Intel Core Ultra",
+        "D": "Intel Evo"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is the dominant touchpad color?",
+      "options": {
+        "A": "Black",
+        "B": "Silver",
+        "C": "Gray",
+        "D": "White"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What key is labeled below 'Delete' on the top row?",
+      "options": {
+        "A": "Home",
+        "B": "Insert",
+        "C": "Power",
+        "D": "Print Screen"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Where is the charging port located?",
+      "options": {
+        "A": "Back of the laptop",
+        "B": "Left side",
+        "C": "Right side",
+        "D": "Front edge"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What label is next to the 'END' key?",
+      "options": {
+        "A": "F11",
+        "B": "PGUP",
+        "C": "PGDN",
+        "D": "INSERT"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which brand’s gaming series does this laptop belong to?",
+      "options": {
+        "A": "TUF",
+        "B": "Legion",
+        "C": "ROG",
+        "D": "Predator"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which key is placed directly above the arrow keys?",
+      "options": {
+        "A": "F12",
+        "B": "Delete",
+        "C": "Backspace",
+        "D": "Shift"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What logo is present below the power button?",
+      "options": {
+        "A": "Intel",
+        "B": "Windows",
+        "C": "ROG Eye",
+        "D": "Asus Text"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which key is to the left of the 'Enter' key?",
+      "options": {
+        "A": "Shift",
+        "B": "Backslash",
+        "C": "Quotes",
+        "D": "Semicolon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "The touchpad appears to be:",
+      "options": {
+        "A": "Offset right",
+        "B": "Centered to screen",
+        "C": "Centered to keyboard",
+        "D": "Below numpad"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which key row contains 'HOME', 'PGUP', 'PGDN', and 'END'?",
+      "options": {
+        "A": "Function keys",
+        "B": "Top row",
+        "C": "Rightmost column",
+        "D": "Bottom row"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is written below the keyboard on the left?",
+      "options": {
+        "A": "ASUS ROG",
+        "B": "Intel Core Ultra",
+        "C": "Windows",
+        "D": "AMD Ryzen"
+      },
+      "correct_answer": "B"
+    },
+    // REASONING QUESTIONS START
+
+    {
+      "question": "Which feature suggests that the laptop is optimized for gaming?",
+      "options": {
+        "A": "Presence of speaker grille",
+        "B": "GeForce RTX sticker",
+        "C": "White keyboard",
+        "D": "Power button shape"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What evidence suggests this laptop might have good audio quality?",
+      "options": {
+        "A": "Large touchpad",
+        "B": "ROG label",
+        "C": "Dual speaker grilles",
+        "D": "White keyboard layout"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which feature helps distinguish this from a MacBook?",
+      "options": {
+        "A": "Metallic chassis",
+        "B": "Touchpad",
+        "C": "Brand stickers",
+        "D": "Black screen bezel"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "If the laptop has no numpad, what might be the advantage?",
+      "options": {
+        "A": "Smaller form factor",
+        "B": "Higher battery life",
+        "C": "Faster GPU",
+        "D": "Touchscreen support"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why is the charging cable likely connected to the left side?",
+      "options": {
+        "A": "Right side is for HDMI",
+        "B": "Trackpad avoids conflict",
+        "C": "More thermal space on left",
+        "D": "Common design layout"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which design choice improves typing comfort?",
+      "options": {
+        "A": "Centered power button",
+        "B": "Smooth touchpad surface",
+        "C": "Isolated directional keys",
+        "D": "Numpad exclusion"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Why is the keyboard likely backlit?",
+      "options": {
+        "A": "High-end gaming laptop",
+        "B": "Color of keys",
+        "C": "Speaker grille hint",
+        "D": "Wide hinge"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which component likely aids airflow and sound?",
+      "options": {
+        "A": "Screen hinge",
+        "B": "Touchpad",
+        "C": "Speaker grilles",
+        "D": "Power cable"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What suggests premium build quality?",
+      "options": {
+        "A": "Center hinge design",
+        "B": "Polished touchpad",
+        "C": "White keyboard",
+        "D": "Stickers indicating high-end specs"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which factor implies the laptop is used for heavy tasks?",
+      "options": {
+        "A": "Gaming logo",
+        "B": "GeForce RTX GPU",
+        "C": "Windows logo key",
+        "D": "White color"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What may indicate that this laptop is newer generation?",
+      "options": {
+        "A": "Large screen",
+        "B": "Intel Core Ultra label",
+        "C": "No HDMI port visible",
+        "D": "Minimal branding"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which sticker highlights GPU capabilities?",
+      "options": {
+        "A": "Intel Core",
+        "B": "ROG",
+        "C": "GeForce RTX",
+        "D": "Energy Star"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What does the sticker position suggest?",
+      "options": {
+        "A": "For marketing visibility",
+        "B": "For personalization",
+        "C": "To identify warranty region",
+        "D": "To show warranty void area"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What might the speaker grille enhance besides sound?",
+      "options": {
+        "A": "Cooling airflow",
+        "B": "Keyboard feedback",
+        "C": "Battery longevity",
+        "D": "Trackpad gestures"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Why is the touchpad large in this model?",
+      "options": {
+        "A": "Gaming feature",
+        "B": "Absence of touchscreen",
+        "C": "Productivity optimization",
+        "D": "No numpad present"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which direction does the charging cable exit from the laptop?",
+      "options": {
+        "A": "Back",
+        "B": "Left",
+        "C": "Right",
+        "D": "Front"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following suggests the laptop supports discrete GPU rendering?",
+      "options": {
+        "A": "The presence of speaker grilles",
+        "B": "The shape of the power button",
+        "C": "The 'GeForce RTX' sticker",
+        "D": "The color of the screen bezel"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "The lack of a numpad on the keyboard implies the laptop is more likely optimized for:",
+      "options": {
+        "A": "Data entry",
+        "B": "Compactness and portability",
+        "C": "Server management",
+        "D": "Gaming with macros"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What additional branding is found near the arrow keys?",
+      "options": {
+        "A": "Republic of Gamers",
+        "B": "ASUS TUF",
+        "C": "A-PLUG/P-DOWN/P-UP",
+        "D": "Core i9"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What visual element supports symmetry in the laptop's design?",
+      "options": {
+        "A": "Centered touchpad",
+        "B": "Hexagonal power button",
+        "C": "Even speaker grills on both sides",
+        "D": "Offset trackpad"
+      },
+      "correct_answer": "C"
+    }
+  ],
+  "true_false": [
+  {
+    "question": "The laptop's keyboard is backlit.",
+    "answer": "True"
+  },
+  { "question": "There is a visible numeric keypad on the laptop.", "answer": "False" },
+  { "question": "The touchpad is centered relative to the whole chassis.", "answer": "False" },
+  { "question": "The laptop is manufactured by ASUS.", "answer": "True" },
+  { "question": "The speaker grilles are placed above the keyboard.", "answer": "False" },
+  { "question": "The Intel sticker indicates an Intel Core Ultra processor.", "answer": "True" },
+  { "question": "The charging port is located on the right-hand side of the laptop.", "answer": "False" },
+  { "question": "The power button has a hexagonal shape.", "answer": "True" },
+  { "question": "The laptop has both Intel and NVIDIA branding on its stickers.", "answer": "True" },
+  { "question": "The screen size appears to be less than 13 inches.", "answer": "False" },
+  { "question": "The ROG logo is visible near the top of the screen bezel.", "answer": "False" },
+  { "question": "The keyboard includes labeled function keys like 'PGUP' and 'END'.", "answer": "True" },
+  { "question": "There are RGB light strips visible on the laptop body.", "answer": "False" },
+  { "question": "The laptop has a large glass trackpad.", "answer": "True" },
+  { "question": "The stickers are located to the right of the touchpad.", "answer": "False" }
+],
+  "fill_in_the_blank": [
+  { "question": "The laptop brand is ______.", "answer": "ASUS" },
+  { "question": "The gaming series of the laptop is ______.", "answer": "ROG" },
+  { "question": "The graphics card series is ______.", "answer": "GeForce RTX" },
+  { "question": "The processor type is ______.", "answer": "Intel Core Ultra" },
+  { "question": "The power button has a ______ shape.", "answer": "hexagonal" },
+  { "question": "The keyboard layout is ______ (with/without numpad).", "answer": "without numpad" },
+  { "question": "The speaker grilles are located on ______ of the keyboard.", "answer": "both sides" },
+  { "question": "The 'PGUP' key is part of the ______ key cluster.", "answer": "right column" },
+  { "question": "The trackpad is aligned to the ______ of the keyboard.", "answer": "center" },
+  { "question": "The left palm rest area contains ______ stickers.", "answer": "Intel and NVIDIA" }
+]
+}
+
