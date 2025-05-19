@@ -15,7 +15,7 @@ def get_train_args():
     parser = argparse.ArgumentParser()
 
     # parser.add_argument("--model_path", type=str, default="liuhaotian/llava-v1.6-vicuna-13b")
-    parser.add_argument("--model_path", type=str, default="./liuhaotian/llava-v1.6-vicuna-7b")
+    parser.add_argument("--model_path", type=str, default="liuhaotian/llava-v1.6-vicuna-7b")
     parser.add_argument("--model_base", type=str, default=None)
     parser.add_argument("--model_name", type=str, default=None)
     parser.add_argument("--conv_mode", type=str, default=None)
