@@ -20,9 +20,9 @@
 
 
 ## Method ⚙️
-> We utilize KGs and CoT reasoning data (CoT QA pairs) to encode personalized knowledge, 
-> and train a personalized MLLM to learn the personalized concepts, heir attributes, and relations among them. 
-> The model is trained on LLaVA.
+
+> **TL;DR** 
+> We utilize KGs and CoT reasoning data (CoT QA pairs) to encode personalized knowledge, and train a personalized MLLM to learn the personalized concepts, heir attributes, and relations among them. The model is trained on LLaVA.
 ---
 
 ## ReGraP Dataset 📦 
